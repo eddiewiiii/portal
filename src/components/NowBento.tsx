@@ -20,6 +20,7 @@ interface NowBentoProps {
   items: NowItem[];
   variant?: "dark" | "light";
   linkTo?: string;
+    coverSource?: string; // 兼容 Home.tsx 传入；当前未消费，仅为通过类型检查  
 }
 
 /**

@@ -32,7 +32,8 @@
     "vite": "^6.0.0",
     "vite-plugin-singlefile": "^2.3.3"
   },
-  "pnpm": {
+     "pnpm": {  
     "onlyBuiltDependencies": ["esbuild"]
+
   }
 }
