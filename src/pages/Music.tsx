@@ -2,34 +2,19 @@ import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { fmSongs } from "@/content/fm";
 
-const ITUNES_COUNTRIES = ["US", "CN", "HK", "TW", "JP"];
-
-function fetchItunes(term: string, entity: "song", country: string): Promise<string | null> {
-  const url = `https://itunes.apple.com/search?term=${encodeURIComponent(term)}&limit=1&entity=${entity}&country=${country}`;
-  return fetch(url)
-    .then((r) => r.json())
-    .then((d) => {
-      const artwork = d?.results?.[0]?.artworkUrl100 as string | undefined;
-      return artwork ? artwork.replace("100x100", "300x300") : null;
-    });
-}
-
-/** 运行时拉 iTunes 封面，多地区回退覆盖华语/日韩 */
+/** 运行时经 /api/cover 拉 iTunes 封面（服务端代理，规避 CORS + 多地区回退统一在服务端） */
 function useCover(artist: string, title: string): string | null {
   const [cover, setCover] = useState<string | null>(null);
 
   useEffect(() => {
     let cancelled = false;
-    const term = `${artist} ${title}`;
-    (async () => {
-      for (const country of ITUNES_COUNTRIES) {
-        const url = await fetchItunes(term, "song", country);
-        if (url) {
-          if (!cancelled) setCover(url);
-          return;
-        }
-      }
-    })();
+    const params = new URLSearchParams({ type: "music", artist, title });
+    fetch(`/api/cover?${params.toString()}`)
+      .then((r) => r.json())
+      .then((d) => {
+        if (!cancelled && d?.url) setCover(d.url);
+      })
+      .catch(() => {});
     return () => {
       cancelled = true;
     };
