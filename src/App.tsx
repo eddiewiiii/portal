@@ -5,7 +5,6 @@ import Footer from "@/components/Footer";
 import Home from "@/pages/Home";
 import Writing from "@/pages/Writing";
 import Article from "@/pages/Article";
-import Lists from "@/pages/Lists";
 import About from "@/pages/About";
 
 function ScrollToTop() {
@@ -26,7 +25,6 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/writing" element={<Writing />} />
           <Route path="/writing/:id" element={<Article />} />
-          <Route path="/lists" element={<Lists />} />
           <Route path="/about" element={<About />} />
           <Route path="*" element={<Home />} />
         </Routes>

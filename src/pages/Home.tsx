@@ -59,21 +59,18 @@ export default function Home() {
         subtitleKey="now.listening_sub"
         items={nowListening}
         variant="light"
-        linkTo="/lists"
       />
       <NowBento
         titleKey="now.reading_title"
         subtitleKey="now.reading_sub"
         items={nowReading}
         variant="light"
-        linkTo="/lists"
       />
       <NowBento
         titleKey="now.watching_title"
         subtitleKey="now.watching_sub"
         items={nowWatching}
         variant="light"
-        linkTo="/lists"
       />
 
       {/* Writing list - 默认 5 篇 + 加载更多 */}
