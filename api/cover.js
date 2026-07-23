@@ -1,6 +1,3 @@
-// api/cover.js — Vercel 无服务器函数
-// GET /api/cover?type=music|movie|book&artist=...&title=...&isbn=...
-// 返回 JSON: { url: string|null }
 const ITUNES_COUNTRIES = ["US", "CN", "HK", "TW", "JP"];
 
 async function itunes(term, entities, mediaMap) {
@@ -36,25 +33,34 @@ async function openLibrary({ isbn, title, artist }) {
 }
 
 export default async function handler(req, res) {
-  res.setHeader("Access-Control-Allow-Origin", "*");
   const { type, artist = "", title = "", isbn = "" } = req.query;
-  let url = null;
+  let upstream = null;
   try {
     if (type === "book") {
-      url = await openLibrary({ isbn, title, artist });
+      upstream = await openLibrary({ isbn, title, artist });
     } else if (type === "movie") {
-      // 先试剧集(tvSeason),再试电影(movie)
-      url = await itunes(`${artist} ${title}`, ["tvSeason", "movie"], {
+      upstream = await itunes(`${artist} ${title}`, ["tvSeason", "movie"], {
         tvSeason: "tvShow",
         movie: "movie",
       });
     } else {
-      // 音乐:先 song 再 album
-      url = await itunes(`${artist} ${title}`, ["song", "album"], {
+      upstream = await itunes(`${artist} ${title}`, ["song", "album"], {
         song: "music",
         album: "music",
       });
     }
   } catch (_) {}
-  res.status(200).json({ url });
+
+  if (!upstream) return res.status(404).end();
+
+  try {
+    const r = await fetch(upstream);
+    if (!r.ok) return res.status(502).end();
+    const buf = await r.arrayBuffer();
+    res.setHeader("Content-Type", r.headers.get("content-type") || "image/jpeg");
+    res.setHeader("Cache-Control", "public, max-age=86400, s-maxage=86400, stale-while-revalidate");
+    return res.status(200).send(Buffer.from(buf));
+  } catch (_) {
+    return res.status(502).end();
+  }
 }
