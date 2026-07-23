@@ -42,64 +42,6 @@ export const nowWatching: NowItem[] = [
   { id: "w5", titleKey: "now.w5_title", creatorKey: "now.w5_creator", noteKey: "now.w5_note", tag: "War · 2023", emoji: "🎭", cover: "/now/w5.jpg" },
 ];
 
-export interface Album {
-  id: string;
-  rank: number;
-  titleKey: string;
-  artistKey: string;
-  yearKey: string;
-  noteKey: string;
-  cover: string;
-}
-
-export const albums: Album[] = [
-  { id: "01", rank: 1, titleKey: "albums.a01_title", artistKey: "albums.a01_artist", yearKey: "albums.a01_year", noteKey: "albums.a01_note", cover: "/albums/01.jpg" },
-  { id: "02", rank: 2, titleKey: "albums.a02_title", artistKey: "albums.a02_artist", yearKey: "albums.a02_year", noteKey: "albums.a02_note", cover: "/albums/02.jpg" },
-  { id: "03", rank: 3, titleKey: "albums.a03_title", artistKey: "albums.a03_artist", yearKey: "albums.a03_year", noteKey: "albums.a03_note", cover: "/albums/03.jpg" },
-  { id: "04", rank: 4, titleKey: "albums.a04_title", artistKey: "albums.a04_artist", yearKey: "albums.a04_year", noteKey: "albums.a04_note", cover: "/albums/04.jpg" },
-  { id: "05", rank: 5, titleKey: "albums.a05_title", artistKey: "albums.a05_artist", yearKey: "albums.a05_year", noteKey: "albums.a05_note", cover: "/albums/05.jpg" },
-];
-
-export interface ListGroup {
-  id: string;
-  type: "movie" | "book";
-  titleKey: string;
-  descKey: string;
-  emoji: string;
-  items: { titleKey: string; creatorKey: string; noteKey: string }[];
-}
-
-export const listGroups: ListGroup[] = [
-  {
-    id: "movies",
-    type: "movie",
-    titleKey: "lists.movies_title",
-    descKey: "lists.movies_desc",
-    emoji: "🎬",
-    items: [
-      { titleKey: "lists.m1_title", creatorKey: "lists.m1_creator", noteKey: "lists.m1_note" },
-      { titleKey: "lists.m2_title", creatorKey: "lists.m2_creator", noteKey: "lists.m2_note" },
-      { titleKey: "lists.m3_title", creatorKey: "lists.m3_creator", noteKey: "lists.m3_note" },
-      { titleKey: "lists.m4_title", creatorKey: "lists.m4_creator", noteKey: "lists.m4_note" },
-      { titleKey: "lists.m5_title", creatorKey: "lists.m5_creator", noteKey: "lists.m5_note" },
-    ],
-  },
-  {
-    id: "books",
-    type: "book",
-    titleKey: "lists.books_title",
-    descKey: "lists.books_desc",
-    emoji: "📚",
-    items: [
-      { titleKey: "lists.b1_title", creatorKey: "lists.b1_creator", noteKey: "lists.b1_note" },
-      { titleKey: "lists.b2_title", creatorKey: "lists.b2_creator", noteKey: "lists.b2_note" },
-      { titleKey: "lists.b3_title", creatorKey: "lists.b3_creator", noteKey: "lists.b3_note" },
-      { titleKey: "lists.b4_title", creatorKey: "lists.b4_creator", noteKey: "lists.b4_note" },
-      { titleKey: "lists.b5_title", creatorKey: "lists.b5_creator", noteKey: "lists.b5_note" },
-    ],
-  },
-];
-
 export interface SkillGroup {
   id: string;
   titleKey: string;
