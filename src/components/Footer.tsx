@@ -1,3 +1,4 @@
+```tsx
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
@@ -7,6 +8,7 @@ export default function Footer() {
   const navItems = [
     { to: "/", label: t("nav.home") },
     { to: "/writing", label: t("nav.writing") },
+    { to: "/music", label: t("nav.music") },
     { to: "/about", label: t("nav.about") },
   ];
 
@@ -21,7 +23,7 @@ export default function Footer() {
       </Link>
 
       <nav>
-        <ul className="flex gap-8">
+        <ul className="flex gap-4 sm:gap-8">
           {navItems.map((item) => (
             <li key={item.to}>
               <Link
@@ -37,3 +39,4 @@ export default function Footer() {
     </footer>
   );
 }
+```
