@@ -17,9 +17,11 @@ export default function Header() {
       <div className="max-w-[1440px] mx-auto flex items-center justify-between px-5 sm:px-8 lg:px-12 py-4">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 flex-shrink-0">
-          <div className="w-7 h-7 bg-ink rounded-md flex items-center justify-center text-bg text-xs font-black">
-            ZY
-          </div>
+          <img
+            src="/logo.png"
+            alt="周聿川 EDDIE"
+            className="w-7 h-7 rounded-md object-contain"
+          />
           <span
             className="font-display font-extrabold tracking-tight text-lg hidden sm:block"
             style={{ letterSpacing: "-0.5px" }}
