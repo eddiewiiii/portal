@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import type { NowItem } from "@/content/collections";
@@ -14,37 +14,20 @@ interface NowBentoProps {
   coverSource: CoverSource;
 }
 
-/** 运行时经 /api/cover 拉封面（服务端代理，规避 CORS 与 iTunes 实体/分区问题） */
-function useCover(item: NowItem, source: CoverSource): string | null {
-  const [cover, setCover] = useState<string | null>(null);
-
-  useEffect(() => {
-    let cancelled = false;
-    const params = new URLSearchParams();
-    if (source === "openlibrary") {
-      params.set("type", "book");
-      if (item.isbn) params.set("isbn", item.isbn);
-    } else if (source === "itunes-movie") {
-      params.set("type", "movie");
-    } else {
-      params.set("type", "music");
-    }
-    params.set("artist", item.creator.en);
-    params.set("title", item.title.en);
-
-    fetch(`/api/cover?${params.toString()}`)
-      .then((r) => r.json())
-      .then((d) => {
-        if (!cancelled && d?.url) setCover(d.url);
-      })
-      .catch(() => {});
-
-    return () => {
-      cancelled = true;
-    };
-  }, [item.title.en, item.creator.en, item.isbn, source]);
-
-  return cover;
+/** 经 /api/cover 代理的图片地址（服务端抓图转发，绕开中国大陆对境外 CDN 的屏蔽） */
+function coverUrlFor(item: NowItem, source: CoverSource): string {
+  const p = new URLSearchParams();
+  if (source === "openlibrary") {
+    p.set("type", "book");
+    if (item.isbn) p.set("isbn", item.isbn);
+  } else if (source === "itunes-movie") {
+    p.set("type", "movie");
+  } else {
+    p.set("type", "music");
+  }
+  p.set("artist", item.creator.en);
+  p.set("title", item.title.en);
+  return `/api/cover?${p.toString()}`;
 }
 
 function BentoCell({
@@ -63,8 +46,15 @@ function BentoCell({
   const { t, i18n } = useTranslation();
   const lang = i18n.language === "en" ? "en" : "zh";
   const [active, setActive] = useState(false);
-  const cover = useCover(item, coverSource) || item.cover || null;
-  const hasCover = !!cover;
+  const [src, setSrc] = useState<string | null>(coverUrlFor(item, coverSource));
+
+  const onErr = () => {
+    // 代理图失败：先回退本地图，再不行就显示底色占位
+    if (item.cover && src !== item.cover) setSrc(item.cover);
+    else setSrc(null);
+  };
+
+  const hasCover = !!src;
 
   return (
     <div
@@ -80,9 +70,10 @@ function BentoCell({
     >
       {hasCover && (
         <img
-          src={cover}
+          src={src as string}
           alt={item.title[lang]}
           loading="lazy"
+          onError={onErr}
           className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
         />
       )}
