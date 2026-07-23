@@ -9,7 +9,6 @@ export default function Header() {
   const navItems = [
     { to: "/", label: t("nav.home") },
     { to: "/writing", label: t("nav.writing") },
-    { to: "/lists", label: t("nav.lists") },
     { to: "/about", label: t("nav.about") },
   ];
 
