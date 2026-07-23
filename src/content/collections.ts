@@ -3,6 +3,16 @@ import l2Cover from "@/assets/now/l2.jpg";
 import l3Cover from "@/assets/now/l3.jpg";
 import l4Cover from "@/assets/now/l4.jpg";
 import l5Cover from "@/assets/now/l5.jpg";
+import r1Cover from "@/assets/now/r1.jpg";
+import r2Cover from "@/assets/now/r2.jpg";
+import r3Cover from "@/assets/now/r3.jpg";
+import r4Cover from "@/assets/now/r4.jpg";
+import r5Cover from "@/assets/now/r5.jpg";
+import w1Cover from "@/assets/now/w1.jpg";
+import w2Cover from "@/assets/now/w2.jpg";
+import w3Cover from "@/assets/now/w3.jpg";
+import w4Cover from "@/assets/now/w4.jpg";
+import w5Cover from "@/assets/now/w5.jpg";
 
 export interface NowItem {
   id: string;
@@ -27,19 +37,19 @@ export const nowListening: NowItem[] = [
 ];
 
 export const nowReading: NowItem[] = [
-  { id: "r1", titleKey: "now.r1_title", creatorKey: "now.r1_creator", noteKey: "now.r1_note", tag: "Philosophy · 2004", emoji: "📖", cover: "/now/r1.jpg" },
-  { id: "r2", titleKey: "now.r2_title", creatorKey: "now.r2_creator", noteKey: "now.r2_note", tag: "Psychology · 2024", emoji: "📚", cover: "/now/r2.jpg" },
-  { id: "r3", titleKey: "now.r3_title", creatorKey: "now.r3_creator", noteKey: "now.r3_note", tag: "Philosophy · 2008", emoji: "📰", cover: "/now/r3.jpg" },
-  { id: "r4", titleKey: "now.r4_title", creatorKey: "now.r4_creator", noteKey: "now.r4_note", tag: "Memoir · 2019", emoji: "📔", cover: "/now/r4.jpg" },
-  { id: "r5", titleKey: "now.r5_title", creatorKey: "now.r5_creator", noteKey: "now.r5_note", tag: "Philosophy · 2016", emoji: "📒", cover: "/now/r5.jpg" },
+  { id: "r1", titleKey: "now.r1_title", creatorKey: "now.r1_creator", noteKey: "now.r1_note", tag: "Philosophy · 2004", emoji: "📖", cover: r1Cover },
+  { id: "r2", titleKey: "now.r2_title", creatorKey: "now.r2_creator", noteKey: "now.r2_note", tag: "Psychology · 2024", emoji: "📚", cover: r2Cover },
+  { id: "r3", titleKey: "now.r3_title", creatorKey: "now.r3_creator", noteKey: "now.r3_note", tag: "Philosophy · 2008", emoji: "📰", cover: r3Cover },
+  { id: "r4", titleKey: "now.r4_title", creatorKey: "now.r4_creator", noteKey: "now.r4_note", tag: "Memoir · 2019", emoji: "📔", cover: r4Cover },
+  { id: "r5", titleKey: "now.r5_title", creatorKey: "now.r5_creator", noteKey: "now.r5_note", tag: "Philosophy · 2016", emoji: "📒", cover: r5Cover },
 ];
 
 export const nowWatching: NowItem[] = [
-  { id: "w1", titleKey: "now.w1_title", creatorKey: "now.w1_creator", noteKey: "now.w1_note", tag: "Drama · 2023", emoji: "🎬", cover: "/now/w1.jpg" },
-  { id: "w2", titleKey: "now.w2_title", creatorKey: "now.w2_creator", noteKey: "now.w2_note", tag: "Drama · 2023", emoji: "🎞️", cover: "/now/w2.jpg" },
-  { id: "w3", titleKey: "now.w3_title", creatorKey: "now.w3_creator", noteKey: "now.w3_note", tag: "Drama · 2022", emoji: "🎥", cover: "/now/w3.jpg" },
-  { id: "w4", titleKey: "now.w4_title", creatorKey: "now.w4_creator", noteKey: "now.w4_note", tag: "Drama · 2018", emoji: "🍿", cover: "/now/w4.jpg" },
-  { id: "w5", titleKey: "now.w5_title", creatorKey: "now.w5_creator", noteKey: "now.w5_note", tag: "Drama · 2021", emoji: "🎭", cover: "/now/w5.jpg" },
+  { id: "w1", titleKey: "now.w1_title", creatorKey: "now.w1_creator", noteKey: "now.w1_note", tag: "Drama · 2023", emoji: "🎬", cover: w1Cover },
+  { id: "w2", titleKey: "now.w2_title", creatorKey: "now.w2_creator", noteKey: "now.w2_note", tag: "Drama · 2023", emoji: "🎞️", cover: w2Cover },
+  { id: "w3", titleKey: "now.w3_title", creatorKey: "now.w3_creator", noteKey: "now.w3_note", tag: "Drama · 2022", emoji: "🎥", cover: w3Cover },
+  { id: "w4", titleKey: "now.w4_title", creatorKey: "now.w4_creator", noteKey: "now.w4_note", tag: "Drama · 2018", emoji: "🍿", cover: w4Cover },
+  { id: "w5", titleKey: "now.w5_title", creatorKey: "now.w5_creator", noteKey: "now.w5_note", tag: "Drama · 2021", emoji: "🎭", cover: w5Cover },
 ];
 
 export interface SkillGroup {
