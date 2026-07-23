@@ -4,11 +4,13 @@ export interface NowItem {
   id: string;
   emoji: string;
   tag: string;
-  /** 封面图：运行时从 public/now/ 读取，换图不用改代码，只需替换 public/now 下同名文件并重新部署 */
-  cover: string;
+  /** 封面改为运行时拉取（iTunes / Open Library）；此字段可留空，留着则作为拉取失败时的兜底 */
+  cover?: string;
   title: { zh: string; en: string };
   creator: { zh: string; en: string };
   note: { zh: string; en: string };
+  /** 书（reading）可选填 ISBN，提高 Open Library 封面命中率；不填则按书名+作者搜 */
+  isbn?: string;
 }
 
 // 「此刻」三组时令性内容 - 每组 5 条
