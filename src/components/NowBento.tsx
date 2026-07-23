@@ -14,53 +14,30 @@ interface NowBentoProps {
   coverSource: CoverSource;
 }
 
-const ITUNES_COUNTRIES = ["US", "CN", "HK", "TW", "JP"];
-
-function fetchItunes(term: string, entity: "album" | "movie", country: string): Promise<string | null> {
-  const url = `https://itunes.apple.com/search?term=${encodeURIComponent(term)}&limit=1&entity=${entity}&country=${country}`;
-  return fetch(url)
-    .then((r) => r.json())
-    .then((d) => {
-      const artwork = d?.results?.[0]?.artworkUrl100 as string | undefined;
-      return artwork ? artwork.replace("100x100", "300x300") : null;
-    });
-}
-
-/** 运行时拉封面：音乐/影视走 iTunes（多地区回退），书走 Open Library */
+/** 运行时经 /api/cover 拉封面（服务端代理，规避 CORS 与 iTunes 实体/分区问题） */
 function useCover(item: NowItem, source: CoverSource): string | null {
   const [cover, setCover] = useState<string | null>(null);
 
   useEffect(() => {
     let cancelled = false;
-    const enTitle = item.title.en;
-    const enCreator = item.creator.en;
-
-    const done = (url: string | null) => {
-      if (!cancelled && url) setCover(url);
-    };
-
+    const params = new URLSearchParams();
     if (source === "openlibrary") {
-      const params = item.isbn
-        ? `isbn=${encodeURIComponent(item.isbn)}`
-        : `title=${encodeURIComponent(enTitle)}&author=${encodeURIComponent(enCreator)}`;
-      fetch(`https://openlibrary.org/search.json?${params}&limit=1`)
-        .then((r) => r.json())
-        .then((d) => {
-          const id = d?.docs?.[0]?.cover_i;
-          if (id) done(`https://covers.openlibrary.org/b/id/${id}-L.jpg`);
-        })
-        .catch(() => {});
-      return;
+      params.set("type", "book");
+      if (item.isbn) params.set("isbn", item.isbn);
+    } else if (source === "itunes-movie") {
+      params.set("type", "movie");
+    } else {
+      params.set("type", "music");
     }
+    params.set("artist", item.creator.en);
+    params.set("title", item.title.en);
 
-    const entity = source === "itunes-music" ? "album" : "movie";
-    const term = `${enCreator} ${enTitle}`;
-    (async () => {
-      for (const country of ITUNES_COUNTRIES) {
-        const url = await fetchItunes(term, entity, country);
-        if (url) { done(url); return; }
-      }
-    })();
+    fetch(`/api/cover?${params.toString()}`)
+      .then((r) => r.json())
+      .then((d) => {
+        if (!cancelled && d?.url) setCover(d.url);
+      })
+      .catch(() => {});
 
     return () => {
       cancelled = true;
