@@ -13,9 +13,11 @@ export default function Footer() {
   return (
     <footer className="border-t border-border px-5 sm:px-8 lg:px-12 py-8 flex items-center justify-between">
       <Link to="/" className="flex items-center gap-2">
-        <div className="w-7 h-7 bg-ink rounded-md flex items-center justify-center text-bg text-[10px] font-black">
-          ZY
-        </div>
+        <img
+          src="/logo.png"
+          alt="周聿川 EDDIE"
+          className="w-7 h-7 rounded-md object-contain"
+        />
       </Link>
 
       <nav>
