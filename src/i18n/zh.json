@@ -2,6 +2,7 @@
   "nav": {
     "home": "首页",
     "writing": "写作",
+    "music": "歌单",
     "about": "关于"
   },
   "hero": {
@@ -115,6 +116,11 @@
     "ops_items": ["内容运营", "社群运营", "BD 合作", "资源整合"],
     "tools_title": "工具栈",
     "tools_items": ["Notion", "Figma", "飞书", "剪映", "Cursor"]
+  },
+  "music": {
+    "page_title": "私人 FM",
+    "page_sub": "我的白天和黑夜，都在这里了。",
+    "page_desc": "{{count}} 首歌，{{count}} 个故事。"
   },
   "skills": {
     "brand_title": "品牌",
