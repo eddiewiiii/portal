@@ -1,40 +1,23 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { fmSongs } from "@/content/fm";
 
-/** 运行时经 /api/cover 拉 iTunes 封面（服务端代理，规避 CORS + 多地区回退统一在服务端） */
-function useCover(artist: string, title: string): string | null {
-  const [cover, setCover] = useState<string | null>(null);
-
-  useEffect(() => {
-    let cancelled = false;
-    const params = new URLSearchParams({ type: "music", artist, title });
-    fetch(`/api/cover?${params.toString()}`)
-      .then((r) => r.json())
-      .then((d) => {
-        if (!cancelled && d?.url) setCover(d.url);
-      })
-      .catch(() => {});
-    return () => {
-      cancelled = true;
-    };
-  }, [artist, title]);
-
-  return cover;
-}
-
 function SongCard({ song }: { song: (typeof fmSongs)[number] }) {
-  const cover = useCover(song.artist, song.title);
+  const coverUrl = `/api/cover?type=music&artist=${encodeURIComponent(
+    song.artist
+  )}&title=${encodeURIComponent(song.title)}`;
+  const [src, setSrc] = useState<string | null>(coverUrl);
 
   return (
     <article className="relative bg-surface rounded-card border border-border p-6 sm:p-7 transition-colors hover:border-ink/40">
       <div className="flex gap-5">
         <div className="w-20 h-20 rounded-card overflow-hidden bg-ink/5 flex-shrink-0 flex items-center justify-center">
-          {cover ? (
+          {src ? (
             <img
-              src={cover}
+              src={src}
               alt={song.title}
               loading="lazy"
+              onError={() => setSrc(null)}
               className="w-full h-full object-cover"
             />
           ) : (
