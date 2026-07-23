@@ -1,12 +1,60 @@
+import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { fmSongs } from "@/content/fm";
+
+function SongCard({ song }: { song: (typeof fmSongs)[number] }) {
+  const [cover, setCover] = useState<string | null>(null);
+
+  useEffect(() => {
+    const q = encodeURIComponent(`${song.artist} ${song.title}`);
+    fetch(`https://itunes.apple.com/search?term=${q}&limit=1&entity=song`)
+      .then((r) => r.json())
+      .then((d) => {
+        const url = d?.results?.[0]?.artworkUrl100;
+        if (url) setCover(url.replace("100x100", "300x300"));
+      })
+      .catch(() => {});
+  }, [song.artist, song.title]);
+
+  return (
+    <article className="relative bg-surface rounded-card border border-border p-6 sm:p-7 transition-colors hover:border-ink/40">
+      <div className="flex gap-5">
+        <div className="w-20 h-20 rounded-card overflow-hidden bg-ink/5 flex-shrink-0 flex items-center justify-center">
+          {cover ? (
+            <img
+              src={cover}
+              alt={song.title}
+              loading="lazy"
+              className="w-full h-full object-cover"
+            />
+          ) : (
+            <span className="font-display text-xl text-ink-faint">
+              {song.title.charAt(0)}
+            </span>
+          )}
+        </div>
+        <div className="min-w-0">
+          <h2 className="font-display text-xl font-bold text-ink leading-snug break-words">
+            {song.title}
+          </h2>
+          <div className="text-sm text-ink-faint mt-1">
+            {song.artist}
+            {song.album && <span className="text-ink-faint/70"> · {song.album}</span>}
+          </div>
+        </div>
+      </div>
+      <p className="text-[15px] text-ink-muted leading-relaxed border-t border-border pt-4 mt-4">
+        {song.review}
+      </p>
+    </article>
+  );
+}
 
 export default function Music() {
   const { t } = useTranslation();
 
   return (
     <>
-      {/* Hero */}
       <section className="bg-ink text-bg py-16 px-5 sm:px-8 lg:px-12">
         <div className="max-w-[1440px] mx-auto">
           <h1 className="text-section-title font-display text-bg mb-4 lowercase">
@@ -21,28 +69,10 @@ export default function Music() {
         </div>
       </section>
 
-      {/* Song grid */}
       <section className="px-5 sm:px-8 lg:px-12 py-20">
         <div className="max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
           {fmSongs.map((song, i) => (
-            <article
-              key={i}
-              className="relative bg-surface rounded-card border border-border p-6 sm:p-7 transition-colors hover:border-ink/40"
-            >
-              <div className="absolute -top-3 left-6 w-10 h-10 rounded-full bg-bg border border-border flex items-center justify-center text-xl shadow-sm">
-                {song.emoji}
-              </div>
-              <h2 className="font-display text-xl font-bold text-ink mt-3 mb-1 leading-snug">
-                {song.title}
-              </h2>
-              <div className="text-sm text-ink-faint mb-4">
-                {song.artist}
-                {song.album && <span className="text-ink-faint/70"> · {song.album}</span>}
-              </div>
-              <p className="text-[15px] text-ink-muted leading-relaxed border-t border-border pt-4">
-                {song.review}
-              </p>
-            </article>
+            <SongCard key={i} song={song} />
           ))}
         </div>
       </section>
