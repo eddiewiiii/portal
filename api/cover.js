@@ -1,4 +1,3 @@
-```js
 export default async function handler(req, res) {
   const url = Array.isArray(req.query.url) ? req.query.url[0] : req.query.url;
   const { type, artist, title } = req.query;
@@ -57,4 +56,3 @@ export default async function handler(req, res) {
     res.end();
   }
 }
-```
