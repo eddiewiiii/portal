@@ -99,50 +99,43 @@ export default function Resume() {
 
   return (
     <>
-      {/* Hero */}
-      <section className="bg-ink text-bg py-20 px-5 sm:px-8 lg:px-12 relative overflow-hidden">
-        <div
-          className="absolute inset-0 z-[1]"
-          style={{
-            background:
-              "radial-gradient(circle at 50% 30%, rgba(255,255,255,0.08) 0%, transparent 60%)",
-          }}
-        />
-        <div className="relative z-[3] max-w-4xl mx-auto text-center">
-          <h1 className="font-display text-5xl sm:text-7xl font-black tracking-tight mb-4">
+      {/* Hero —— 与首页 Hero 保持一致：浅色 / 左对齐 / text-hero-title */}
+      <section className="bg-bg text-ink pt-20 pb-24 px-5 sm:px-8 lg:px-12">
+        <div className="relative z-[3] max-w-4xl">
+          <h1 className="font-display text-hero-title font-black tracking-tight mb-4 lowercase">
             {t("resume.hero_name")}{" "}
-            <span className="text-bg/50 font-normal">{t("resume.hero_en")}</span>
+            <span className="text-ink-faint font-normal">{t("resume.hero_en")}</span>
           </h1>
-          <p className="text-lg sm:text-xl text-bg/70 max-w-2xl mx-auto mb-6 leading-relaxed">
+          <p className="text-lg sm:text-xl text-ink-muted max-w-2xl mb-6 leading-relaxed">
             {t("resume.hero_sub1")}
             <br />
             {t("resume.hero_sub2")}
           </p>
 
-          <div className="flex flex-wrap justify-center gap-2 mb-8">
+          <div className="flex flex-wrap justify-start gap-2 mb-8">
             {[1, 2, 3, 4].map((i) => (
               <span
                 key={i}
-                className="px-3 py-1 bg-bg/10 text-bg/80 text-sm rounded-full"
+                className="px-3 py-1 bg-surface text-ink-muted text-sm rounded-full border border-border"
               >
                 {t(`resume.tag${i}`)}
               </span>
             ))}
           </div>
 
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-6 text-sm text-bg/70">
+          <div className="flex flex-col sm:flex-row items-start sm:items-center gap-3 sm:gap-6 text-sm text-ink-muted">
             <div className="flex items-center gap-2">
-              <Phone size={16} className="text-bg/50" />
+              <Phone size={16} className="text-ink-faint" />
               <span>{t("resume.contact_phone")}</span>
             </div>
-            <span className="hidden sm:inline text-bg/30">|</span>
-            <a href={`mailto:${t("resume.contact_email")}`} className="hover:text-bg transition-colors">
+            <span className="hidden sm:inline text-ink-faint">|</span>
+            <a href={`mailto:${t("resume.contact_email")}`} className="hover:text-ink transition-colors">
               {t("resume.contact_email")}
             </a>
-            <span className="hidden sm:inline text-bg/30">|</span>
+            <span className="hidden sm:inline text-ink-faint">|</span>
             <Link
-              to="/writing"
-              className="inline-flex items-center gap-1.5 px-4 py-2 bg-bg text-ink rounded-full font-bold hover:opacity-90 transition-opacity"
+              to="/cases"
+              className="inline-flex items-center gap-1.5 px-4 py-2 bg-ink text-bg rounded-full font-bold hover:opacity-90 transition-opacity"
             >
               {t("resume.cta_case")}
               <ArrowRight size={16} />
@@ -295,7 +288,7 @@ export default function Resume() {
             </h3>
             <p className="text-bg/60 mb-5 max-w-xl mx-auto">{t("resume.case_desc")}</p>
             <Link
-              to="/writing"
+              to="/cases"
               className="inline-flex items-center gap-2 bg-bg text-ink px-5 py-3 rounded-full font-bold hover:opacity-90 transition-opacity"
             >
               {t("resume.case_cta")}

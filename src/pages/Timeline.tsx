@@ -1,6 +1,7 @@
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import { ArrowRight } from "lucide-react";
+import PageHero from "@/components/PageHero";
 
 const TIMELINE = [
   { year: "2025", titleKey: "timeline.t1_title", subKey: "timeline.t1_sub", tagKey: "timeline.t1_tag" },
@@ -15,34 +16,27 @@ export default function Timeline() {
 
   return (
     <>
-      {/* Hero */}
-      <section className="bg-bg px-5 sm:px-8 lg:px-12 py-16 relative overflow-hidden">
-        <div
-          className="absolute top-[-50px] left-1/2 -translate-x-1/2 w-[800px] h-[500px] pointer-events-none"
-          style={{
-            background:
-              "radial-gradient(ellipse at center, rgba(94,106,210,0.12) 0%, rgba(139,92,246,0.06) 40%, transparent 70%)",
-            filter: "blur(40px)",
-          }}
-        />
-        <div className="relative z-[3] max-w-4xl mx-auto text-center">
-          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-black text-ink tracking-tight mb-5">
+      {/* Hero —— 与首页 Hero 保持一致：浅色 / 左对齐 / text-hero-title */}
+      <PageHero
+        title={
+          <>
             周聿川 <span className="text-ink-faint font-normal">EDDIE</span>
-          </h1>
-          <p className="text-lg sm:text-xl text-ink-muted max-w-2xl mx-auto mb-6 leading-relaxed">
-            {t("timeline.hero_sub1")}
-            <br />
-            {t("timeline.hero_sub2")}
-          </p>
-          <Link
-            to="/resume"
-            className="inline-flex items-center gap-2 bg-ink text-bg font-medium px-6 py-3 rounded-full text-sm hover:opacity-90 transition-opacity"
-          >
-            {t("timeline.btn_resume")}
-            <ArrowRight size={16} />
-          </Link>
-        </div>
-      </section>
+          </>
+        }
+      >
+        <p className="text-base leading-[1.8] text-ink-muted max-w-[520px] mb-8">
+          {t("timeline.hero_sub1")}
+          <br />
+          {t("timeline.hero_sub2")}
+        </p>
+        <Link
+          to="/resume"
+          className="inline-flex items-center gap-2 bg-ink text-bg font-medium px-6 py-3 rounded-full text-sm hover:opacity-90 transition-opacity"
+        >
+          {t("timeline.btn_resume")}
+          <ArrowRight size={16} />
+        </Link>
+      </PageHero>
 
       {/* Timeline */}
       <section className="px-5 sm:px-8 lg:px-12 py-12">

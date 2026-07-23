@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
 import { Download, Copy, Check, ExternalLink } from "lucide-react";
+import PageHero from "@/components/PageHero";
 
 const CASES = [
   { cat: "品牌手册", catKey: "cases.tag1", brand: "cases.brand1", title: "cases.title1", desc: "cases.desc1", type: "cases.type1" },
@@ -58,41 +59,28 @@ export default function Cases() {
 
   return (
     <>
-      {/* Hero */}
-      <section className="bg-bg px-5 sm:px-8 lg:px-12 py-16 relative overflow-hidden">
-        <div
-          className="absolute top-[-50px] left-1/2 -translate-x-1/2 w-[800px] h-[500px] pointer-events-none"
-          style={{
-            background:
-              "radial-gradient(ellipse at center, rgba(94,106,210,0.12) 0%, rgba(139,92,246,0.06) 40%, transparent 70%)",
-            filter: "blur(40px)",
-          }}
-        />
-        <div className="relative z-[3] max-w-4xl mx-auto text-center">
-          <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-black text-ink tracking-tight mb-5">
-            {t("cases.hero_title")}
-          </h1>
-          <p className="text-lg sm:text-xl text-ink-muted max-w-2xl mx-auto mb-6 leading-relaxed">
-            {t("cases.hero_desc_line1")}
-            <br />
-            {t("cases.hero_desc_line2")}
-          </p>
-          <div className="flex flex-wrap justify-center gap-8 sm:gap-12 text-sm text-ink-muted mt-4">
-            <div>
-              <div className="font-display text-3xl font-black text-ink">20+</div>
-              <div>{t("cases.stat_docs")}</div>
-            </div>
-            <div>
-              <div className="font-display text-3xl font-black text-ink">5+</div>
-              <div>{t("cases.stat_fields")}</div>
-            </div>
-            <div>
-              <div className="font-display text-3xl font-black text-ink">10+</div>
-              <div>{t("cases.stat_brands")}</div>
-            </div>
+      {/* Hero —— 与首页 Hero 保持一致：浅色 / 左对齐 / text-hero-title */}
+      <PageHero title={t("cases.hero_title")}>
+        <p className="text-base leading-[1.8] text-ink-muted max-w-[520px] mb-12">
+          {t("cases.hero_desc_line1")}
+          <br />
+          {t("cases.hero_desc_line2")}
+        </p>
+        <div className="flex gap-8 sm:gap-12 text-sm text-ink-muted">
+          <div>
+            <div className="font-display text-3xl font-black text-ink">20+</div>
+            <div>{t("cases.stat_docs")}</div>
+          </div>
+          <div>
+            <div className="font-display text-3xl font-black text-ink">5+</div>
+            <div>{t("cases.stat_fields")}</div>
+          </div>
+          <div>
+            <div className="font-display text-3xl font-black text-ink">10+</div>
+            <div>{t("cases.stat_brands")}</div>
           </div>
         </div>
-      </section>
+      </PageHero>
 
       {/* Cases */}
       <section className="px-5 sm:px-8 lg:px-12 py-12">
