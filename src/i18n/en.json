@@ -2,6 +2,7 @@
   "nav": {
     "home": "Home",
     "writing": "Writing",
+    "music": "Playlist",
     "about": "About"
   },
   "hero": {
@@ -115,6 +116,11 @@
     "ops_items": ["Content ops", "Community", "BD", "Resource integration"],
     "tools_title": "Tools",
     "tools_items": ["Notion", "Figma", "Lark", "CapCut", "Cursor"]
+  },
+  "music": {
+    "page_title": "Private FM",
+    "page_sub": "My days and nights, all here.",
+    "page_desc": "{{count}} songs, {{count}} stories."
   },
   "skills": {
     "brand_title": "Brand",
