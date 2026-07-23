@@ -1,0 +1,258 @@
+[
+  {
+    "id": "cross-industry-brand",
+    "title_zh": "尖沙咀那间会议室的冷气",
+    "title_en": "The Air Conditioning in That Tsim Sha Tsui Meeting Room",
+    "date": "2026-07-20",
+    "summary_zh": "尖沙咀一间写字楼，冷气吹在后颈上，对面是我的合作方。",
+    "summary_en": "A tower in Tsim Sha Tsui, AC on the back of my neck, Asia Miles across the table.",
+    "tags_zh": [
+      "品牌",
+      "方法论"
+    ],
+    "tags_en": [
+      "Brand",
+      "Methodology"
+    ]
+  },
+  {
+    "id": "brand-zero-to-one",
+    "title_zh": "手心出汗的第一天",
+    "title_en": "Sweaty Palms on the First Day",
+    "date": "2026-07-18",
+    "summary_zh": "共享空间的工位，我打开Notion搭框架。",
+    "summary_en": "A co-working desk, rent just over a thousand a month. I opened Notion and started building.",
+    "tags_zh": [
+      "品牌",
+      "方法论"
+    ],
+    "tags_en": [
+      "Brand",
+      "Methodology"
+    ]
+  },
+  {
+    "id": "study-tour-competition",
+    "title_zh": "对面打了个哈欠的那个下午",
+    "title_en": "The Afternoon Someone Yawned Across the Table",
+    "date": "2026-07-16",
+    "summary_zh": "讲到第八页，对面打了个哈欠，没看我，在看窗外。",
+    "summary_en": "Page eight of the deck, the person across yawned, not looking at me, looking out the window.",
+    "tags_zh": [
+      "研学",
+      "观察"
+    ],
+    "tags_en": [
+      "Study Tour",
+      "Insight"
+    ]
+  },
+  {
+    "id": "three-industries-five",
+    "title_zh": "那通被挂掉三次的电话",
+    "title_en": "The Phone Call They Hung Up On Three Times",
+    "date": "2026-07-14",
+    "summary_zh": "那通电话被挂了三次，第四次对方终于听完，说再发个资料看看。",
+    "summary_en": "They hung up three times. The fourth call, they finally listened and said, send materials.",
+    "tags_zh": [
+      "职场",
+      "方法论"
+    ],
+    "tags_en": [
+      "Career",
+      "Methodology"
+    ]
+  },
+  {
+    "id": "cross-industry-job",
+    "title_zh": "面试官问我懂不懂车",
+    "title_en": "The Interviewer Asked If I Knew Cars",
+    "date": "2026-07-12",
+    "summary_zh": "面试官问我懂不懂车，我说不太懂，但可以学。",
+    "summary_en": "The interviewer asked if I knew cars. I said not really, but I can learn.",
+    "tags_zh": [
+      "职场",
+      "方法论"
+    ],
+    "tags_en": [
+      "Career",
+      "Methodology"
+    ]
+  },
+  {
+    "id": "career-decisions",
+    "title_zh": "2号线转6号线，单程四十分钟",
+    "title_en": "Line 2 to Line 6, Forty Minutes Each Way",
+    "date": "2026-07-10",
+    "summary_zh": "2号线转6号线，单程四十分钟，我靠着铁柱子数工卡。",
+    "summary_en": "Line 2 to Line 6, forty minutes each way. I leaned against the pole, counting badges.",
+    "tags_zh": [
+      "职场",
+      "观察"
+    ],
+    "tags_en": [
+      "Career",
+      "Insight"
+    ]
+  },
+  {
+    "id": "startup-choice",
+    "title_zh": "你说你想自己做一个东西",
+    "title_en": "You Said You Wanted to Build Something",
+    "date": "2026-07-08",
+    "summary_zh": "Flora把花甲壳吐在桌上，说最差的情况就是钱烧完了什么都没做出来。",
+    "summary_en": "Flora spat clam shells on the table. Worst case, she said, burn the money with nothing to show.",
+    "tags_zh": [
+      "职场",
+      "创业"
+    ],
+    "tags_en": [
+      "Career",
+      "Startup"
+    ]
+  },
+  {
+    "id": "bar-experiment",
+    "title_zh": "装修第八十三天，我盯着账单说不出话",
+    "title_en": "On the Eighty-Third Day of Renovation, I Stared at the Bill Without a Word",
+    "date": "2026-07-06",
+    "summary_zh": "水管走线多了一千八，老周在旁边抽完烟，扔掉烟蒂一脚踩灭。",
+    "summary_en": "Day eighty-three of renovation. Plumbing rerun, eighteen hundred more. Lao Zhou crushed his cigarette.",
+    "tags_zh": [
+      "创业",
+      "品牌"
+    ],
+    "tags_en": [
+      "Startup",
+      "Brand"
+    ]
+  },
+  {
+    "id": "changsha-cocktail",
+    "title_zh": "调酒师试到第九版，岳麓山的薄雾才出来",
+    "title_en": "On the Ninth Try, the Mist of Yuelu Mountain Finally Came Out",
+    "date": "2026-07-04",
+    "summary_zh": "试到第九版才点头，把杯子推到我面前，是灰蒙蒙的紫。",
+    "summary_en": "Xiao Tang nodded on the ninth try, pushed the glass over. A grayish purple.",
+    "tags_zh": [
+      "创业",
+      "品牌"
+    ],
+    "tags_en": [
+      "Startup",
+      "Brand"
+    ]
+  },
+  {
+    "id": "silver-tourism",
+    "title_zh": "五一广场全是年轻人",
+    "title_en": "Wuyi Square Was Full of Young People",
+    "date": "2026-06-24",
+    "summary_zh": "在茶颜悦色的一次闲聊，让我发现一个被忽略的需求。",
+    "summary_en": "A casual chat at a teahouse uncovered a demand no one was serving.",
+    "tags_zh": [
+      "旅游",
+      "观察"
+    ],
+    "tags_en": [
+      "Travel",
+      "Insight"
+    ]
+  },
+  {
+    "id": "brand0-1",
+    "title_zh": "灯关了大半，台灯还亮着",
+    "title_en": "Most Lights Off, the Desk Lamp Still On",
+    "date": "2026-06-22",
+    "summary_zh": "入职第一天，老板让我三十天搭出一套品牌体系。",
+    "summary_en": "Day one on the job: build an entire brand system in thirty days.",
+    "tags_zh": [
+      "品牌",
+      "方法论"
+    ],
+    "tags_en": [
+      "Brand",
+      "Methodology"
+    ]
+  },
+  {
+    "id": "visual-upgrade",
+    "title_zh": "那只企鹅近看是一张人脸",
+    "title_en": "Up Close, That Penguin Had a Human Face",
+    "date": "2026-06-21",
+    "summary_zh": "设计评审上吵了两小时，最后我指着一只有人脸的企鹅说，我们就选这个。",
+    "summary_en": "Two hours of arguing in a design review. Then I pointed at a penguin with a human face.",
+    "tags_zh": [
+      "品牌",
+      "设计"
+    ],
+    "tags_en": [
+      "Brand",
+      "Design"
+    ]
+  },
+  {
+    "id": "validate-brand",
+    "title_zh": "活动结束，那个妈妈说了句哦",
+    "title_en": "After the Session, That Mom Just Said Oh",
+    "date": "2026-06-19",
+    "summary_zh": "第一场活动结束，一个妈妈说了句\"哦\"就走了。",
+    "summary_en": "After the first session, a mom said \"oh\" and walked away.",
+    "tags_zh": [
+      "增长",
+      "研学"
+    ],
+    "tags_en": [
+      "Growth",
+      "Study Tour"
+    ]
+  },
+  {
+    "id": "ai-content-creation",
+    "title_zh": "我弃掉了那个最完美的选题",
+    "title_en": "I Threw Out the Perfect Topic",
+    "date": "2026-06-15",
+    "summary_zh": "有一天晚上，AI给我列了三十多个选题，其中一个看起来特别完美。",
+    "summary_en": "One night, AI gave me thirty-something topic ideas. One looked perfect.",
+    "tags_zh": [
+      "AI",
+      "观察"
+    ],
+    "tags_en": [
+      "AI",
+      "Insight"
+    ]
+  },
+  {
+    "id": "brand-trust",
+    "title_zh": "楼下那家没有招牌的面馆",
+    "title_en": "The Noodle Shop Below With No Sign",
+    "date": "2026-05-20",
+    "summary_zh": "客户问我能不能快一点出效果，我没有直接回答。",
+    "summary_en": "A client asked if we could get results faster. I didn't answer directly.",
+    "tags_zh": [
+      "阅读",
+      "品牌"
+    ],
+    "tags_en": [
+      "Reading",
+      "Brand"
+    ]
+  },
+  {
+    "id": "status-anxiety",
+    "title_zh": "凌晨两点多，我刷了很久朋友圈",
+    "title_en": "Past Two in the Morning, Scrolling My Feed for Too Long",
+    "date": "2026-04-17",
+    "summary_zh": "为一条九宫格Plog失眠的那晚，我意识到自己在等一个回应来证明自己算数。",
+    "summary_en": "The night I lost sleep over a nine-grid Plog, I realized I was waiting for a reply to prove I counted.",
+    "tags_zh": [
+      "阅读",
+      "观察"
+    ],
+    "tags_en": [
+      "Reading",
+      "Insight"
+    ]
+  }
+]
