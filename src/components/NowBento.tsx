@@ -20,13 +20,16 @@ function coverUrlFor(item: NowItem, source: CoverSource): string {
   if (source === "openlibrary") {
     p.set("type", "book");
     if (item.isbn) p.set("isbn", item.isbn);
+    p.set("title", item.title.en);
+    p.set("artist", item.creator.en);
   } else if (source === "itunes-movie") {
     p.set("type", "movie");
+    p.set("title", item.title.en); // 影视只用片名，不要导演名
   } else {
     p.set("type", "music");
+    p.set("artist", item.creator.en);
+    p.set("title", item.title.en);
   }
-  p.set("artist", item.creator.en);
-  p.set("title", item.title.en);
   return `/api/cover?${p.toString()}`;
 }
 
