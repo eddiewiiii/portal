@@ -35,11 +35,11 @@ export const nowReading: NowItem[] = [
 ];
 
 export const nowWatching: NowItem[] = [
-  { id: "w1", titleKey: "now.w1_title", creatorKey: "now.w1_creator", noteKey: "now.w1_note", tag: "Sci-Fi · 2024", emoji: "🎬", cover: "/now/w1.jpg" },
+  { id: "w1", titleKey: "now.w1_title", creatorKey: "now.w1_creator", noteKey: "now.w1_note", tag: "Drama · 2023", emoji: "🎬", cover: "/now/w1.jpg" },
   { id: "w2", titleKey: "now.w2_title", creatorKey: "now.w2_creator", noteKey: "now.w2_note", tag: "Drama · 2023", emoji: "🎞️", cover: "/now/w2.jpg" },
-  { id: "w3", titleKey: "now.w3_title", creatorKey: "now.w3_creator", noteKey: "now.w3_note", tag: "Biopic · 2023", emoji: "🎥", cover: "/now/w3.jpg" },
-  { id: "w4", titleKey: "now.w4_title", creatorKey: "now.w4_creator", noteKey: "now.w4_note", tag: "Drama · 2023", emoji: "🍿", cover: "/now/w4.jpg" },
-  { id: "w5", titleKey: "now.w5_title", creatorKey: "now.w5_creator", noteKey: "now.w5_note", tag: "War · 2023", emoji: "🎭", cover: "/now/w5.jpg" },
+  { id: "w3", titleKey: "now.w3_title", creatorKey: "now.w3_creator", noteKey: "now.w3_note", tag: "Drama · 2022", emoji: "🎥", cover: "/now/w3.jpg" },
+  { id: "w4", titleKey: "now.w4_title", creatorKey: "now.w4_creator", noteKey: "now.w4_note", tag: "Drama · 2018", emoji: "🍿", cover: "/now/w4.jpg" },
+  { id: "w5", titleKey: "now.w5_title", creatorKey: "now.w5_creator", noteKey: "now.w5_note", tag: "Drama · 2021", emoji: "🎭", cover: "/now/w5.jpg" },
 ];
 
 export interface SkillGroup {
