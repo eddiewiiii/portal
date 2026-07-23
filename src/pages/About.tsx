@@ -1,4 +1,5 @@
 import { useTranslation } from "react-i18next";
+import { Link } from "react-router-dom";
 import { Mail, Phone, FileText } from "lucide-react";
 import { skillGroups, influenceItems } from "@/content/collections";
 
@@ -127,7 +128,7 @@ export default function About() {
           </div>
 
           {/* Resume link */}
-          <a href="/resume.html" className="block p-8 bg-ink rounded-card-lg text-bg">
+          <Link to="/resume" className="block p-8 bg-ink rounded-card-lg text-bg hover:opacity-90 transition-opacity">
             <div className="flex items-start gap-4">
               <div className="w-12 h-12 rounded-full bg-bg/15 flex items-center justify-center flex-shrink-0">
                 <FileText size={20} />
@@ -139,7 +140,7 @@ export default function About() {
                 <p className="text-sm text-bg/60 leading-relaxed">{t("about.resume_note")}</p>
               </div>
             </div>
-          </a>
+          </Link>
         </div>
       </section>
     </>

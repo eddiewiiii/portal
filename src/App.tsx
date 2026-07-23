@@ -7,6 +7,7 @@ import Writing from "@/pages/Writing";
 import Article from "@/pages/Article";
 import About from "@/pages/About";
 import Music from "@/pages/Music";
+import Resume from "@/pages/Resume";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -28,6 +29,7 @@ export default function App() {
           <Route path="/writing/:id" element={<Article />} />
           <Route path="/about" element={<About />} />
           <Route path="/music" element={<Music />} />
+          <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </main>
