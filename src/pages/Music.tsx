@@ -2,19 +2,44 @@ import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { fmSongs } from "@/content/fm";
 
-function SongCard({ song }: { song: (typeof fmSongs)[number] }) {
+const ITUNES_COUNTRIES = ["US", "CN", "HK", "TW", "JP"];
+
+function fetchItunes(term: string, entity: "song", country: string): Promise<string | null> {
+  const url = `https://itunes.apple.com/search?term=${encodeURIComponent(term)}&limit=1&entity=${entity}&country=${country}`;
+  return fetch(url)
+    .then((r) => r.json())
+    .then((d) => {
+      const artwork = d?.results?.[0]?.artworkUrl100 as string | undefined;
+      return artwork ? artwork.replace("100x100", "300x300") : null;
+    });
+}
+
+/** 运行时拉 iTunes 封面，多地区回退覆盖华语/日韩 */
+function useCover(artist: string, title: string): string | null {
   const [cover, setCover] = useState<string | null>(null);
 
   useEffect(() => {
-    const q = encodeURIComponent(`${song.artist} ${song.title}`);
-    fetch(`https://itunes.apple.com/search?term=${q}&limit=1&entity=song`)
-      .then((r) => r.json())
-      .then((d) => {
-        const url = d?.results?.[0]?.artworkUrl100;
-        if (url) setCover(url.replace("100x100", "300x300"));
-      })
-      .catch(() => {});
-  }, [song.artist, song.title]);
+    let cancelled = false;
+    const term = `${artist} ${title}`;
+    (async () => {
+      for (const country of ITUNES_COUNTRIES) {
+        const url = await fetchItunes(term, "song", country);
+        if (url) {
+          if (!cancelled) setCover(url);
+          return;
+        }
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [artist, title]);
+
+  return cover;
+}
+
+function SongCard({ song }: { song: (typeof fmSongs)[number] }) {
+  const cover = useCover(song.artist, song.title);
 
   return (
     <article className="relative bg-surface rounded-card border border-border p-6 sm:p-7 transition-colors hover:border-ink/40">
