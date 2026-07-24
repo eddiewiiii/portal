@@ -20,7 +20,8 @@ export default function Timeline() {
       <PageHero
         title={
           <>
-            周聿川 <span className="text-ink-faint font-normal">EDDIE</span>
+            {t("resume.hero_name")}{" "}
+            <span className="text-ink-faint font-normal">{t("resume.hero_en")}</span>
           </>
         }
       >

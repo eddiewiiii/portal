@@ -114,17 +114,21 @@ export default function Cases() {
             {visible.map((c, i) => (
               <article
                 key={i}
-                className="bg-surface rounded-card border border-border p-6 flex flex-col group hover:shadow-sm transition-shadow"
+                className="group relative bg-surface-alt border border-border rounded-card p-6 flex flex-col overflow-hidden hover:border-ink/40 hover:shadow-sm transition-all"
               >
-                <div className="flex items-start justify-between mb-3">
-                  <span className="text-xs font-semibold bg-bg text-ink-muted px-2.5 py-1 rounded-full">
+                {/* 大号幽灵序号 —— 呼应 now/watching 的序号角标 */}
+                <span className="absolute -top-1 right-3 font-display font-black text-ink/10 text-5xl leading-none select-none group-hover:text-ink/15 transition-colors">
+                  {String(i + 1).padStart(2, "0")}
+                </span>
+                <div className="flex items-start justify-between mb-3 relative">
+                  <span className="text-xs font-semibold bg-ink text-bg px-2.5 py-1 rounded-full">
                     {t(c.catKey)}
                   </span>
                   <span className="text-xs text-ink-faint">{t(c.brand)}</span>
                 </div>
-                <h3 className="text-xl font-semibold text-ink mb-2">{t(c.title)}</h3>
-                <p className="text-sm text-ink-muted leading-relaxed mb-5 flex-1">{t(c.desc)}</p>
-                <div className="flex items-center justify-between pt-4 border-t border-border">
+                <h3 className="text-xl font-semibold text-ink mb-2 relative">{t(c.title)}</h3>
+                <p className="text-sm text-ink-muted leading-relaxed mb-5 flex-1 relative">{t(c.desc)}</p>
+                <div className="flex items-center justify-between pt-4 border-t border-border relative">
                   <span className="text-xs text-ink-faint">{t(c.type)}</span>
                   <button
                     onClick={() => openModal(t(c.title))}

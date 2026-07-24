@@ -3,7 +3,8 @@ import { Link } from "react-router-dom";
 import { Phone, Mail, ArrowRight } from "lucide-react";
 
 // 拆分 bullet：以第一个「：」或 ":" 为界，前置部分加粗，还原原简历的标签强调
-function Bullet({ text }: { text: string }) {
+// dark=true 时用于深色卡片，前置加粗改为浅色
+function Bullet({ text, dark = false }: { text: string; dark?: boolean }) {
   const idxZh = text.indexOf("：");
   const idxEn = text.indexOf(":");
   let cut = -1;
@@ -13,7 +14,9 @@ function Bullet({ text }: { text: string }) {
   if (cut === -1) return <>{text}</>;
   return (
     <>
-      <span className="font-semibold text-ink">{text.slice(0, cut + 1)}</span>
+      <span className={`font-semibold ${dark ? "text-bg" : "text-ink"}`}>
+        {text.slice(0, cut + 1)}
+      </span>
       {text.slice(cut + 1)}
     </>
   );
@@ -154,36 +157,38 @@ export default function Resume() {
         </p>
       </section>
 
-      {/* 工作经历 */}
-      <section className="px-5 sm:px-8 lg:px-12 py-16 bg-surface-alt">
+      {/* 工作经历 —— 去掉整块白底 slab，改为 now/watching 浅色卡片 + 序号角标 + hover */}
+      <section className="px-5 sm:px-8 lg:px-12 py-16">
         <div className="max-w-4xl mx-auto">
           <div className="flex items-baseline justify-between border-b border-border pb-3 mb-10">
             <h2 className="font-display text-3xl sm:text-4xl font-black tracking-tight text-ink">
               {t("resume.work_title")}
             </h2>
-            <span className="text-xs text-ink-faint bg-bg px-2 py-1 rounded-full">
+            <span className="text-xs text-ink-faint bg-surface-alt px-2 py-1 rounded-full">
               {t("resume.work_badge")}
             </span>
           </div>
 
-          <div className="space-y-10">
+          <div className="space-y-5">
             {jobs.map((job, i) => (
-              <div key={i} className="relative pl-5 md:pl-6 border-l-2 border-border">
+              <div
+                key={i}
+                className="group relative bg-surface-alt border border-border rounded-card p-6 sm:p-7 transition-all hover:border-ink/40 hover:shadow-sm"
+              >
+                {/* 序号角标 —— 呼应 now/watching */}
+                <span className="absolute right-5 top-4 font-display font-black text-ink/10 text-4xl leading-none select-none group-hover:text-ink/20 transition-colors">
+                  {String(i + 1).padStart(2, "0")}
+                </span>
                 <div className="flex flex-wrap justify-between items-baseline gap-2">
-                  <div>
-                    <h3 className="text-xl font-semibold text-ink">
-                      {t(job.company)}
-                      <span className="text-ink-muted text-base font-normal">
-                        {" "}
-                        · {t(job.role)}
-                      </span>
-                    </h3>
-                    <p className="text-ink-faint text-sm mb-3">{t(job.date)}</p>
-                  </div>
-                  <div className="bg-bg text-ink text-xs font-medium px-3 py-1 rounded-full">
+                  <h3 className="text-xl font-semibold text-ink pr-10">
+                    {t(job.company)}
+                    <span className="text-ink-muted text-base font-normal"> · {t(job.role)}</span>
+                  </h3>
+                  <div className="bg-ink text-bg text-xs font-medium px-3 py-1 rounded-full whitespace-nowrap">
                     {t(job.tag)}
                   </div>
                 </div>
+                <p className="text-ink-faint text-sm mb-3 mt-1">{t(job.date)}</p>
                 <ul className="space-y-2 text-ink-muted leading-relaxed list-disc pl-5 mt-2">
                   {job.bullets.map((b, bi) => (
                     <li key={bi}>
@@ -197,43 +202,49 @@ export default function Resume() {
         </div>
       </section>
 
-      {/* 项目经历 */}
-      <section className="max-w-4xl mx-auto px-5 sm:px-8 lg:px-12 py-16">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-          {projects.map((proj, i) => (
-            <div
-              key={i}
-              className="bg-surface rounded-card border border-border p-6 shadow-sm"
-            >
-              <h2 className="text-lg font-semibold text-ink flex items-center gap-2 border-b border-border pb-3 mb-4">
-                {t(proj.title)}
-              </h2>
-              <div className="flex flex-wrap justify-between items-baseline mb-1">
-                <h3 className="text-xl font-medium text-ink">
-                  {t(proj.name)}
-                  <span className="text-sm text-ink-muted font-normal"> · {t(proj.sub)}</span>
-                </h3>
-                <span className="text-xs bg-bg px-2 py-1 rounded-full text-ink-muted">
-                  {t(proj.date)}
+      {/* 项目经历 —— 深色卡片，作为 now/watching 的「深色特色格」那一下 */}
+      <section className="px-5 sm:px-8 lg:px-12 py-16">
+        <div className="max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-5">
+            {projects.map((proj, i) => (
+              <div
+                key={i}
+                className="group relative bg-ink text-bg rounded-card p-6 sm:p-7 transition-transform duration-300 hover:-translate-y-1"
+              >
+                {/* 序号角标 */}
+                <span className="absolute right-5 top-4 font-display font-black text-bg/10 text-4xl leading-none select-none">
+                  {String(i + 1).padStart(2, "0")}
                 </span>
+                <h2 className="text-lg font-semibold flex items-center gap-2 border-b border-bg/15 pb-3 mb-4">
+                  {t(proj.title)}
+                </h2>
+                <div className="flex flex-wrap justify-between items-baseline mb-1">
+                  <h3 className="text-xl font-medium">
+                    {t(proj.name)}
+                    <span className="text-sm text-bg/60 font-normal"> · {t(proj.sub)}</span>
+                  </h3>
+                  <span className="text-xs bg-bg/10 px-2 py-1 rounded-full text-bg/70 whitespace-nowrap">
+                    {t(proj.date)}
+                  </span>
+                </div>
+                <p className="text-bg/60 text-sm mb-3 italic">{t(proj.desc)}</p>
+                <ul className="space-y-1.5 text-bg/80 text-sm list-disc pl-5">
+                  {proj.bullets.map((b, bi) => (
+                    <li key={bi}>
+                      <Bullet text={t(b)} dark />
+                    </li>
+                  ))}
+                </ul>
               </div>
-              <p className="text-ink-muted text-sm mb-3 italic">{t(proj.desc)}</p>
-              <ul className="space-y-1.5 text-ink-muted text-sm list-disc pl-5">
-                {proj.bullets.map((b, bi) => (
-                  <li key={bi}>
-                    <Bullet text={t(b)} />
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
       </section>
 
-      {/* 教育背景 */}
-      <section className="px-5 sm:px-8 lg:px-12 py-16 bg-surface-alt">
+      {/* 教育背景 —— 同工作经历，浅色卡片去掉 slab */}
+      <section className="px-5 sm:px-8 lg:px-12 py-16">
         <div className="max-w-4xl mx-auto">
-          <div className="bg-surface rounded-card border border-border p-6 shadow-sm">
+          <div className="bg-surface-alt border border-border rounded-card p-6 sm:p-7">
             <h2 className="text-lg font-semibold text-ink flex items-center gap-2 border-b border-border pb-3 mb-4">
               {t("resume.edu_title")}
             </h2>
