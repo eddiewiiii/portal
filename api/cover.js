@@ -1,6 +1,6 @@
 export default async function handler(req, res) {
   const url = Array.isArray(req.query.url) ? req.query.url[0] : req.query.url;
-  const { type, artist, title } = req.query;
+  const { type, artist, title, album } = req.query;
 
   const sendImage = async (target) => {
     const upstream = await fetch(target);
@@ -16,7 +16,7 @@ export default async function handler(req, res) {
   };
 
   try {
-    // 模式 1：代理外部封面（now 板块用，绕开大陆对 mzstatic/amazon/impawards 的墙）
+    // 模式 1：代理外部封面（now 板块用）
     if (url) {
       if (!/^https?:\/\//i.test(url)) {
         res.statusCode = 400;
@@ -27,9 +27,9 @@ export default async function handler(req, res) {
       return;
     }
 
-    // 模式 2：按 artist + title 搜 iTunes 拿封面（歌单页用）
+    // 模式 2：按 artist + album + title 搜 iTunes 拿封面（歌单页用）
     if (type === "music") {
-      const q = `${artist || ""} ${title || ""}`.trim();
+      const q = `${artist || ""} ${album || ""} ${title || ""}`.trim();
       if (!q) {
         res.statusCode = 400;
         res.end();

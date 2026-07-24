@@ -8,12 +8,11 @@ function SongCard({ song, index }: { song: (typeof fmSongs)[number]; index: numb
 
   const coverUrl = `/api/cover?type=music&artist=${encodeURIComponent(
     song.artist
-  )}&title=${encodeURIComponent(song.title)}`;
+  )}&album=${encodeURIComponent(song.album)}&title=${encodeURIComponent(song.title)}`;
   const [src, setSrc] = useState<string | null>(coverUrl);
 
   return (
     <article className="group relative bg-surface-alt border border-border rounded-card overflow-hidden transition-all duration-300 hover:-translate-y-1 hover:border-ink/40 hover:shadow-sm">
-      {/* 封面铺满卡顶 + 顶部压暗渐变 + 大号幽灵序号 */}
       <div className="relative w-full h-44 sm:h-52 bg-ink/5 overflow-hidden">
         {src ? (
           <img

@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import { Mail, Phone, FileText } from "lucide-react";
+import { Mail, Phone } from "lucide-react";
 import { skillGroups, influenceItems } from "@/content/collections";
 import PageHero from "@/components/PageHero";
 
@@ -9,10 +9,8 @@ export default function About() {
 
   return (
     <>
-      {/* Hero —— 与首页 Hero 保持一致（浅色 / 左对齐 / text-hero-title） */}
       <PageHero title={t("about.page_title")} subtitle="EDDIE" />
 
-      {/* Story */}
       <section className="max-w-3xl mx-auto px-5 sm:px-8 py-24">
         <h2 className="font-display text-3xl sm:text-5xl font-black tracking-tight text-ink mb-12">
           {t("about.story_title")}
@@ -27,7 +25,6 @@ export default function About() {
         </div>
       </section>
 
-      {/* Skills */}
       <section className="px-5 sm:px-8 lg:px-12 py-24 bg-surface-alt">
         <div className="max-w-3xl mx-auto">
           <h2 className="font-display text-3xl sm:text-5xl font-black tracking-tight text-ink mb-12">
@@ -62,7 +59,6 @@ export default function About() {
         </div>
       </section>
 
-      {/* Influence */}
       <section className="max-w-3xl mx-auto px-5 sm:px-8 py-24">
         <h2 className="font-display text-3xl sm:text-5xl font-black tracking-tight text-ink mb-12">
           {t("about.influence_title")}
@@ -88,14 +84,13 @@ export default function About() {
         </div>
       </section>
 
-      {/* Contact */}
       <section className="px-5 sm:px-8 lg:px-12 py-24 bg-surface-alt">
         <div className="max-w-3xl mx-auto">
           <h2 className="font-display text-3xl sm:text-5xl font-black tracking-tight text-ink mb-12">
             {t("about.contact_title")}
           </h2>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <a
               href="mailto:eddiew@stu.jnu.edu.cn"
               className="flex items-center gap-4 p-6 bg-surface rounded-card border border-border hover:border-ink transition-colors"
@@ -122,21 +117,6 @@ export default function About() {
               </div>
             </a>
           </div>
-
-          {/* Resume link —— 指向站内 /resume 路由（原 /resume.html 为失效静态链接） */}
-          <Link to="/resume" className="block p-8 bg-ink rounded-card-lg text-bg hover:opacity-90 transition-opacity">
-            <div className="flex items-start gap-4">
-              <div className="w-12 h-12 rounded-full bg-bg/15 flex items-center justify-center flex-shrink-0">
-                <FileText size={20} />
-              </div>
-              <div className="flex-1">
-                <div className="font-display text-xl sm:text-2xl font-bold mb-2">
-                  {t("about.resume_link")}
-                </div>
-                <p className="text-sm text-bg/60 leading-relaxed">{t("about.resume_note")}</p>
-              </div>
-            </div>
-          </Link>
         </div>
       </section>
     </>
