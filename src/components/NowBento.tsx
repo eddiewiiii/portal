@@ -3,12 +3,24 @@ import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import type { NowItem } from "@/content/collections";
 
+/** 外链封面（mzstatic / amazon / impawards 等）统一走 /api/cover 代理，
+ *  由边缘服务器抓取后经本站域名返回，绕开大陆对这些 CDN 的墙。 */
+function coverUrlFor(item: NowItem): string {
+  const c = item.cover;
+  if (!c) return "";
+  if (/^https?:\/\//i.test(c)) {
+    return `/api/cover?url=${encodeURIComponent(c)}`;
+  }
+  return c; // 本地路径如 /now/x.jpg 原样返回
+}
+
 interface NowBentoProps {
   titleKey: string;
   subtitleKey: string;
   items: NowItem[];
   variant?: "dark" | "light";
   linkTo?: string;
+    coverSource?: string; // 兼容 Home.tsx 传入；当前未消费，仅为通过类型检查  
 }
 
 /**
@@ -64,16 +76,19 @@ export default function NowBento({
               onMouseEnter={() => setActive(item.id)}
               onMouseLeave={() => setActive(null)}
               className={`relative overflow-hidden rounded-card cursor-pointer group ${
-                !hasCover ? (isFirst ? "bg-ink" : "bg-surface-alt border border-border") : ""
+                isFirst ? "bg-ink" : "bg-surface-alt border border-border"
               }`}
               style={{ gridColumn: colSpan, gridRow: rowSpan }}
             >
-              {/* 封面图 - object-cover 填满格子（运行时从 public/now 读取） */}
+              {/* 封面图 - object-cover 填满格子（外链走 /api/cover 代理） */}
               {hasCover && (
                 <img
-                  src={item.cover}
+                  src={coverUrlFor(item)}
                   alt={item.title[lang]}
                   loading="lazy"
+                  onError={(e) => {
+                    e.currentTarget.style.display = "none";
+                  }}
                   className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                 />
               )}

@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { useArticles } from "@/hooks/useArticles";
 import type { Article } from "@/types";
+import PageHero from "@/components/PageHero";
 
 type Category = "all" | "brand" | "insight" | "ai";
 
@@ -23,13 +24,12 @@ export default function Writing() {
 
   return (
     <>
-      {/* Hero */}
-      <section className="px-5 sm:px-8 lg:px-12 pt-12 pb-8">
-        <h1 className="text-section-title font-display text-ink mb-3 lowercase">
-          {t("writing.page_title")}
-        </h1>
-        <p className="text-sm text-ink-muted">{t("writing.page_desc")}</p>
-      </section>
+      {/* Hero —— 与首页 Hero 保持一致：浅色 / 左对齐 / text-hero-title */}
+      <PageHero title={t("writing.page_title")}>
+        <p className="text-base leading-[1.8] text-ink-muted max-w-[520px]">
+          {t("writing.page_desc")}
+        </p>
+      </PageHero>
 
       {/* Category filter */}
       <section className="px-5 sm:px-8 lg:px-12 py-6">

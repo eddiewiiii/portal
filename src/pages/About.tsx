@@ -1,19 +1,16 @@
 import { useTranslation } from "react-i18next";
+import { Link } from "react-router-dom";
 import { Mail, Phone, FileText } from "lucide-react";
 import { skillGroups, influenceItems } from "@/content/collections";
+import PageHero from "@/components/PageHero";
 
 export default function About() {
   const { t } = useTranslation();
 
   return (
     <>
-      {/* Hero */}
-      <section className="bg-ink text-bg py-16 px-5 sm:px-8 lg:px-12">
-        <h1 className="text-section-title font-display text-bg mb-4 lowercase">
-          {t("about.page_title")}
-        </h1>
-        <p className="font-display text-2xl sm:text-4xl text-bg/60 italic">EDDIE</p>
-      </section>
+      {/* Hero —— 与首页 Hero 保持一致（浅色 / 左对齐 / text-hero-title） */}
+      <PageHero title={t("about.page_title")} subtitle="EDDIE" />
 
       {/* Story */}
       <section className="max-w-3xl mx-auto px-5 sm:px-8 py-24">
@@ -126,8 +123,8 @@ export default function About() {
             </a>
           </div>
 
-          {/* Resume link */}
-          <a href="/resume.html" className="block p-8 bg-ink rounded-card-lg text-bg">
+          {/* Resume link —— 指向站内 /resume 路由（原 /resume.html 为失效静态链接） */}
+          <Link to="/resume" className="block p-8 bg-ink rounded-card-lg text-bg hover:opacity-90 transition-opacity">
             <div className="flex items-start gap-4">
               <div className="w-12 h-12 rounded-full bg-bg/15 flex items-center justify-center flex-shrink-0">
                 <FileText size={20} />
@@ -139,7 +136,7 @@ export default function About() {
                 <p className="text-sm text-bg/60 leading-relaxed">{t("about.resume_note")}</p>
               </div>
             </div>
-          </a>
+          </Link>
         </div>
       </section>
     </>
