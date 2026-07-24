@@ -2,6 +2,7 @@ export interface FmSong {
   title: string;
   artist: string;
   album: string;
+  cover?: string; // 可选：手动指定封面直链（iTunes 没有的歌用）
   review: { en: string; zh: string };
 }
 
@@ -27,7 +28,7 @@ export const fmSongs: FmSong[] = [
   {
     title: `tolerate it`,
     artist: `Taylor Swift`,
-    album: `folklore`,
+    album: `evermore`,
     review: {
       en: `You rearrange the bookshelf for the fourth time this week. He doesn't look up from the game. "Looks good," he says to the screen. You used to need more than that. Now you take the crumbs and tell yourself you're full. At the grocery store you buy his favorite ice cream and stand in the freezer aisle wondering what would happen if you simply didn't go home. You go home. You always go home. That's the part that hurts, not him. You.  Honey`,
       zh: `你做了他最爱吃的红烧排骨，端上桌他头都没抬说了句放那吧。你在厨房站了一会儿，听到客厅游戏的声音。后来你自己喝完两碗汤，洗完碗，打开手机看单程机票，去一个他没去过的城市。你甚至没订，只是看看。看着看着哭了，因为你知道自己不会走，你只是想在脑子里演练一遍离开他的样子。`,
@@ -603,7 +604,8 @@ export const fmSongs: FmSong[] = [
   {
     title: `不对等天体`,
     artist: `余佳运`,
-    album: `不对等天体`,
+    album: `不对等天体（洛希极限）`,
+    cover: `https://p2.music.126.net/evJDIXVaX24QcItuI8IvyQ==/109951168154086582.jpg?param=600y600`,
     review: {
       en: `You woke up early to make his coffee. Stayed up late to warm his side of the bed. Your whole orbit was him. When he left for three days you didn't know what to do with the empty hours. Ate at wrong times. Slept in the middle of the day. You were a moon without a planet. Drifting. You learned to find your own light. Slow. But yours.  One Last Kiss`,
       zh: `你的闹钟比他早一个半小时，起来煮粥，装进保温桶放他包旁边。他起床的时候你在地铁上了。晚上回来他已经睡了，你摸黑洗漱，躺到他旁边不敢翻身。有天他出差三天，你睡到了自然醒，发现你这边枕头矮了半截，被子全让你卷走了。你躺在他平时的位置，天花板看着特别高。你这才发现你的整个作息都绕着他转，他出去三天你不会转了，像卫星失去引力，飘了三天。`,

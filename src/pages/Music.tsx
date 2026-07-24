@@ -3,9 +3,11 @@ import { useTranslation } from "react-i18next";
 import { fmSongs } from "@/content/fm";
 
 function SongCard({ song }: { song: (typeof fmSongs)[number] }) {
-  const coverUrl = `/api/cover?type=music&artist=${encodeURIComponent(
-    song.artist
-  )}&title=${encodeURIComponent(song.title)}`;
+  const coverUrl = song.cover
+    ? `/api/cover?url=${encodeURIComponent(song.cover)}`
+    : `/api/cover?type=music&artist=${encodeURIComponent(
+        song.artist
+      )}&title=${encodeURIComponent(song.title)}&album=${encodeURIComponent(song.album)}`;
   const [src, setSrc] = useState<string | null>(coverUrl);
 
   return (
