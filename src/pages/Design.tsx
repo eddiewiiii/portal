@@ -24,16 +24,16 @@ const PROJECTS: Project[] = [
     status: "live",
     accent: "from-emerald-400 via-teal-500 to-cyan-600",
     zh: {
-      tagline: "个人财务看板 PWA",
+      tagline: "个人财务看板",
       desc: "把收支、预算与资产放进一个清爽的移动端界面，一眼看清钱去哪了。",
       role: "产品设计 · 前端实现 · 视觉规范",
     },
     en: {
-      tagline: "Personal finance dashboard PWA",
+      tagline: "Finance Dashboard",
       desc: "Income, budget and assets in one calm mobile interface — see where the money goes at a glance.",
       role: "Product design · Front-end · Visual system",
     },
-    stack: { zh: ["PWA", "移动端优先", "数据可视化", "响应式"], en: ["PWA", "Mobile-first", "Data viz", "Responsive"] },
+    stack: { zh: ["APP", "移动端", "数据可视化", "响应式"], en: ["APP", "Mobile", "Data viz", "Responsive"] },
   },
   {
     slug: "ieng",
@@ -42,16 +42,16 @@ const PROJECTS: Project[] = [
     status: "live",
     accent: "from-indigo-400 via-violet-500 to-purple-600",
     zh: {
-      tagline: "英语学习 PWA",
+      tagline: "英语学习",
       desc: "把 daily 练习做成轻量、可坚持的产品体验，专注沉浸式的输入与反馈。",
       role: "产品设计 · 交互设计 · 前端实现",
     },
     en: {
-      tagline: "English learning PWA",
+      tagline: "English Learning",
       desc: "Daily practice turned into a lightweight, stickable product — focused, immersive input and feedback.",
       role: "Product design · Interaction · Front-end",
     },
-    stack: { zh: ["PWA", "微交互", "沉浸式", "跨端"], en: ["PWA", "Micro-interactions", "Immersive", "Cross-platform"] },
+    stack: { zh: ["APP", "微交互", "沉浸式", "跨端"], en: ["APP", "Micro-interactions", "Immersive", "Cross-platform"] },
   },
   {
     slug: "team",
@@ -65,7 +65,7 @@ const PROJECTS: Project[] = [
       role: "信息架构 · 界面设计 · 前端实现",
     },
     en: {
-      tagline: "Team collaboration workspace",
+      tagline: "Team Collaboration Workspace",
       desc: "A task and collaboration hub for small teams — funneling feeds, progress and ownership into one panel.",
       role: "Information architecture · UI · Front-end",
     },
@@ -74,7 +74,7 @@ const PROJECTS: Project[] = [
   {
     slug: "trip-manager",
     name: "Trip Manager",
-    url: "https://trip-manager-iota.vercel.app/",
+    url: "https://trip.teameddie.top/",
     status: "wip",
     accent: "from-sky-400 via-blue-500 to-indigo-600",
     zh: {
@@ -83,11 +83,11 @@ const PROJECTS: Project[] = [
       role: "原型设计 · 体验设计 · 前端实现",
     },
     en: {
-      tagline: "Trip planning tool",
+      tagline: "Trip Planning Tool",
       desc: "Break a trip into schedulable days, places and budget — see the whole picture while planning.",
       role: "Prototyping · UX · Front-end",
     },
-    stack: { zh: ["Web App", "时间线", "地图", "迭代中"], en: ["Web App", "Timeline", "Map", "WIP"] },
+    stack: { zh: ["APP", "时间线", "地图", "迭代中"], en: ["APP", "Timeline", "Map", "WIP"] },
   },
   {
     slug: "trip2bki",
@@ -96,16 +96,16 @@ const PROJECTS: Project[] = [
     status: "wip",
     accent: "from-rose-300 via-pink-500 to-fuchsia-600",
     zh: {
-      tagline: "旅行规划实验",
-      desc: "另一版旅行产品探索：更轻的记录和更顺手的分享，验证不同的信息结构。",
+      tagline: "亚庇旅行规划实验",
+      desc: "旅行实际探索，更轻的记录和更顺手的分享，验证不同的信息结构。",
       role: "概念设计 · 界面探索 · 前端实现",
     },
     en: {
       tagline: "Travel planning experiment",
-      desc: "A second take on travel product: lighter logging and smoother sharing, probing a different information structure.",
+      desc: "Travel experience,lighter logging and smoother sharing, probing a different information structure.",
       role: "Concept design · UI exploration · Front-end",
     },
-    stack: { zh: ["Web App", "实验性", "轻量", "迭代中"], en: ["Web App", "Experimental", "Lightweight", "WIP"] },
+    stack: { zh: ["APP", "实验性", "轻量", "迭代中"], en: ["APP", "Experimental", "Lightweight", "WIP"] },
   },
 ];
 
@@ -173,16 +173,6 @@ export default function Design() {
                           className="absolute inset-0 w-full h-full object-cover object-top"
                         />
                       )}
-                      {/* 状态胶囊 */}
-                      <span
-                        className={`absolute top-3 left-3 z-10 text-[11px] font-semibold px-2.5 py-1 rounded-full backdrop-blur ${
-                          p.status === "live"
-                            ? "bg-white/85 text-ink"
-                            : "bg-black/55 text-white"
-                        }`}
-                      >
-                        {p.status === "live" ? t("design.live") : t("design.wip")}
-                      </span>
                       {/* 幽灵序号 */}
                       <span className="absolute -bottom-2 right-2 font-display font-black text-white/25 text-6xl leading-none select-none">
                         {String(i + 1).padStart(2, "0")}
@@ -248,15 +238,6 @@ export default function Design() {
                         className="absolute inset-0 w-full h-full object-cover object-top"
                       />
                     )}
-                    <span
-                      className={`absolute top-3 left-3 z-10 text-[11px] font-semibold px-2.5 py-1 rounded-full backdrop-blur ${
-                        p.status === "live"
-                          ? "bg-white/85 text-ink"
-                          : "bg-black/55 text-white"
-                      }`}
-                    >
-                      {p.status === "live" ? t("design.live") : t("design.wip")}
-                    </span>
                     <span className="absolute -bottom-2 right-3 font-display font-black text-white/25 text-6xl leading-none select-none">05</span>
                   </div>
                 </div>
