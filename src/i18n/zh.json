@@ -6,6 +6,7 @@
     "about": "关于",
     "resume": "简历",
     "cases": "案例库",
+    "design": "设计",
     "timeline": "轨迹"
   },
   "resume": {
@@ -222,6 +223,21 @@
     "t5_title": "租租车 · 商务拓展经理",
     "t5_sub": "开拓香港航空等航司合作，香港地区订单占比突破10%",
     "t5_tag": "商务拓展"
+  },
+  "design": {
+    "hero_title": "设计",
+    "hero_desc": "不是把东西做“好看”，而是把复杂收拢成顺手。下面这些是我自己从想法到上线的产品——设计、界面和前端都我自己做。",
+    "stat_projects": "项目",
+    "stat_live": "已上线",
+    "stat_wip": "打磨中",
+    "section_title": "产品作品",
+    "section_desc": "点开任意一张，去看真实在跑的版本",
+    "live": "已上线",
+    "wip": "打磨中",
+    "visit": "访问",
+    "closing_title": "设计是我想法的外化。",
+    "closing_desc": "从记账、学英语到旅行规划，我把日常里反复出现的需求做成能用的东西。界面之外，更在意它用起来是不是真的轻。",
+    "closing_cta": "在 GitHub 看更多"
   },
   "hero": {
     "title_line1": "品牌",

@@ -6,6 +6,7 @@
     "about": "About",
     "resume": "Résumé",
     "cases": "Cases",
+    "design": "Design",
     "timeline": "Timeline"
   },
   "resume": {
@@ -222,6 +223,21 @@
     "t5_title": "Zuzuche · Business Development Manager",
     "t5_sub": "Partnered with Hong Kong Airlines, HK order share exceeded 10%",
     "t5_tag": "BD"
+  },
+  "design": {
+    "hero_title": "Design",
+    "hero_desc": "Not making things \"look nice\" — but folding complexity into something that just flows. These are products I took from idea to live: design, interface and front-end, all done by me.",
+    "stat_projects": "Projects",
+    "stat_live": "Live",
+    "stat_wip": "In progress",
+    "section_title": "Products",
+    "section_desc": "Open any card to see the real, running version",
+    "live": "Live",
+    "wip": "WIP",
+    "visit": "Visit",
+    "closing_title": "Design is how my thinking takes shape.",
+    "closing_desc": "From money tracking and English practice to trip planning, I turn the needs that recur in daily life into things that actually work. Beyond the surface, what matters is whether it feels light to use.",
+    "closing_cta": "More on GitHub"
   },
   "hero": {
     "title_line1": "Brand",

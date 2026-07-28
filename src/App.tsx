@@ -10,6 +10,7 @@ import Music from "@/pages/Music";
 import Resume from "@/pages/Resume";
 import Cases from "@/pages/Cases";
 import Timeline from "@/pages/Timeline";
+import Design from "@/pages/Design";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -34,6 +35,7 @@ export default function App() {
           <Route path="/resume" element={<Resume />} />
           <Route path="/cases" element={<Cases />} />
           <Route path="/timeline" element={<Timeline />} />
+          <Route path="/design" element={<Design />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </main>

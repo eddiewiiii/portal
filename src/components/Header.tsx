@@ -13,6 +13,7 @@ export default function Header() {
     { to: "/writing", label: t("nav.writing") },
     { to: "/music", label: t("nav.music") },
     { to: "/about", label: t("nav.about") },
+    { to: "/design", label: t("nav.design") },
   ];
 
   return (
