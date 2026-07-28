@@ -13,7 +13,7 @@ type Project = {
   accent: string; // tailwind gradient classes for fallback cover
   zh: { tagline: string; desc: string; role: string };
   en: { tagline: string; desc: string; role: string };
-  stack: string[];
+  stack: { zh: string[]; en: string[] };
 };
 
 const PROJECTS: Project[] = [
@@ -33,7 +33,7 @@ const PROJECTS: Project[] = [
       desc: "Income, budget and assets in one calm mobile interface — see where the money goes at a glance.",
       role: "Product design · Front-end · Visual system",
     },
-    stack: ["PWA", "移动端优先", "数据可视化", "响应式"],
+    stack: { zh: ["PWA", "移动端优先", "数据可视化", "响应式"], en: ["PWA", "Mobile-first", "Data viz", "Responsive"] },
   },
   {
     slug: "ieng",
@@ -51,7 +51,7 @@ const PROJECTS: Project[] = [
       desc: "Daily practice turned into a lightweight, stickable product — focused, immersive input and feedback.",
       role: "Product design · Interaction · Front-end",
     },
-    stack: ["PWA", "微交互", "沉浸式", "跨端"],
+    stack: { zh: ["PWA", "微交互", "沉浸式", "跨端"], en: ["PWA", "Micro-interactions", "Immersive", "Cross-platform"] },
   },
   {
     slug: "team",
@@ -69,7 +69,7 @@ const PROJECTS: Project[] = [
       desc: "A task and collaboration hub for small teams — funneling feeds, progress and ownership into one panel.",
       role: "Information architecture · UI · Front-end",
     },
-    stack: ["Web App", "看板", "协作", "组件化"],
+    stack: { zh: ["Web App", "看板", "协作", "组件化"], en: ["Web App", "Kanban", "Collaboration", "Component-based"] },
   },
   {
     slug: "trip-manager",
@@ -87,7 +87,7 @@ const PROJECTS: Project[] = [
       desc: "Break a trip into schedulable days, places and budget — see the whole picture while planning.",
       role: "Prototyping · UX · Front-end",
     },
-    stack: ["Web App", "时间线", "地图", "迭代中"],
+    stack: { zh: ["Web App", "时间线", "地图", "迭代中"], en: ["Web App", "Timeline", "Map", "WIP"] },
   },
   {
     slug: "trip2bki",
@@ -105,7 +105,7 @@ const PROJECTS: Project[] = [
       desc: "A second take on travel product: lighter logging and smoother sharing, probing a different information structure.",
       role: "Concept design · UI exploration · Front-end",
     },
-    stack: ["Web App", "实验性", "轻量", "迭代中"],
+    stack: { zh: ["Web App", "实验性", "轻量", "迭代中"], en: ["Web App", "Experimental", "Lightweight", "WIP"] },
   },
 ];
 
@@ -199,7 +199,7 @@ export default function Design() {
                     <p className="text-sm text-ink-muted leading-relaxed mb-4">{copy.desc}</p>
 
                     <div className="flex flex-wrap gap-1.5 mb-4">
-                      {p.stack.map((s) => (
+                      {p.stack[lang].map((s) => (
                         <span
                           key={s}
                           className="text-[11px] font-medium text-ink-muted bg-surface-alt border border-border px-2.5 py-1 rounded-full"
@@ -269,7 +269,7 @@ export default function Design() {
                   </div>
                   <p className="text-sm text-ink-muted leading-relaxed mb-4">{copy.desc}</p>
                   <div className="flex flex-wrap gap-1.5 mb-4">
-                    {p.stack.map((s) => (
+                    {p.stack[lang].map((s) => (
                       <span
                         key={s}
                         className="text-[11px] font-medium text-ink-muted bg-surface-alt border border-border px-2.5 py-1 rounded-full"
