@@ -160,7 +160,7 @@ export default function Design() {
                 >
                   {/* 设备预览（竖图） */}
                   <div className="p-5 pb-0">
-                    <div className="relative mx-auto w-full max-w-[260px] aspect-[390/844] rounded-[2rem] border border-ink/10 overflow-hidden bg-gradient-to-br shadow-sm group-hover:shadow-md transition-shadow">
+                    <div className="relative mx-auto w-full max-w-[260px] aspect-[390/844] rounded-[2rem] overflow-hidden bg-gradient-to-br shadow-sm group-hover:shadow-md transition-shadow">
                       {/* 渐变兜底封面 */}
                       <div className={`absolute inset-0 bg-gradient-to-br ${p.accent} ${showImg ? "opacity-0" : "opacity-100"} transition-opacity`} />
                       {/* 实拍截图 */}
@@ -227,7 +227,7 @@ export default function Design() {
               <article className="group relative mt-6 bg-surface border border-border rounded-card-lg overflow-hidden hover:border-ink/40 hover:shadow-lg transition-all flex flex-col lg:flex-row">
                 {/* 设备预览（横图） */}
                 <div className="p-5 lg:p-6 lg:w-[58%]">
-                  <div className="relative w-full aspect-[16/10] rounded-[1.5rem] border border-ink/10 overflow-hidden bg-gradient-to-br shadow-sm group-hover:shadow-md transition-shadow">
+                  <div className="relative w-full aspect-[16/10] rounded-[1.5rem] overflow-hidden bg-gradient-to-br shadow-sm group-hover:shadow-md transition-shadow">
                     <div className={`absolute inset-0 bg-gradient-to-br ${p.accent} ${showImg ? "opacity-0" : "opacity-100"} transition-opacity`} />
                     {showImg && (
                       <img
