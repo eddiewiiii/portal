@@ -83,7 +83,7 @@ const PROJECTS: Project[] = [
       role: "原型设计 · 体验设计 · 前端实现",
     },
     en: {
-      tagline: "Trip Planning Tool",
+      tagline: "Trip Planning",
       desc: "Break a trip into schedulable days, places and budget — see the whole picture while planning.",
       role: "Prototyping · UX · Front-end",
     },
@@ -101,7 +101,7 @@ const PROJECTS: Project[] = [
       role: "概念设计 · 界面探索 · 前端实现",
     },
     en: {
-      tagline: "Travel planning experiment",
+      tagline: "Travel Experience",
       desc: "Travel experience,lighter logging and smoother sharing, probing a different information structure.",
       role: "Concept design · UI exploration · Front-end",
     },
