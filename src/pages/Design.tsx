@@ -160,7 +160,7 @@ export default function Design() {
                 >
                   {/* 设备预览（竖图） */}
                   <div className="p-5 pb-0">
-                    <div className="relative mx-auto w-full max-w-[260px] aspect-[390/844] rounded-[2rem] overflow-hidden bg-gradient-to-br">
+                    <div className="relative mx-auto w-full max-w-[260px] aspect-[780/1387] rounded-[2rem] overflow-hidden bg-gradient-to-br">
                       {/* 渐变兜底封面 */}
                       <div className={`absolute inset-0 bg-gradient-to-br ${p.accent} ${showImg ? "opacity-0" : "opacity-100"} transition-opacity`} />
                       {/* 实拍截图 */}
