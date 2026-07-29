@@ -151,7 +151,7 @@ export default function Design() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-7">
             {PROJECTS.filter((p) => p.slug !== "team").map((p, i) => {
               const copy = p[lang];
-              const cover = `/design/${p.slug}.png`;
+              const cover = `/design/${p.slug}.webp`;
               const showImg = !broken[p.slug];
               return (
                 <article
@@ -221,7 +221,7 @@ export default function Design() {
           {(() => {
             const p = PROJECTS.find((x) => x.slug === "team")!;
             const copy = p[lang];
-            const cover = `/design/${p.slug}.png`;
+            const cover = `/design/${p.slug}.webp`;
             const showImg = !broken[p.slug];
             return (
               <article className="group relative mt-6 bg-surface border border-border rounded-card-lg overflow-hidden hover:border-ink/40 hover:shadow-lg transition-all flex flex-col lg:flex-row">
