@@ -3,6 +3,8 @@ import { useTranslation } from "react-i18next";
 import { fmSongs } from "@/content/fm";
 
 function SongCard({ song }: { song: (typeof fmSongs)[number] }) {
+  const { i18n } = useTranslation();
+  const lang = i18n.language === "en" ? "en" : "zh";
   const coverUrl = song.cover
     ? `/api/cover?url=${encodeURIComponent(song.cover)}`
     : `/api/cover?type=music&artist=${encodeURIComponent(
@@ -39,7 +41,7 @@ function SongCard({ song }: { song: (typeof fmSongs)[number] }) {
         </div>
       </div>
       <p className="text-[15px] text-ink-muted leading-relaxed border-t border-border pt-4 mt-4">
-        {song.review.en}
+        {song.review[lang]}
       </p>
     </article>
   );
