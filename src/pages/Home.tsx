@@ -53,13 +53,14 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 此刻三墙 - 在听 / 在读 / 在看，全白底统一风格 */}
+      {/* 此刻三墙 - 在听 / 在读 / 在看，全白底统一风格；按封面比例定格（音乐正方、书/电影竖版） */}
       <NowBento
         titleKey="now.listening_title"
         subtitleKey="now.listening_sub"
         items={nowListening}
         variant="light"
         coverSource="itunes-music"
+        aspect="square"
       />
       <NowBento
         titleKey="now.reading_title"
@@ -67,6 +68,7 @@ export default function Home() {
         items={nowReading}
         variant="light"
         coverSource="openlibrary"
+        aspect="portrait"
       />
       <NowBento
         titleKey="now.watching_title"
@@ -74,6 +76,7 @@ export default function Home() {
         items={nowWatching}
         variant="light"
         coverSource="itunes-movie"
+        aspect="portrait"
       />
 
       {/* Writing list - 默认 5 篇 + 加载更多 */}
