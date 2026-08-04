@@ -11,7 +11,6 @@ import Resume from "@/pages/Resume";
 import Cases from "@/pages/Cases";
 import Timeline from "@/pages/Timeline";
 import Design from "@/pages/Design";
-import MusicPreview from "@/pages/MusicPreview";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -37,7 +36,6 @@ export default function App() {
           <Route path="/cases" element={<Cases />} />
           <Route path="/timeline" element={<Timeline />} />
           <Route path="/design" element={<Design />} />
-          <Route path="/preview" element={<MusicPreview />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </main>
