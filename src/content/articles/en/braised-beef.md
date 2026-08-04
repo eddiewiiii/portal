@@ -29,7 +29,7 @@ A while back I went to see "Love Letter to Ah-Ma," with my ex. Half the theater 
 
 It's not that I don't have a heart.
 
-I just don't easily slip into other people's emotions and perspectives. Other people's stories, other people's grief—I know rationally I should be moved, but my body doesn't follow. These past years, work wearing me down, life wearing me down, edges smoothed flat, even the switch for being moved seems to have rusted.
+I just don't easily slip into other people's emotions and perspectives. Other people's stories, other people's grief—I know rationally I should be moved, but my body doesn't follow. These past years, work wearing me down, life wearing me down, edges smoothed flat, even the switch for feeling anything had rusted over.
 
 For a while I figured, maybe this is just who I am now. A bit colder, a bit blunter. Not a bad thing.
 
@@ -37,6 +37,6 @@ But last night's meal was different.
 
 When the braised beef came to the table, Mom picked up a piece and said, today's is really flavorful. I didn't answer, just looked down and ate. In that moment, my chest slowly warmed. Not crying, not stirred up—just a slow, soft warmth pushing up from the stomach. Could've been the Sichuan pepper.
 
-Films are other people's lives; I can't get in, can't catch the emotion. But a table of dishes I cooked myself, a table with Mom sitting at it—these most ordinary, most mine things, they got in at once.
+Films are other people's lives; I can't get in, can't catch the emotion. But a table of dishes I cooked myself, a table with Mom sitting at it—these most ordinary, most personal things, they got in at once.
 
 She washed the dishes. I sank into the sofa, heard the kitchen faucet running, and suddenly thought: today was good.
