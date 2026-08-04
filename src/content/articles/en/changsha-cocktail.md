@@ -3,7 +3,7 @@ id: "changsha-cocktail"
 title: "The Ninth Try at Yuelu Mountain"
 date: "2026-07-04"
 summary: "The first eight times, I saw nothing. On the ninth try, the mist finally appeared."
-tags: ["Startup","Brand"]
+tags: ["Travel","Growth"]
 category: "insight"
 lang: "en"
 ---

@@ -35,7 +35,7 @@ I have been using AI tools for content creation for about a year now.
 
 The feeling is complicated.
 
-On one hand, I honestly don't know how I worked without them before.
+On the one hand, I honestly don't know how I worked without them before.
 
 On the other hand, I keep reminding myself:
 
@@ -103,7 +103,7 @@ Once everything becomes too smooth, content starts to feel like something produc
 
 And readers can feel it.
 
-That night, throwing away the perfect topic made me realise something:
+That night, throwing away the perfect topic made me realize something:
 
 The more perfect AI becomes, the more important human imperfection becomes.
 

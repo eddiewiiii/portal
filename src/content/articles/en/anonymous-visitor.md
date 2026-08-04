@@ -13,7 +13,7 @@ I found him fascinating. Somehow, in that brief moment, I felt a small connectio
 
 He was always downstairs, curled up in that corner like a small patch of darkness. He never seemed to have anyone looking after him. I passed by every day, sometimes he was there, sometimes he wasn't. A few times, when I came home and found him nearby, he didn't run away. He simply looked up at me.
 
-I thought about him few times. If I could bring him home, give him a warm place to sleep and something to eat, maybe that would be enough. I couldn't explain exactly why I cared.
+I thought about him a few times. If I could bring him home, give him a warm place to sleep and something to eat, maybe that would be enough. I couldn't explain exactly why I cared.
 
 People say stray cats are wary of humans. But this one came over and rubbed against me. That simple gesture was what stayed with me.
 

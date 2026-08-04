@@ -75,7 +75,7 @@ And maybe that wasn't such a bad thing.
 
 But last night was different.
 
-When the braised beef was served, Mom picked up a piece and said, "I think your cooked flavorful beef this time."
+When the braised beef was served, Mom picked up a piece and said, "Your beef is really flavorful this time."
 
 I didn't answer. I just lowered my head and kept eating.
 
