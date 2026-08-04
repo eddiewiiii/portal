@@ -7,24 +7,126 @@ tags: ["Brand","Methodology"]
 category: "career"
 lang: "en"
 ---
-October 2022, Guangzhou. A desk in a co-working space, rent just over a thousand a month, the surface just big enough for a laptop and a cup. Outside the window were the towers of Tianhe, and in the afternoons the sun came in at an angle and left a bright strip along the corner of the desk. This was the first prep meeting I called for Penguin Exploration, three of us, counting me.
+The first time I tried to sell something, my palms were sweating.
 
-The co-working space always had people moving through. The coffee machine was going. Someone was on a call. Chair legs scraped the floor. The sounds all mixed together. I turned the laptop toward the two across from me. On the screen was the activity framework I'd built in Notion, page linking to page, like a net. One of them was a teacher who'd run study tours before. She looked at it and said, "The framework's clear enough, but for the first event you have to decide who you're taking, where, and to do what." I nodded, palms a little damp.
+I had prepared everything.
 
-First days are always like this. You have an idea in your hands, but the idea is soft and blurry, something you can't even explain clearly to yourself. And you have to make it into a place other people want to walk into. The step from zero to one—you can call it a few nodes, but living through it is just your palms sweating the whole way.
+The slides.
 
-April 2025, Changsha. Different city, different desk, this time at a new company. The company had just rented a floor. The desks were new, and the chair had a catch when you spun it. The job I took on was to build a brand system in thirty days.
+The introduction.
 
-I opened Notion at my desk and started making documents. The first was called Brand Positioning, the second Visual System, the third Content Framework, one after another. By the time I was past a dozen, the links between documents began to hold together. The thing about Notion is you can build it like blocks, break a concept into pieces and put it back. I dragged things around on the screen. Move one block, and the whole structure shifts with it.
+The answers to possible questions.
 
-Those weeks I often stayed late rewriting copy. Spring in Changsha is damp. The workstation got cold at night, so I draped my jacket over the back of the chair. Rewriting copy on a screen is as slow as on paper. Sometimes I'd get stuck for half an hour on a single title. But with Notion, once I saved, everyone saw the newest version, no sending files, no version-matching. One night I was at it until two in the morning. The elevator had stopped, so I took the stairs down. In the stairwell, the sound-controlled lights came on one by one, and went off one by one.
+But none of that helped when I sat across from the first potential client.
 
-Halfway through, I looked back at those documents and saw they had grown from a pile of scattered ideas into a place a person could walk into. Positioning was the doorway. Moving inward, the walls and lighting belonged to the visual system, and further in, the content framework set out what was placed in the rooms. The step from zero to one is turning the blurry into the clear, gathering the scattered, so that the person passing by wants to stop and step in.
+Because preparation can give you information.
 
-December 2025, still Changsha. At Puzi Bar, I'd become a co-founder. My partner's surname was Zhou. A few years older than me, he'd been in food and beverage for over a decade. We sketched the first version of the menu on a cocktail napkin. Brother Zhou's handwriting was better than mine. That stretch of road had a lot of foot traffic at night. Outside the window, people lined up for milk tea, and the sound-controlled light kept going on.
+It cannot give you experience.
 
-Puzi went through those same nodes again from zero to one. The first day of each node, my palms sweated. It was the same at that co-working desk for Penguin Exploration, and the same at the new company's workstation.
+At that moment, I realized something:
 
-That day Brother Zhou asked me, "Why are you nervous every time you start?" I said I didn't know, maybe I'm afraid what I make won't be a place anyone wants to walk into. He laughed, said nothing, wiped the cup and set it down.
+Starting from zero is always uncomfortable.
 
-The line outside had broken up. The milk tea shop had closed. Another sound-controlled light went off.
+There is no reputation behind you.
+
+No previous success.
+
+No proof that you can do it.
+
+Only yourself.
+
+Before starting my own company, I worked at a large organization. I was used to having a team, a brand name, and resources behind me.
+
+When you work for an established company, people often trust you before they know you.
+
+The company has already done that work for you.
+
+But when you start something yourself, all of that disappears.
+
+People are not looking at the company.
+
+They are looking at you.
+
+Why should I trust you?
+
+Why should I choose you?
+
+Why should I believe you can do this?
+
+Those questions are uncomfortable.
+
+But they are also necessary.
+
+The first project.
+
+The first customer.
+
+The first partnership.
+
+The first time someone says yes.
+
+These moments are small from the outside.
+
+But when you are standing at the beginning, they feel enormous.
+
+I still remember building Penguin Exploration.
+
+There was no clear path.
+
+No guaranteed result.
+
+Every decision carried uncertainty.
+
+Should we try this direction?
+
+Should we spend money here?
+
+Should we wait?
+
+There were many moments when I wished someone could simply tell me the answer.
+
+But nobody could.
+
+That is probably the most difficult part of building something new.
+
+You are forced to make decisions before you have enough information.
+
+You move forward not because you are confident.
+
+You move forward because standing still is also a decision.
+
+Over time, I started to understand that confidence does not come before action.
+
+It comes after.
+
+The first meeting teaches you how to handle the second meeting.
+
+The first mistake teaches you how to avoid the next one.
+
+The first failure makes the next attempt less frightening.
+
+Experience is not something you collect before you start.
+
+Experience is something you create by starting.
+
+Even today, whenever I begin something new, I still feel that familiar nervousness.
+
+The preparation.
+
+The uncertainty.
+
+The small voice asking:
+
+What if this doesn't work?
+
+But I no longer see that feeling as a warning.
+
+Maybe it is just proof that I am standing somewhere I have never been before.
+
+And that is usually where growth begins.
+
+The palms may still sweat.
+
+But now I know what to do next.
+
+Take the first step.
