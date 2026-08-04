@@ -1,33 +1,152 @@
 ---
 id: "bar-experiment"
-title: "On the Eighty-Third Day of Renovation, I Stared at the Bill Without a Word"
+title: "The Bill on Day Eighty-Three"
 date: "2026-07-06"
-summary: "Day eighty-three of renovation. Plumbing rerun, eighteen hundred more. Lao Zhou crushed his cigarette."
+summary: "On the eighty-third day of renovation, I looked at the bill and said nothing. For the first time, the dream became a bill."
 tags: ["Startup","Brand"]
 category: "insight"
 lang: "en"
 ---
-On the eighty-third day of renovation, it was raining in Changsha. I squatted in the bare concrete room, staring at the quotation. Plumbing rerun, eighteen hundred more. Lighting redesign, three thousand extra. The old elm slab for the bar was nearly double the budget. My partner Lao Zhou stood beside me smoking, grinding the cigarette out with his shoe. Neither of us spoke. That was September 2025, three months before opening.
+On the eighty-third day of renovation, I looked at the bill and said nothing.
 
-I'd spent ten years in brand work in Guangzhou before moving back to Changsha in 2025. I worked a day job, sat in bars at night, and started wanting one of my own. Puzi opened in December 2025 on the west bank of the river. I'm a co-founder, though really, "co" just means Lao Zhou calls the shots. His money, my ideas.
+I just sat there.
 
-We scouted a dozen spots and settled on the floor above Sam's Club in the Poly mall. Downstairs was the membership store; upstairs was commercial space. The day we went to look, it was a weekend. The line at Sam's spilled out to the curb, shopping carts clanking together. Lao Zhou stood upstairs looking down and said, "If we catch even a fraction of this foot traffic, we're fine." I thought so too. That judgment turned out to be the biggest mistake of the whole project, but that day we were both excited.
+The numbers in front of me were not surprising.
 
-The permits were another mountain. Each piece of paper had a window behind it. I lined up at the government center all day and finished two stamps. The woman behind the counter asked whether a small bar like ours could survive a year. I said, "We'll see." Ten years of brand work, and that day I learned the word "brand" was useless at a government counter.
+I knew every expense had happened.
 
-The drink list was the part I knew best. Eight classics on the left, the usual. The ten on the right I named the City Inspiration Series. The first draft was bloated. The bartender A-Jie read it and said, "Brother, people who are drinking don't want to read essays." We cut until each drink had one line. Peach Secret, the green crush hidden in white peach aroma. Half-Drunk, a decent buzz for the Star City wage earner. A-Jie took three tries to get Miss Tiffany right, rum with coconut milk.
+The materials.
 
-A-Jie left later. His girlfriend was moving to Shenzhen and he went with her. The night before he left, we finished the last glass of Espresso Dream at the bar. He said that drink was for people who work by day and dream by night, and that he was going to dream somewhere else. I didn't ask him to stay. In this business, people scatter before money does.
+The workers.
 
-The new bartender is Xiao Tang. Twenty-three, steady hands, but he didn't know Changsha. I took him to walk Yuelu Mountain. A May morning with thin mist, the grass and trees damp. He came back and mixed Yuelu Mountain, that grayish purple. AiWan Breeze was his too. He took a sip and said, "This wind is cool." I didn't tell him I'd been about to say the same thing.
+The equipment.
 
-The menu was another mess. Lao Zhou wanted pure Western food. I said people in Changsha don't crave steak at midnight. We ended up with a fusion menu. The Siamese sour-spicy crispy chicken is the signature. The western Hunan mountain pepper beef jerky fills the whole room with mujiangzi oil the moment it hits the table.
+The countless small decisions that slowly became a large number.
 
-Opening day was December 12, 2025. At eight in the evening, three tables were seated. I stood behind the bar slicing lemons, hands shaking. By eleven the bar was full. A girl ordered Peach Secret, finished it, and asked if the drink had a story. I said it did, the kind you never say out loud. She smiled and said she had one too. We closed at two in the morning. Revenue was under three thousand yuan. Lao Zhou worked the costs for a long time and said nothing.
+But seeing everything together on one piece of paper felt different.
 
-The numbers didn't go up. From the second week on, weeknights often meant two or three tables. The foot traffic at Sam's downstairs was real. But those people pushed their full shopping carts out the door and headed straight for the parking lot. Nobody looked up. One time I watched a man walk out carrying two crates of milk. He never broke stride. Lao Zhou said maybe weekends would be better. Weekends were slightly better, but most customers found us on Dianping and left after one drink. I'd assumed Sam's foot traffic would naturally spill upstairs. After we opened, I learned that Sam's shoppers and bar people simply aren't the same crowd.
+For the first time, the dream became a bill.
 
-By now, Puzi has been open seven months. Lao Zhou still does the books. Xiao Tang still mixes drinks. Line 2 to Line 6, fifty minutes to the shop. Last month a guest came four days in a row, ordering the same AiWan Breeze. On the fourth day he asked who named the drinks. I said, "Me." He said, "Nice."
+Before the renovation started, I imagined the finished place.
 
-After he left that night, the shop went quiet. Xiao Tang wiped down the bar. The air conditioning hummed. I sat in the innermost chair with a half-finished glass of water. Downstairs, the lights at Sam's were still on. Cars were still pulling out of the parking lot.
+The atmosphere.
 
+The customers sitting inside.
+
+The conversations that would happen there.
+
+The feeling of creating something from nothing.
+
+Those images were exciting.
+
+But building something is different from imagining something.
+
+The early days are full of uncertainty.
+
+A wall needs to be changed.
+
+A supplier delays delivery.
+
+A small problem creates another small problem.
+
+Every decision has a cost.
+
+Not only money.
+
+Time.
+
+Energy.
+
+Attention.
+
+Patience.
+
+People often see the final result.
+
+A beautiful space.
+
+A successful business.
+
+A finished product.
+
+But they rarely see the messy middle.
+
+The period when everything is incomplete.
+
+The period when you have invested a lot but cannot yet see the return.
+
+That is the hardest stage.
+
+Because you have already given something up.
+
+But you have not received anything back yet.
+
+Standing there with the bill in my hand, I had many thoughts.
+
+Was this the right decision?
+
+Did we spend too much?
+
+Could we have done it differently?
+
+Those questions are normal.
+
+Maybe necessary.
+
+Because every serious decision comes with uncertainty.
+
+The difference is whether you allow uncertainty to stop you.
+
+Or whether you learn to move with it.
+
+Looking back, I think renovation taught me something beyond construction.
+
+Building anything follows the same pattern.
+
+A company.
+
+A product.
+
+A career.
+
+A life.
+
+At the beginning, you mostly see problems.
+
+You fix one thing and discover another.
+
+You spend more than expected.
+
+You move slower than planned.
+
+You wonder whether you made the right choice.
+
+But gradually, things start to take shape.
+
+The empty space becomes a place.
+
+The plan becomes reality.
+
+The investment becomes experience.
+
+That day, I still worried.
+
+I would be lying if I said I was completely confident.
+
+But after putting the bill away, I continued.
+
+Because sometimes building something means accepting that doubt will always be part of the process.
+
+You do not wait until you feel certain.
+
+You keep going while uncertainty is still there.
+
+Eighty-three days of renovation.
+
+One long list of expenses.
+
+One unfinished dream.
+
+And one decision:
+
+Keep building.
