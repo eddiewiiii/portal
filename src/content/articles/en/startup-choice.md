@@ -2,22 +2,147 @@
 id: "startup-choice"
 title: "You Said You Wanted to Build Something"
 date: "2026-07-08"
-summary: "Flora spat clam shells on the table. Worst case, she said, burn the money with nothing to show."
+summary: "Building something is not only about creating. It is also about carrying."
 tags: ["Career","Startup"]
 category: "insight"
 lang: "en"
 ---
-One afternoon in October 2022, I sat at my desk at Pacific Auto writing a resignation letter. I wrote slowly. Deleted, revised, deleted again. The office air conditioning hummed. A colleague at the next desk was on a phone call, keeping his voice low. I typed a subject line, deleted it, and in the end just wrote one sentence: "I am resigning for personal reasons," followed by the date. The cursor hovered over the send button for about a minute. When I clicked, my palms weren't sweating. Just a tightness in my stomach.
+"You said you wanted to build something."
 
-It started two nights before. Flora had asked me to dinner at a dai pai dong in Tianhe. She said she wanted to start a parent-child study program and asked if I was in. Flora was a friend I'd known for a few years. She worked in education and had always wanted to go out on her own. On the table: a plate of stir-fried clams, two bottles of beer, and a pile of shrimp shells left by the previous customers, still uncleared. Flora spat clam shells onto the table while talking me through the numbers. How much it would cost to start from zero. What the worst case looked like. I listened, poking at the rice in my bowl with my chopsticks. The light bulb wasn't bright enough; it made her face look yellow, a bit of clam juice at the corner of her mouth.
+I still remember that sentence.
 
-I said things were fine for me at the big company. "Sure, things are fine," she said, "but you told me last time you wanted to build something of your own." I thought about it. I'd probably said that, some night when I was working late, complaining.
+At the beginning, building something sounds exciting.
 
-The next morning at work, I sat at my desk at Pacific Auto staring at the 52% number on the dashboard. I'd spent seven months pulling it up from 0.5%. When it got there I didn't feel happy. Just tired. In the afternoon there were two meetings. Someone said the next goal was to push activity to 70%. I sat in the conference room listening, and suddenly I couldn't muster any interest in dragging a number from 52 to 70. What Flora had talked about last night, starting from zero, kept turning over in my head.
+You imagine freedom.
 
-After the meetings I went back to my desk, opened my email, and started writing the resignation letter. While writing, I thought about the plate of clams at the dai pai dong, the juice at the corner of Flora's mouth, the way she tapped her chopsticks on the table when she was doing the math. She'd said the worst case was burning through the money and having nothing to show for it. "But at least you tried." I remembered that clearly.
+Creating something of your own.
 
-After I sent the letter, I went to find my direct manager. He was in his office, a cup of tea gone cold on the desk. He read the email, looked up at me for a moment, and asked if I'd thought it through. I said I had. He said I was doing well at Pacific Auto; the numbers were right there. "I know," I said. He didn't push. "Good luck, then," he said.
+Making decisions without asking permission.
 
-I walked out of his office and stood in the hallway. The hallway lights were white, a little harsh on the walls. I pulled out my phone and sent Flora a message: "I quit." She replied instantly with one word: "Do it." Then she sent a location pin, an office space she'd been looking at, in Panyu, Guangzhou. I tapped the pin. On the map it was a grey building with nothing around it.
+Seeing an idea become reality.
 
+It is a beautiful picture.
+
+And maybe that is why so many people are attracted to entrepreneurship.
+
+But the longer you stay on this road, the more you understand:
+
+Building something is not only about creating.
+
+It is also about carrying.
+
+Carrying uncertainty.
+
+Carrying responsibility.
+
+Carrying the moments when nobody knows whether you are moving in the right direction.
+
+When I first started, I thought the hardest part would be coming up with ideas.
+
+Later, I realized ideas are everywhere.
+
+The harder part is staying with an idea after the excitement disappears.
+
+When there are problems.
+
+When progress is slow.
+
+When the results are smaller than expected.
+
+When you start asking yourself:
+
+"Is this still worth it?"
+
+That is the moment that separates imagination from commitment.
+
+Anyone can talk about building something.
+
+The difficult part is continuing when building becomes ordinary.
+
+Because most days are not dramatic.
+
+There are no big announcements.
+
+No sudden breakthroughs.
+
+Just many small decisions.
+
+A customer conversation.
+
+A difficult choice.
+
+A problem that needs solving.
+
+A night spent thinking about what to do next.
+
+These moments rarely appear in the stories people tell about entrepreneurship.
+
+They usually show the beginning.
+
+The idea.
+
+The launch.
+
+The success.
+
+But the middle is where most of the journey happens.
+
+The unclear part.
+
+The quiet part.
+
+The part where you have to believe before there is much evidence.
+
+Over time, I started seeing building something differently.
+
+It is not about proving that you are special.
+
+It is about accepting that you are responsible.
+
+When something goes wrong, there is no one else to blame.
+
+When something needs to be done, someone has to do it.
+
+That responsibility can feel heavy.
+
+But it can also be meaningful.
+
+Because every small improvement belongs to you.
+
+Every problem solved becomes part of your experience.
+
+Every difficult moment becomes something you understand better.
+
+Looking back, I think the biggest change was not building a product or a business.
+
+It was building myself.
+
+The process forced me to become more patient.
+
+More realistic.
+
+More willing to learn.
+
+More comfortable with uncertainty.
+
+The person who wanted to build something at the beginning was full of excitement.
+
+The person who continues building today understands something different.
+
+The goal is not to avoid difficulty.
+
+Difficulty is part of the process.
+
+You build because you are willing to face what comes after the dream.
+
+So when someone says:
+
+"I want to build something."
+
+I always think about that sentence carefully.
+
+Because it is not only a dream.
+
+It is a promise.
+
+A promise that you are willing to stay when things become harder than you imagined.
