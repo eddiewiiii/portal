@@ -9,7 +9,7 @@ lang: "en"
 ---
 It was June in Guangzhou. The office AC was not strong enough, and sweat had glued my shirt to the back of the chair. On the desk lay a sheet of A4 paper, with twenty-some names scrawled in ballpoint, phone numbers beside them. Some names had ticks, some had crosses, most had nothing at all. I had just hung up from another call — the person on the other end heard "Hi, this is from Zuzuche" and pressed end. The third hang-up of the day.
 
-That was 2016. I had just joined Zuzuche doing BD. I had never made cold calls before. The first few times, my palms sweated so much the phone almost slipped. I stuttered mid-sentence. When the other person asked "Who is this again?" I almost couldn't answer.
+That was 2016. I had just joined Zuzuche doing market partnerships. My job was mainly to connect with internet companies, travel agencies, and overseas tourism boards. I had never made cold calls before. The first few times, my palms sweated so much the phone almost slipped. I stuttered mid-sentence. When the other person asked "Who is this again?" I almost couldn't answer.
 
 But slowly, I figured it out.
 
@@ -19,7 +19,7 @@ Can't make an appointment, try a different hour.
 
 Finally get them on the phone, then show up in person.
 
-There was one car-rental shop owner who said "I'm busy" three times on the phone. The fourth time, I called at a different hour, and he said, "Fine, come over." I sat in his office the whole afternoon. We talked about his shop's business for three hours, and barely touched on our product. Before I left, he said, "Add me on WeChat."
+There was one contact at Destination Canada who said "I'm busy" three times on the phone. The fourth time, I called at a different hour, and she said, "Fine, come over." I sat in her office the whole afternoon. We talked about their China market promotion plan for the second half of the year, and barely touched on our product. Before I left, she said, "Add me on WeChat."
 
 Starting a conversation — that, I learned, over three years, one call at a time.
 
