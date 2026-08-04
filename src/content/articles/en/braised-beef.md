@@ -35,7 +35,7 @@ For a while I figured, maybe this is just who I am now. A bit colder, a bit blun
 
 But last night's meal was different.
 
-When the braised beef came to the table, Mom picked a piece and said, today's is really flavorful. I didn't answer, just looked down and ate. In that moment, my chest slowly warmed. Not crying, not stirred up—just a slow, soft warmth pushing up from the stomach. Could've been the Sichuan pepper.
+When the braised beef came to the table, Mom picked up a piece and said, today's is really flavorful. I didn't answer, just looked down and ate. In that moment, my chest slowly warmed. Not crying, not stirred up—just a slow, soft warmth pushing up from the stomach. Could've been the Sichuan pepper.
 
 Films are other people's lives; I can't get in, can't catch the emotion. But a table of dishes I cooked myself, a table with Mom sitting at it—these most ordinary, most mine things, they got in at once.
 
