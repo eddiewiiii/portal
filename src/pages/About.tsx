@@ -17,11 +17,18 @@ export default function About() {
         </h2>
 
         <div className="space-y-8">
-          {[t("about.story_p1"), t("about.story_p2"), t("about.story_p3")].map((p, i) => (
+          {[t("about.story_p1"), t("about.story_p2")].map((p, i) => (
             <p key={i} className="text-lg sm:text-xl text-ink-muted leading-relaxed">
               {p}
             </p>
           ))}
+          <div className="space-y-3">
+            {[t("about.story_p3_1"), t("about.story_p3_2"), t("about.story_p3_3")].map((p, i) => (
+              <p key={i} className="text-lg sm:text-xl text-ink-muted leading-relaxed">
+                {p}
+              </p>
+            ))}
+          </div>
         </div>
       </section>
 
