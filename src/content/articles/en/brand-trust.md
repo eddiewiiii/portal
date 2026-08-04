@@ -23,7 +23,7 @@ There's a point Aaker makes that I especially agree with: a brand builds relevan
 
 That friend eventually went at his own pace. Three months later, he told me a batch of old users had started referring him organically. He hadn't run any special referral campaign. He'd just delivered on his promises every single time for three months.
 
-Plenty of brands die at the experience gap. Traffic comes in, delivery falls short, trust snaps, and growth instantly evaporates. The brands that last are almost without exception the ones that keep reinforcing trust through action on some small, specific front. The work on my own site, each project I've polished over time, none of them are "viral" on their own. But they're signals that keep building "this person is reliable."
+Plenty of brands die at the experience gap. Traffic comes in, delivery falls short, trust snaps, and growth instantly evaporates. The brands that last are almost without exception the ones that keep reinforcing trust through action on some small, specific front. The pieces on my own site, polished over time—none of them are "viral" on their own. But they're signals that keep building "this person is reliable."
 
 Traffic decides how fast you go. How far you go depends on trust.
 
