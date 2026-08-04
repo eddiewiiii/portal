@@ -7,30 +7,168 @@ tags: ["AI","Insight"]
 category: "creation"
 lang: "en"
 ---
-I used an AI tool to generate thirty-something topic ideas.
+I was given over 30 topics by AI the other night.
 
-One of them looked perfect: balanced title, fresh angle, airtight logic. Even the opening paragraph was drafted for me. I stared at it for five minutes. Something felt off. I couldn't say what exactly, but I just didn't want to write it.
+One of them looked perfect.
+
+The title was balanced.
+
+The angle was fresh.
+
+The logic was complete.
+
+Even the opening paragraph was already written.
+
+I stared at it for five minutes.
+
+Then I closed the document.
+
+Something felt wrong.
+
+I couldn't explain exactly what it was.
+
+I didn't want to write it.
 
 In the end, I threw it out.
 
-I've been using AI tools to help with topic brainstorming for about a year now. The feeling, if I had to compress it into one word, is split. On one hand, I genuinely can't work without it anymore. On the other, I'm constantly reminding myself not to get domesticated by it.
+I have been using AI tools for content creation for about a year now.
 
-It used to take me a whole morning to develop a deep-dive topic: brainstorming, researching, filtering angles, discussing with someone. Now I let AI handle the first pass of divergence. In the same amount of time, I get dozens of candidate directions, then spend my real energy on judgment and deep processing. This shift in workflow isn't about writing articles faster; it front-loads human judgment. The model covers breadth; I cover depth.
+The feeling is complicated.
 
-But the problem followed close behind. Once topic brainstorming got hyper-efficient, the warmth of content production became very easy to lose. AI-generated suggestions are usually logically correct, structurally neat, and look like they've said everything, but they're missing a kind of human feel. The imperfect perspective born of personal experience. The expression that only surfaces in a specific context. Once that warmth gets smoothed out, content turns into a standardized, assembly-line part, and readers can tell.
+On one hand, I honestly don't know how I worked without them before.
 
-The night I threw out that perfect topic, something clicked: the more perfect the direction AI gives me, the more I need to be on guard. Because perfect things tend to be average. And genuinely good topics always carry someone's particular obsession and blind spot.
+On the other hand, I keep reminding myself:
 
-I've been looking for a balance point over the past six months. A few things have worked.
+Don't let the tool become the person thinking.
 
-AI is a sparring partner for finding topics, not a teacher who decides them. I let it generate a lot of directions, but which one I actually pick is always based on my own experience, judgment, or even a split-second instinct. Like that night—those thirty-something directions were good, but the one I actually wanted to write came to me the next morning in the shower.
+Before AI, creating a deep-dive topic could take an entire morning.
 
-I read AI-generated text, but I don't paste it in. I rewrite it in my own speaking voice, even if the structure ends up less clean.
+Brainstorming.
 
-Sometimes I deliberately create friction for myself. I set AI aside entirely and go back to the dumbest method, flipping through books, handwriting outlines, just to keep that feeling of making my head hurt. It sounds inefficient. It's protecting the human warmth in the work.
+Researching.
 
-Brand Relevance actually makes a similar point: people form strong connections with certain brands not because they're more correct, but because they're more like a person. Content creation works the same way. AI can make us more efficient, more thorough, but it can't replace the motive behind why I think this way, and it can't replace those imperfect but sincere expressions.
+Finding angles.
 
-These days, I prefer to think of AI tools as an amplifier, not a replacement. It gives me more time for what actually matters: observing, thinking, feeling, and putting the warmth that only belongs to humans into every topic.
+Rejecting ideas.
 
-That topic I threw out that night, it eventually became, in another context, the piece you're reading right now.
+Discussing with someone.
+
+Now, I can ask AI to generate dozens of possible directions in minutes.
+
+That changed my workflow.
+
+But not in the way many people think.
+
+The value is not that I can write faster.
+
+The value is that I have more time to think.
+
+AI is good at expanding possibilities.
+
+It can show me paths I haven't considered.
+
+But choosing the right path is still my responsibility.
+
+The model gives me breadth.
+
+I need to provide depth.
+
+But there is another problem.
+
+The more efficient AI becomes, the easier it is to lose something important.
+
+Warmth.
+
+AI-generated ideas are usually impressive.
+
+They are logical.
+
+Clear.
+
+Well structured.
+
+They often look like they have already solved the problem.
+
+But sometimes they feel empty.
+
+They are missing the strange connection between a person's experience and a specific thought.
+
+The imperfect perspective.
+
+The obsession with one small detail.
+
+The sentence that only this person would write.
+
+Once everything becomes too smooth, content starts to feel like something produced by a machine.
+
+And readers can feel it.
+
+That night, throwing away the perfect topic made me realise something:
+
+The more perfect AI becomes, the more important human imperfection becomes.
+
+Because perfect ideas often become average ideas.
+
+The truly interesting ones usually contain someone's personal curiosity.
+
+Someone's bias.
+
+Someone's way of seeing the world.
+
+Over the past year, I have been trying to find the right balance.
+
+AI helps me explore.
+
+But it does not decide.
+
+I let it generate possibilities, but the final choice always comes from my own experience, judgment, and sometimes even a small instinct I cannot explain.
+
+Like that night.
+
+Those thirty-something topics were all reasonable.
+
+But the one I wanted to write came to me the next morning in the shower.
+
+I read AI-generated writing.
+
+But I don't copy and paste it.
+
+I rewrite it in my own voice, even if the structure becomes less perfect.
+
+Sometimes I deliberately make things slower.
+
+I put AI aside.
+
+I open a book.
+
+I write notes by hand.
+
+I struggle with an idea longer than necessary.
+
+It sounds inefficient.
+
+But that friction is where thinking happens.
+
+AI can remove obstacles.
+
+But some obstacles are where creativity comes from.
+
+These days, I think of AI as an amplifier, not a replacement.
+
+It gives me more time for the things that actually matter:
+
+observing,
+
+thinking,
+
+feeling,
+
+and turning those experiences into something only I could write.
+
+That perfect topic I threw away that night?
+
+It eventually became something else.
+
+Not because AI failed.
+
+Because I remembered why I was writing in the first place.
