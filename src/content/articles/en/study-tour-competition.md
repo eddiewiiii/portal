@@ -2,28 +2,129 @@
 id: "study-tour-competition"
 title: "The Afternoon Someone Yawned Across the Table"
 date: "2026-07-16"
-summary: "Page eight of the deck, the person across yawned, not looking at me, looking out the window."
+summary: "Someone yawned during our presentation. That small moment taught me communication is not about explaining more."
 tags: ["Study Tour","Insight"]
 category: "career"
 lang: "en"
 ---
-Winter 2023. Panyu, Guangzhou. A bidding room for a government project. The meeting room wasn't big, a round table, a few chairs, a whiteboard on the wall still marked with words from some other meeting that morning. Nobody had wiped it. I sat on one side of the table. Across from me sat a few representatives from the client side, and one of them, a middle-aged man, listened for a while and yawned without covering his mouth.
+During a competition presentation, someone across the table yawned.
 
-I held a deck in my hand. A4 paper, twenty-some pages. I was on page eight when he yawned. I stopped for two seconds and looked at him. He wasn't looking at me. He was looking out the window. Guangzhou was hot that day. The air conditioning was on in the room, but it didn't reach my side, and the small of my back was damp.
+It was only a small moment.
 
-The study-tour trade had been grinding hard since 2022. I ran Penguin Exploration, and the first event was in 2023, out in Nansha, Guangzhou, on a farm, the kind they call an agricultural park. Dozens of families came that day. The farm had a vegetable plot, and the kids squatted in the dirt picking greens. One small boy refused to stand up, fist full of bok choy he wanted to take home and eat. I stood at the edge of the plot watching. The sun wasn't too harsh, but squatting long enough made your legs go numb. After that event I thought this could work. The parents wanted to come, and the kids wanted to squat down.
+But I noticed.
 
-It didn't last.
+At that time, I had spent a lot of time preparing for this opportunity.
 
-The price comparisons in the parent groups got ruthless. One itinerary, five agencies quoting five prices, and parents would hash out a gap of a few dozen yuan for an entire afternoon. Someone stitched the five itineraries into a single image and dropped it in the group, comparing item by item: what time the meetup, what time the meal, whether insurance was included, what time the kids got dropped back. The parents compared it finer than procurement.
+The research.
 
-Route homogenization pushed in too. Of the outfits doing study tours in Guangzhou, four out of five ran the same intangible-heritage route, the same inheritor, the same workshop, and the handmade things the kids brought home were all the same. I went around and looked that year. I came back, sat a long time at my desk in the co-working space, and said nothing. The person at the desk across from me asked what was wrong. I said nothing, just thinking about how to be different from the rest.
+The ideas.
 
-Spring 2024. The event at the HKUST Guangzhou campus was an exception. I designed a route tied to campus research, walking the kids through the corridor outside a lab, letting them watch what the grad students were doing. That one hit a 60% conversion rate, with 40% organic traffic growth. But that was ground out event by event, and the whole time I was grinding it out, my palms were sweating.
+The slides.
 
-The middle-aged man who yawned at the bidding that day ended up picking another agency. Their price was lower than mine; the route was about the same. When I walked out of the meeting room, the sound-controlled light in the corridor came on, then went off. I stood there waiting for it to come on again. It didn't. I stamped my foot. It came on.
+Every detail had been discussed and adjusted many times.
 
-Juan is the word people use for the grind. Put plainly, it's everyone squeezing into the same spot. To break out of it, you have to find the piece of ground nobody has squatted on yet. That kid at the farm down south, clutching his greens and refusing to leave. I remembered that moment for a long time. Parents will pay for that instant of squatting down. They won't pay for an itinerary that looks like everyone else's.
+I believed that if we prepared enough, we could make people understand the value of what we were doing.
 
-Back home I opened an old file folder. The photo on the cover was the 2023 farm event: a few kids squatting in the field, backs to the camera, hands full of vegetables. Outside the window it had gone dark. The sound-controlled light in the hallway came on, then went off.
+So when we started presenting, I was confident.
 
+I explained our ideas.
+
+I talked about the plan.
+
+I tried to show why our approach was different.
+
+But halfway through, I saw that person yawn.
+
+For a second, I felt uncomfortable.
+
+Not because they were disrespectful.
+
+Maybe they were just tired.
+
+Maybe it meant nothing.
+
+But that moment forced me to face a difficult possibility:
+
+Maybe what I cared about was not what they cared about.
+
+After the presentation, I kept thinking about that scene.
+
+At first, I wanted to believe the problem was outside of us.
+
+Maybe the judges did not understand.
+
+Maybe they were not the right audience.
+
+Maybe they did not see the value.
+
+But later, I realized something more important.
+
+When we create something, we naturally become attached to it.
+
+We remember how much effort we put in.
+
+We remember the nights we spent working.
+
+We remember every detail behind the scenes.
+
+But other people do not experience those things.
+
+They only see what we show them.
+
+And if they cannot connect with it, the responsibility is not only theirs.
+
+It is also ours.
+
+That afternoon taught me that communication is not about explaining more.
+
+It is about understanding better.
+
+Before that, I often thought:
+
+"If I explain clearly enough, people will understand."
+
+Later, I learned:
+
+People do not understand because you explain everything.
+
+They understand because you explain what matters to them.
+
+The difference is small.
+
+But it changes everything.
+
+A product is not valuable because we know how much effort went into creating it.
+
+A story is not powerful because we spent a long time writing it.
+
+An idea is not meaningful because we believe in it.
+
+The value only appears when it reaches another person.
+
+After that competition, I started changing the way I approached communication.
+
+I paid more attention to the other side.
+
+What are they thinking?
+
+What questions do they have?
+
+What problem are they actually trying to solve?
+
+The goal is not to prove that we are right.
+
+The goal is to create understanding.
+
+Looking back, I am grateful for that yawn.
+
+It was uncomfortable at the time.
+
+But it showed me something I needed to learn.
+
+The best ideas are not the ones we love the most.
+
+They are the ones that can enter another person's world.
+
+Because communication is not about speaking.
+
+It is about being heard.
