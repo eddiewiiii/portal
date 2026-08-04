@@ -1,60 +1,116 @@
 ---
 id: "the-black-cat"
-title: "The Black Cat Downstairs"
+title: "The Corner Downstairs"
 date: "2026-07-26"
 summary: "They walk into your day because you stood still."
 tags: ["Growth","Insight"]
 category: "life"
 lang: "en"
 ---
-A black cat looked up at me from the corner of the building one night, eyes lit yellow in the dark. 
+A black cat looked up at me from the corner of the building one night.
+
+Its eyes caught the light, glowing yellow in the darkness.
 
 I stopped.
 
-I squatted to its level and stayed still, and within ten seconds it walked over and rubbed against my leg, then left, as if it had decided I was worth the trouble.
+I crouched down to its level and stayed there.
 
-I have started to notice how often this happens. I stop, in a city where almost no one does.
+Less than ten seconds later, it walked over, brushed against my leg, and then left again, as if it had decided I was safe enough.
 
-It starts on the way home. 
+I have started noticing how often this happens.
 
-The commute is long, and I leave the office and step into a sky still pink at the edges, streetlights coming on, a warm glow settling into the cold blue. 
+I stop.
 
-Sometimes the sun gets caught between two buildings, fat and red, and the whole street goes orange, and I stand at the corner a few seconds with stinging eyes, in no hurry. 
+In a city where almost everyone is rushing somewhere, I stop.
 
-Some evenings the purple arrives and the traffic softens to a blur. I walk with my camera on and stop caring about the angle, the clouds breaking into gold while people pass, small beneath a huge sky. 
+It usually happens on the way home.
 
-The best is the river at blue hour, after the sun is gone and the water has turned cobalt, the far shore strung with warm light, day and night trading places in minutes. 
+The commute is long. I leave the office and step into a sky that is still pink at the edges. Streetlights slowly come on. The city changes from bright to blue.
 
-By then I am nearly home, walking slower, the wind off the water clearing my head.
+Sometimes the sun gets trapped between two buildings, huge and red, turning the whole street orange.
 
-All day I rush. The train, the deadlines, the work that never ends. The ride home is the only moment I don’t. 
+I stand there for a few seconds.
 
-I let the sky do what it likes. 
+No hurry.
 
-But it was never the sky that taught me to slow down. It was the animals waiting downstairs.
+Some evenings, the sky turns purple. Traffic becomes a moving blur. I take out my camera, but after a while I stop worrying about getting the right angle. Clouds break apart into gold above me, and people walk past, small beneath the sky.
 
-There is the tabby, who wanders over while I stand at the entrance on my phone, flops down against my shoe, and washes its paw, glancing up now and then. 
+The best moments are by the river.
 
-The trust comes from nowhere. 
+At blue hour, after the sun disappears, the water turns deep blue. Lights begin appearing on the opposite shore. Day and night trade places within minutes.
 
-There is the dog at the lane, who starts wagging the second it sees me, whole body tilting toward my hand, no fear in it, just a need to be close.
+By then, I am almost home.
 
-I have wondered why strays, who are supposed to keep their distance, go soft around me. Some lean in without being asked. 
+The wind coming off the river clears my head.
 
-A few have let me pick them up. I don’t think it is charm. I think it’s the stillness.
+All day, I am moving.
 
-Everyone else passes with somewhere to be, a draft of wind behind them. 
+The train.
 
-Animals are built to fear anything moving toward a clear destination. But I have learned to go slow on the street. 
+The deadlines.
 
-I stand and look at the sky. I crouch to retie a shoe that isn’t loose. 
+The endless work.
 
-The moment I go still I am no longer a person passing through. I become something that is just there, and something that is just there is not dangerous.
+The journey home is the only time I don't have to.
 
-So they come. 
+I let the world happen.
 
-They sniff and lean and lie against me, and some let me hold them, because I stopped and gave them that extra second to decide.
+But it was not the sky that taught me to slow down.
 
-The sunset won’t wait. You catch it and keep one frame. 
+It was the animals waiting downstairs.
 
-The cats and dogs are different. They walk into your day because you stood still, and that, I think, is the tenderness of summer.
+There is the tabby cat that walks over when I stand at the entrance checking my phone. It lies against my shoe, washes its paw, and looks up at me from time to time.
+
+The trust comes from nowhere.
+
+There is the dog in the lane who starts wagging its tail the moment it sees me. Its whole body leans toward my hand. No hesitation. No calculation.
+
+Just wanting to be close.
+
+I have wondered why stray animals, who are supposed to keep their distance, sometimes become so gentle around me.
+
+Some let me pick them up.
+
+I don't think it is because I have any special charm.
+
+I think it is because I stay still.
+
+Everyone else is passing through.
+
+They have somewhere to go, something to finish, someone waiting for them.
+
+Animals understand movement differently.
+
+Something moving quickly toward a destination can be dangerous.
+
+But something that simply exists nearby is not.
+
+So I stand there.
+
+I look at the sky.
+
+I crouch down to retie a shoe that does not really need fixing.
+
+For a moment, I am no longer someone passing through.
+
+I am just there.
+
+And when I am just there, they come closer.
+
+They sniff.
+
+They lean.
+
+They rest against me.
+
+They give me the chance to hold them because I gave them the chance to decide.
+
+The sunset will not wait.
+
+You catch it once, keep one frame, and continue walking.
+
+Cats and dogs are different.
+
+They walk into your day because, for a moment, you stopped.
+
+And maybe that is the quiet tenderness of summer.
