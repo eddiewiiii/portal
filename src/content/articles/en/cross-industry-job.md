@@ -7,16 +7,126 @@ tags: ["Career","Methodology"]
 category: "career"
 lang: "en"
 ---
-June 2019, Guangzhou. I sat at the desk in my rented apartment, laptop open, my resume on the screen. The experience section was packed with tourism. Ping An Bank was there. Huaxia Bank was there. Hong Kong Airlines too, plus a promotional event for the South Australian Tourism Commission. All clients I'd handled doing business development at Zuzuche. The next day I was going to interview at Yiche, an automotive internet company, for a marketing role. Nowhere on that resume could you find a single word related to cars.
+The interviewer looked at my resume and asked:
 
-I highlighted the line "South Australian Tourism Commission promotional event," deleted it, hit undo, deleted it, hit undo. The cursor blinked on that line. Outside, someone downstairs was cooking. The smell of hot oil drifted up through the window. Delete those tourism clients and the resume would be mostly empty. Keep them and the interviewer would see immediately that I came from tourism. I edited until past midnight. In the end I kept a few lines, tucking the word "tourism" into the least conspicuous spots I could find.
+"Do you know cars?"
 
-The next day, the interview. The interviewer was in his thirties, black-framed glasses, a cup of coffee on his desk that he barely touched. He flipped through the resume a few times, looked up, and asked, "Have you ever worked in cars?" "No," I said. He followed up: "Then do you think you can do marketing for an automotive internet company?" My palms were a little damp, but my mouth kept going. I said I'd worked with rental car companies at Zuzuche, that people who rent cars and people who buy cars overlap in part of their decision-making path, that some of what I'd done could transfer over. He didn't respond. He wrote a few words on my resume. I had no idea what.
+I paused for a moment.
 
-I got the offer. After I joined, I found out he'd told someone I "answered honestly, didn't make things up."
+"No."
 
-In 2022, after seven months at Pacific Auto, I left to start Penguin Exploration. This time nobody interviewed me. I asked myself: have you ever done parent-child study programs? No. Have you ever built something from zero? Also no. I sat in the living room late into the night, a draft of a business plan spread on the coffee table, a cup of tea gone cold beside it. After all the asking, there was only one thing I could tell myself for certain: I knew how to find channels. Explaining an unfamiliar field clearly—I'd practiced that. Getting rejected and keeping the conversation going with a thick skin—I'd practiced that too. None of it had anything to do with parent-child study programs. Nothing to do with tourism or cars, either. But it all seemed usable wherever I went.
+It was the honest answer.
 
-After moving back to Changsha, I was talking with a friend who ran a restaurant. He was leaning on the counter with a dishcloth over his shoulder, the kitchen closed, his last waiter already gone home. He wanted to switch industries. He asked me if crossing over is hard. I said you can pick up the industry knowledge. What really gets you is sitting across from an interviewer, trying to make them believe your experience, all of it from outside their industry, is worth something. He said he didn't understand what I meant. I laughed. I said I couldn't really explain it either. Just that during that interview my palms sweated, and my mouth wouldn't stop.
+I had never worked in the automotive industry.
 
-That night I walked out of his shop. Not many people on the street. The streetlight stretched my shadow long. I reached the intersection and waited for the red light, hands in my pockets, and felt a crumpled receipt in one of them.
+I did not know engines.
+
+I could not tell the difference between different models.
+
+I did not grow up surrounded by cars.
+
+From the outside, I did not seem like the obvious person for the job.
+
+But I was interested in something else:
+
+How do people build trust around a product?
+
+At that time, I was more familiar with branding and communication.
+
+I understood how people discover something.
+
+How they form an impression.
+
+How a story can change the way they see a product.
+
+The company was looking for someone to help build an automotive brand.
+
+I was looking at an industry I knew almost nothing about.
+
+It was an unusual match.
+
+But maybe that was exactly why I wanted to try.
+
+The first few months were uncomfortable.
+
+I had to learn a completely new language.
+
+Technology.
+
+Manufacturing.
+
+User needs.
+
+Industry history.
+
+Every conversation revealed another thing I did not know.
+
+At first, that feeling was frustrating.
+
+I wanted to understand everything immediately.
+
+But slowly, I realized something:
+
+Not knowing is not the same as being incapable.
+
+It only means there is something new to learn.
+
+So I started asking questions.
+
+A lot of questions.
+
+I listened to engineers.
+
+I talked with people in the industry.
+
+I studied how customers thought about cars.
+
+The more I learned, the more I discovered that building a brand was not so different from what I had done before.
+
+Every industry has its own language.
+
+But behind every industry are still people.
+
+People looking for something.
+
+People making choices.
+
+People deciding what they can trust.
+
+The car was only the product.
+
+The relationship was the real thing.
+
+Over time, I became more comfortable.
+
+The person who once answered "no" in the interview slowly became someone who could sit in meetings and discuss automotive products, users, and markets.
+
+I did not become an expert overnight.
+
+I simply kept learning.
+
+One day, I looked back and realized something interesting:
+
+The thing that seemed like my weakness at the beginning became my advantage.
+
+Because I was not trapped by existing assumptions.
+
+I was not only asking:
+
+"How has this industry always worked?"
+
+I was also asking:
+
+"Why does it have to work this way?"
+
+Sometimes entering a new field as an outsider gives you a different kind of vision.
+
+You notice things that people inside the industry have stopped seeing.
+
+Looking back, I am grateful the interviewer asked that question.
+
+"Do you know cars?"
+
+Because my answer was no.
+
+And that was where the journey started.
