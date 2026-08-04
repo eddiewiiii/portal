@@ -7,39 +7,140 @@ tags: ["Travel","Insight"]
 category: "insight"
 lang: "en"
 ---
-We were at a Sexy Tea shop near Wuyi Square in Changsha, my friend and I, sitting for almost two hours.
+We sat in a Sexy Tea shop near Wuyi Square in Changsha for almost two hours.
 
-Last year we'd spent a couple of weeks looking into Changsha's K-12 study tour and wellness market together, visiting places, talking to people. The track turned out to be harder than expected. But that day, mid-conversation, he suddenly said, "Why does it seem like no one is seriously working on bringing elderly travelers from other cities to Changsha?"
+My friend and I had spent the past year looking into local opportunities together — study tours, wellness, different kinds of services. Some ideas worked. Some didn't. Most of the time, finding the right direction was harder than we expected.
 
-I paused, cup in hand. He'd been running local businesses in Changsha; he knew this market better than I did. I asked him why not try custom small-group tours for out-of-town seniors. He paused too:
+That day, halfway through our conversation, he suddenly said:
 
-"Never thought about it. Aren't people coming to Changsha mostly young folks? Drinking Sexy Tea, eating chili fried pork, taking photos?"
+"Why does it feel like nobody is seriously working on bringing elderly travelers from other cities to Changsha?"
 
-That reaction itself was telling. Two people who'd studied Changsha's local service market had never once considered this angle.
+I looked at him.
 
-When I got home, I pulled some numbers. China's population over 60 has already surpassed 280 million. Changsha's silver economy is currently around 80 billion yuan. During the 2025 Spring Festival, Changsha received 9.49 million visitors; nearly three in ten were over 50. Tongcheng Travel's data is even more direct: per-capita accommodation spending for users over 60 is more than 30% higher than that of younger groups. In the custom tour segment, seniors spend over 12,000 yuan per trip on average.
+He had been running businesses in Changsha for years. He understood the city better than I did.
 
-In other words, it's not that seniors won't spend money. They won't spend it on products that don't fit.
+I asked:
 
-But scroll through any OTA platform and you'll barely find a single Changsha itinerary designed for seniors. It's all the young-people version: check in, snap photos, power through. Most "senior group tours" are still the same formula: bus shuttle, landmark photo stop, group meal, shopping stop. One survey I read said over 70% of senior travelers feel existing products are more "rushing through sights" than actually seeing anything. For young people, that's a packed itinerary. For seniors, it's an ordeal.
+"Why not try customized small-group trips for seniors?"
 
-Last month I made a trip to Dongmao Street Teahouse. It's a 1952 assembly hall converted into a teahouse: 2 yuan scallion rice cakes, 5 yuan peanuts and sunflower seeds, 8 yuan unlimited tea refills. Seniors already make up 40% of the clientele. I sat in a corner and watched for an afternoon. Most of the regulars were locals, but every now and then I'd catch an out-of-town accent. A retired teacher from Wuhan sat by the window, ordered a pot of tea, and spent the whole afternoon reading Changsha Evening News. He told me he'd been traveling twice a year since he retired, and he regretted booking a tour group every single time. "The last one, four hours on a bus. Got there, took photos, left."
+He thought for a moment.
 
-He said it flatly, like he was describing something he'd long since accepted.
+"Never thought about it," he said. "Aren't people coming to Changsha mostly young people? Drinking Sexy Tea, eating spicy crayfish, taking photos?"
 
-Changsha actually has plenty that suits older travelers. Mawangdui, Yuelu Academy, Tongguan Kiln—young people might snap a photo and move on, but seniors will stand there and look for a long time. Ningxiang Huitang Hot Springs and Malin Hot Springs are positioning themselves around wellness. Seven locations including the Zhang Zhongjing Cultural Park and Jiuzhitang TCM Museum are already on Hunan's first batch of premium TCM wellness travel routes. Transport is easy too; high-speed rail and flights connect to all major cities, ideal for a three-to-five-day trip.
+That answer stayed with me.
 
-Policy and infrastructure are both moving in this direction. All 34 of the city's 4A-level and above scenic spots have completed accessibility renovations. Yuelu Mountain's cable car upgrade pushed the senior visitor share to 30%. This year, silver tourist trains started running into Changsha, 67 of them in Hunan so far, serving over 50,000 senior travelers. If someone could handle the "last mile" after the train arrives—pickup, lodging, custom itinerary, drop-off—that's a complete loop.
+Because it was exactly what I had been thinking too.
 
-But genuinely senior-savvy custom products are still scarce. The question my friend asked me that day at Sexy Tea points to something concrete: Where do the customers come from? How do you price it? How do you earn their trust?
+When people talk about Changsha tourism, the image that comes to mind is almost always the same:
 
-On acquisition, OTA platforms don't reach older users well. Offline travel agencies, community channels, senior university networks, referrals from adult children—those might work better. On pricing, I wasn't sure at first. A small custom group costs more than a bus tour, obviously. But do seniors really mind? I dug into the numbers: over 60% of retirees have an annual travel budget above 5,000 yuan, and plenty spend over 12,000 on a single custom tour. It's not that they can't afford it. It's that they need to feel it was worth it.
+Young faces.
 
-Trust might be the hardest part. The senior travel market has been burned too many times by low-price traps and forced-shopping tours. The moment some seniors hear "travel agency," their guard goes up. The 2026 national standard, Travel Agency Service Requirements for Elderly Tourists, sets specific guidelines on itinerary design, shopping, and safety. But standards alone aren't enough. Someone has to actually follow them.
+Crowded streets.
 
-When we left the teahouse, it was already dark. Wuyi Square was still packed, all young faces. I stood by the road waiting for a car, thinking about what the retired teacher from Wuhan had said.
+Check-in spots.
 
-He'd added my WeChat before leaving. Last week he sent me a message, said he wants to bring his wife back to Changsha in September, asked if I could help arrange it. He said no rush, take it slow.
+Food.
 
-I wrote back: okay.
+Photos.
 
+Energy.
+
+But maybe we were missing another group of people.
+
+When I went home, I started looking into the numbers.
+
+China already has more than 280 million people over 60. Changsha has a large and growing senior economy. Older travelers are not unwilling to spend money. They simply need products designed around the way they actually travel.
+
+The problem is that most existing travel products still follow the same formula:
+
+A bus.
+
+A rushed schedule.
+
+A few famous attractions.
+
+A group photo.
+
+Then leave.
+
+For young people, a packed itinerary can feel exciting.
+
+For seniors, it can feel exhausting.
+
+Last month, I visited Dongmao Street Teahouse.
+
+It is an old gathering place converted into a teahouse. The prices are simple: cheap snacks, tea refills, and people sitting there for hours.
+
+Many of the customers were older people.
+
+I sat in a corner and watched.
+
+Most were locals, but occasionally I heard an accent from somewhere else.
+
+One retired teacher from Wuhan sat by the window with a cup of tea and a newspaper.
+
+He told me he had traveled twice a year since retirement.
+
+But every time he joined a traditional tour group, he regretted it.
+
+"The last one," he said, "four hours on a bus. Arrive, take photos, leave."
+
+He said it calmly.
+
+Not angry.
+
+Almost as if he had already accepted that this was simply how travel worked.
+
+But maybe it does not have to.
+
+Changsha actually has many places that older travelers might appreciate.
+
+Yuelu Academy.
+
+Mawangdui.
+
+Tongguan Kiln.
+
+Places where young visitors might take one photo and move on, but older visitors may spend time looking, asking questions, remembering.
+
+The city already has the resources.
+
+What is missing is the connection.
+
+The question is not:
+
+"Are seniors willing to travel?"
+
+The question is:
+
+"Who understands how they want to travel?"
+
+Because older travelers are not looking for a faster version of young people's trips.
+
+They are looking for something slower.
+
+More comfortable.
+
+More meaningful.
+
+A trip where they can sit down, listen, talk, and actually experience a place.
+
+When we left the teahouse, it was already dark.
+
+Wuyi Square was still crowded.
+
+Young people everywhere.
+
+I stood by the road waiting for a car and thought about what the retired teacher had said.
+
+A week later, he added me on WeChat.
+
+He sent me a message saying he wanted to bring his wife back to Changsha in September.
+
+Could I help arrange something?
+
+"No rush," he wrote.
+
+"Take your time."
+
+I replied okay.
