@@ -7,14 +7,140 @@ tags: ["Career","Insight"]
 category: "career"
 lang: "en"
 ---
-Morning rush hour in Changsha. Line 2 to Line 6, forty minutes each way. I go through the gate at seven forty every morning. The car's packed too tight to turn around. Some people look down at their phones. Some lean against the door with their eyes closed. I like to stand in the section between cars, one hand on that cold metal pole. Most days I let my mind go blank for those forty minutes. But sometimes my brain starts up on its own, drifting to some moment when I made a decision.
+Every morning, I took Line 2 to Line 6.
 
-Early 2022, still at Yiche. One afternoon at my desk in Guangzhou's TIT Creative Park, I got a message from a headhunter. Pacific Auto was hiring. I didn't reply right away. Yiche was a big company. The work flowed smoothly, the benefits were good, and in the afternoon the sun came through the window and fell across the keyboard. Pacific Auto was a big company too, but the role meant taking over a mess of data, and you'd have to sort it out yourself. When I left work that day and walked to the gate of the creative park, the sky was overcast. Wind blew through the gaps between the old factory buildings and cleared my head a little. I pulled out my phone and messaged the headhunter: "Sure, let's talk." I went. Stayed seven months.
+Forty minutes each way.
 
-Seven months later I decided to leave and start something. That night at a dai pai dong in Tianhe, Guangzhou, I had dinner with Flora, who would later start Penguin Exploration with me. On the table: a plate of stir-fried clams, two bottles of beer. Flora spat the clam shells onto the table, counting out loud how much it would cost to start from zero. I listened, poking at the rice in my bowl with my chopsticks. The light bulb at the dai pai dong wasn't bright enough; it made everyone's face look yellow. I told her I could quit. Flora looked at me. "You sure about this?" I said I was sure. The truth is, I wasn't really sure that night. But back in my apartment, lying on the bed staring at the ceiling, I felt like staying in a big company any longer would dull me.
+For many people, a commute is just time spent getting from one place to another.
 
-Late 2024. Penguin Exploration had been going for over two years. One night I was revising a proposal in the living room until eleven. Outside, the Guangzhou skyline was the same stretch of lights as always. I closed the laptop and sat on the couch for a while. Deciding to go back to Changsha didn't have a dramatic moment. It was on that couch. Suddenly I felt like the last ten years of Guangzhou's lights had nothing to do with me. I told Flora the next day. She was quiet for a moment, then said, "It's good for you to go back."
+For me, those forty minutes became a small part of my life.
 
-After moving back to Changsha, I work during the day and sometimes go to the bar at night. The bar's called Puzi. I started it with a partner whose family name is Zhou. The night we decided to open it, I was at his place drinking. Past midnight he said, "Let's open a bar together." I was a bit drunk. "Sure," I said. The next morning I thought about it, and it still seemed fine. The day job has its own rhythm, the bar has its own rhythm. The two together give me some kind of balance; I feel more clear-headed than when I was only doing one thing.
+I worked in Changsha.
 
-The subway announced the station. Line 6. I let go of the pole. My palm was cold. When the doors opened, air from the platform rushed in, carrying a faint dampness from underground.
+Home was in Zhuzhou.
+
+Every day, I crossed between two cities.
+
+The train was always moving.
+
+People stood with their headphones on.
+
+Someone looked at their phone.
+
+Someone closed their eyes and rested.
+
+Everyone was going somewhere.
+
+At first, I hated the commute.
+
+Forty minutes felt long.
+
+Forty minutes in the morning.
+
+Forty minutes after work.
+
+Almost an hour and a half every day disappeared into the road.
+
+I wondered:
+
+Was this worth it?
+
+But slowly, something changed.
+
+The train became my quiet time.
+
+Before work, I prepared myself for the day.
+
+After work, I had forty minutes to let everything settle.
+
+The meetings.
+
+The problems.
+
+The conversations.
+
+The things I said.
+
+The things I should have said.
+
+Sometimes I read.
+
+Sometimes I listened to music.
+
+Sometimes I simply watched the scenery outside the window.
+
+Nothing special happened.
+
+But those ordinary moments gave me space to think.
+
+Looking back, I realize many important periods of life do not feel important while they are happening.
+
+They just feel repetitive.
+
+You wake up.
+
+You go to work.
+
+You come home.
+
+You do it again tomorrow.
+
+But somewhere inside that repetition, something is changing.
+
+You are learning.
+
+You are becoming more patient.
+
+You are understanding yourself better.
+
+At that time, I was still figuring out what I wanted.
+
+Career.
+
+Direction.
+
+The kind of person I wanted to become.
+
+I did not have all the answers.
+
+Maybe nobody does.
+
+But every morning, I still took the same train.
+
+Line 2.
+
+Then Line 6.
+
+Forty minutes each way.
+
+Years later, I no longer remember every meeting from that period.
+
+I don't remember every difficult day.
+
+But I remember the train.
+
+The quiet carriage.
+
+The city passing outside the window.
+
+The feeling of moving forward, even when I was not completely sure where I was going.
+
+Maybe life is like that.
+
+Most of the journey is not made during the big moments.
+
+It is made during the ordinary ones.
+
+The repeated ones.
+
+The forty minutes each way.
+
+The days when nobody notices.
+
+The days when you are simply showing up.
+
+And then one day, you look back and realize:
+
+You were not just commuting.
+
+You were becoming.
