@@ -2,19 +2,121 @@
 id: "three-industries-five"
 title: "The Phone Call They Hung Up On Three Times"
 date: "2026-07-14"
-summary: "They hung up three times. The fourth call, they finally listened and said, send materials."
+summary: "They hung up three times. The fourth call, they finally answered. The first three were not failures."
 tags: ["Career","Methodology"]
 category: "career"
 lang: "en"
 ---
-Guangzhou, June. The office air conditioning wasn't doing its job. Sweat pasted my shirt to the back of the chair. On the desk I had a sheet of A4 paper with twenty-some names written in ballpoint, phone numbers beside them. Some names had check marks, some had crosses, most had nothing at all. I had just finished a call. The person on the other end heard "Hi, I'm from Zuzuche" and hung up. Third person to hang up on me that day.
+The first time they hung up, I thought it was normal.
 
-That was 2016. I had just joined Zuzuche doing business development. Before that I had never made a cold call. The first few times, my palms would sweat. I'd get stuck mid-sentence, and when they asked "Who is this?" I almost couldn't answer. Eventually I found the rhythm. They hang up, you call back. Can't meet this week? Try a different hour. When someone finally says come over, you go sit in their office. There was one rental car boss who said "no time" three times on the phone. The fourth time I called at a different hour, he said, "Alright, come over." I sat in his office the whole afternoon. We talked about his business and barely touched our product. When I left he said, "Add my WeChat." Learning to open my mouth took about three years.
+The second time, I wondered if I should stop.
 
-In 2019 I went to Yiche, working in that building in Guangzhou's TIT Creative Park. My desk faced the window. In the afternoons the sun came in at an angle and glared off the screen, so I kept shifting my chair to the left. We were building the MO Card, a car owner membership system. When I first took it on, things were tangled. What the partners wanted didn't line up with the product logic, and operations was running on its own rhythm. Everything knotted together. My daily work was pulling those threads out one by one and connecting them where they needed to go. One afternoon I sat through four meetings back to back. By the time the last one ended, it was already dark. I sat at my desk, took a photo of the flow chart on the whiteboard, and sent it to a colleague with the caption "finally got this thing to look like something today." Gathering scattered things takes patience, and knowing which thread connects where.
+The third time, I almost gave up.
 
-March 2022. I joined Pacific Auto as senior business operations manager. There was a number that looked bad when I walked in. User activity rate: 0.5%. I sat in the conference room with the projection on the wall, that number like a white stain. My boss said get it to a respectable number within seven months. I didn't say anything. I went back to my desk and spent two days digging through the backend. What came after wasn't complicated to describe. Tweak a rule, push a campaign, find the data hasn't moved, and go back looking for the problem. For seven months I rarely left before ten at night. In October the activity rate hit 52%. I stared at the backend dashboard for a long time. I didn't feel happy. Just tired.
+But I called again.
 
-That same October I left Pacific Auto and started Penguin Exploration with a partner. We had no office, so we worked out of my living room, the coffee table buried under laptops and takeout boxes. We had to find clients ourselves, and we didn't even have the shadow of a real product yet. The first client took six or seven visits to sign. The night we signed, I sat in the living room for a long time. Outside, the Guangzhou skyline lit up patch by patch. Building something from zero—the hardest part is the very beginning, when you don't know if what you're building is something anyone wants.
+Looking back, that phone call taught me something important about business.
 
-In 2025 I moved back to Changsha. By day, I go to work. Some nights I go to the bar. The bar is called Puzi. I started it with a partner whose family name is Zhou. One night I stood behind the bar counter watching a customer order a drink, take two sips, set it down, and say something to his friend. Both of them laughed. It hit me that in ten years of doing this, I'd been learning how to make things and push them out. What I've been slowly picking up since coming back to Changsha is something else: stopping to see whether the thing you made is something anyone actually uses. The light behind the counter was warm yellow, falling on that glass with two sips taken from it.
+Not every rejection means no.
+
+Sometimes it only means:
+
+Not yet.
+
+At the beginning, when you are building something new, rejection is unavoidable.
+
+People do not know you.
+
+They do not know your product.
+
+They do not know whether you can deliver what you promise.
+
+From their perspective, saying no is often the safest choice.
+
+The mistake is thinking every rejection is personal.
+
+I used to do that.
+
+When someone refused to talk, I felt like I had failed.
+
+Maybe our idea was not good enough.
+
+Maybe we were not convincing enough.
+
+Maybe we were wasting our time.
+
+But later, I learned that rejection often has less to do with you than you imagine.
+
+Sometimes people are busy.
+
+Sometimes the timing is wrong.
+
+Sometimes they simply do not understand the value yet.
+
+The question is not:
+
+"How do I avoid rejection?"
+
+The question is:
+
+"What can I learn from it?"
+
+After the third hang-up, I did not immediately call again.
+
+I thought about what had happened.
+
+Maybe I was explaining too much.
+
+Maybe I was asking for trust before I had earned it.
+
+Maybe I needed to understand their concerns better.
+
+So I changed my approach.
+
+I stopped trying to push the conversation forward.
+
+I started listening.
+
+What problem were they actually facing?
+
+What made them hesitate?
+
+What would make this valuable for them?
+
+The next conversation was different.
+
+Not because I found a magic sentence.
+
+Because I finally understood that communication is not about forcing someone to agree with you.
+
+It is about helping two people understand each other.
+
+Over time, I realized many opportunities are lost not because people say no.
+
+They are lost because we leave too early.
+
+We hear rejection and assume the door is closed.
+
+But sometimes, the door is only closed for today.
+
+The important thing is knowing when to continue and when to let go.
+
+Persistence does not mean endlessly chasing something that has no possibility.
+
+It means being patient enough to understand the difference between rejection and timing.
+
+That phone call stayed in my memory.
+
+Not because someone hung up.
+
+But because someone eventually answered.
+
+And when they did, the conversation was completely different from what I expected.
+
+The first three calls were not failures.
+
+They were part of building trust.
+
+Sometimes, the answer is not hidden behind a better explanation.
+
+Sometimes, it is hidden behind one more attempt.
