@@ -19,7 +19,7 @@ It starts on the way home.
 
 The commute is long, and I leave the office and step into a sky still pink at the edges, streetlights coming on, a warm glow settling into the cold blue. 
 
-Sometimes the sun gets caught between two buildings, fat and red, and the whole street goes orange, and I will stand at the corner a few seconds with stinging eyes, in no hurry. 
+Sometimes the sun gets caught between two buildings, fat and red, and the whole street goes orange, and I stand at the corner a few seconds with stinging eyes, in no hurry. 
 
 Some evenings the purple arrives and the traffic softens to a blur. I walk with my camera on and stop caring about the angle, the clouds breaking into gold while people pass, small beneath a huge sky. 
 

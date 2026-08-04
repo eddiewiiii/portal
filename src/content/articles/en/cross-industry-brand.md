@@ -11,9 +11,9 @@ Summer 2017, a tower in Tsim Sha Tsui, Hong Kong, somewhere above the twentieth 
 
 Two laptops on the table, mine and theirs. I opened the deck, got halfway through, and the woman with glasses across the table nodded and said, "On this points-redemption entry, we can do it as the first platform partner of this kind." My palms were a little damp, but I kept that to myself. Beyond the glass wall of the meeting room was Victoria Harbour, boats crawling slowly across the water.
 
-I'd been at Zuzuche a few years by then, handling brand and partnerships. Zuzuche did overseas self-drive rentals, took people from China and put them into cars abroad, had them drive foreign roads. Stripped down, it was moving people from one place to another, and the moving itself was the seam we had to fill. Asia Miles moved people from the ground to the sky, miles and points building a bridge in between. The two businesses looked far apart. Pulled apart to the bottom, both were about carrying a person from one scene into another.
+I'd been at Zuzuche a few years by then, handling brand and partnerships. Zuzuche did overseas self-drive rentals, took people from China and put them into cars abroad, had them drive foreign roads. Stripped down, it was moving people from one place to another, and the moving itself was the seam we had to fill. Asia Miles moved people from the ground to the sky, miles and points building a bridge in between. The two businesses looked far apart. Stripped to the bottom, both were about carrying a person from one scene into another.
 
-The air kept blowing. I drank some water, it was cold.
+The air kept blowing. I drank some water; it was cold.
 
 2020, a different place: Guangzhou, TIT Creative Park. Yiche's Guangzhou office sat there. The park had a few coffee shops, and in the afternoons people wandered around holding cups. My desk was by the window; I could see a few trees in the green strip below.
 

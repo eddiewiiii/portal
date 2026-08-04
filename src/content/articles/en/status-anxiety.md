@@ -61,7 +61,7 @@ I stood behind them and watched for a while. When the old man walked out of the 
 
 Walking home with my own bag, I noticed the sun was just right. A kid on the sidewalk was riding a hoverboard. He fell, got back up, kept riding.
 
-I suddenly thought: I've been running a race. A race where I had to be seen, chosen, remembered. But I never actually signed up. That finish line I thought proved I had value if someone paid attention to me, every time I got close, it moved further away.
+I suddenly thought: I've been running a race. A race where I had to be seen, chosen, remembered. But I never actually signed up. That finish line I thought would prove I had value if someone paid attention to me—every time I got close, it moved further away.
 
 Maybe the point was never to win.
 

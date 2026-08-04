@@ -57,7 +57,7 @@ export const fmSongs: FmSong[] = [
     artist: `Taylor Swift`,
     album: `The Tortured Poets Department`,
     review: {
-      en: `Your therapist asks you to name a time you felt capable this month. You think about the morning you made coffee without crying. That's it. That's the whole list. You see him everywhere, the guy at the bodega has his walk, the barista has his laugh. You write an email you'll never send. Delete it. Write it again. A friend says you need a hobby. You already have one: wanting him. It's exhausting and you're somehow never tired.`,
+      en: `Your therapist asks you to name a time you felt capable this month. You think about the morning you made coffee without crying. That's it. That's the whole list. You see him everywhere. The guy at the bodega has his walk, the barista has his laugh. You write an email you'll never send. Delete it. Write it again. A friend says you need a hobby. You already have one: wanting him. It's exhausting and you're somehow never tired.`,
       zh: `超市里你推着购物车走到饮料区，他喜欢的那个牌子的气泡水在第二排。你伸手去拿，指尖碰到瓶身的那一刻手抖了一下。你拿着那瓶水站在货架前站了很久，旁边的人推车过来你也没动。后来你把水放回去了，又拿出来，最后还是放回去了。结账出来外面下起了雨，你没带伞。你就那么推着车站在门口，雨水打在脸上你也站着。保安过来问你是不是等人。你摇头。你不知道自己在等什么，但你站了二十分钟才走。回去的路上你把车推得很快，像在逃跑。`,
     },
   },
@@ -66,7 +66,7 @@ export const fmSongs: FmSong[] = [
     artist: `Taylor Swift`,
     album: `Red (Taylor's Version)`,
     review: {
-      en: `The scarf still smells like him if you bury your face in it hard enough. You keep it in a drawer with the ticket stub, the photo where you're both blurry, the note he wrote on a napkin: don't forget me. You didn't. That's the problem. New people ask about your past and you give them the short version. Alone, you give the long one, the scarf, the stub, the napkin, the way he laughed when it rained, the way he stopped laughing after. You could write a novel. You'd rather not. You'd rather remember.`,
+      en: `The scarf still smells like him if you bury your face in it hard enough. You keep it in a drawer with the ticket stub, the photo where you're both blurry, the note he wrote on a napkin: don't forget me. You didn't. That's the problem. New people ask about your past and you give them the short version. Alone, you give the long one: the scarf, the stub, the napkin, the way he laughed when it rained, the way he stopped laughing after. You could write a novel. You'd rather not. You'd rather remember.`,
       zh: `你记得那天他穿的蓝色卫衣，袖口磨了边。点菜时他跟服务员说了两遍不要香菜。太阳从西边照进来，他的影子比桌子还长。他付钱时掏的是现金，一张五十，三张十块。站起来的时候椅子在地上蹭了一下。走到停车场他先拉开了车门。你什么都记得。现在你跟别人吃饭，对方问你刚才在想什么，你说没什么。你手指在桌布上无意识地画了个圈，那是他那天用筷子蘸水在桌上画的形状。`,
     },
   },
@@ -75,7 +75,7 @@ export const fmSongs: FmSong[] = [
     artist: `Taylor Swift feat. Bon Iver`,
     album: `folklore`,
     review: {
-      en: `You thought he was leaving you. He thought you already had. Two truths, same kitchen, different sides of the table. "I tried," he says. "I waited," you say. Neither of you is lying. You pack your bag. He doesn't stop you, thinks you want to go. You go. Years later a mutual friend mentions his name and you feel the old wound open like a door you forgot to lock. You didn't leave each other. You just never arrived at the same place at the same time.`,
+      en: `You thought he was leaving you. He thought you already had. Two truths, same kitchen, different sides of the table. "I tried," he says. "I waited," you say. Neither of you is lying. You pack your bag. He doesn't stop you, thinking you want to go. You go. Years later a mutual friend mentions his name and you feel the old wound open like a door you forgot to lock. You didn't leave each other. You just never arrived at the same place at the same time.`,
       zh: `咖啡店那天下雨。他想解释，你摆手说不必了。出门时他追出来给你撑伞，你钻进出租车没接。后来你在车里看手机，他发消息：其实那天我是想说你妈来电话了，你妹妹考上了。你愣住。他说的全是日常，你一直以为他要说分手。出租车在红灯前停了，你看着窗外雨刷扫来扫去。你想回点什么，但红灯结束了。`,
     },
   },
@@ -111,7 +111,7 @@ export const fmSongs: FmSong[] = [
     artist: `Taylor Swift`,
     album: `evermore`,
     review: {
-      en: `He got down on one knee in front of everyone you love. You said no. Not because you don't love him, you do, in the way you love things that are too good for you. In the way you're afraid good things expire. He cried. You held him. People think you're cold. You know you're the opposite, so warm you burn everything you touch, so you stopped reaching for the good stuff. He deserved better. You told him that. He said he didn't believe you. You wish you didn't either.`,
+      en: `He got down on one knee in front of everyone you love. You said no. Not because you don't love him—you do, in the way you love things that are too good for you. In the way you're afraid good things expire. He cried. You held him. People think you're cold. You know you're the opposite—so warm you burn everything you touch, so you stopped reaching for the good stuff. He deserved better. You told him that. He said he didn't believe you. You wish you didn't either.`,
       zh: `他跟你求婚的时候所有人都看着你。你蹲下来说鞋带松了，其实鞋带没松。你只是需要三秒钟想怎么说"不"。雪落在头发上，他伸手帮你拂掉。你站起来，说我配不上你。这句话是真的，但不是因为你不够好，是因为你没法爱任何人，他就是太好了才让你害怕。你走了两步，回头看门牌号，是你背了三个月的地址。你没上去。`,
     },
   },
@@ -138,7 +138,7 @@ export const fmSongs: FmSong[] = [
     artist: `Shawn Mendes`,
     album: `Illuminate`,
     review: {
-      en: `You almost call him. Almost get on the train. Almost knock on the door you've knocked on a hundred times before. Something stops you, not pride, not sense. Fear. Fear that this time he'll open it and you'll see he moved on. Fear that he won't open it at all. You walk past the building three times. Go home. Lie in bed with your phone in your hand like a grenade you don't have the courage to throw.`,
+      en: `You almost call him. Almost get on the train. Almost knock on the door you've knocked on a hundred times before. Something stops you—not pride, not sense. Fear. Fear that this time he'll open it and you'll see he moved on. Fear that he won't open it at all. You walk past the building three times. Go home. Lie in bed with your phone in your hand like a grenade you don't have the courage to throw.`,
       zh: `周五下班你走到地铁站，刷卡进去了，又退出来。你站在站口想了三分钟，转身往反方向走。走了两条街，风灌进领口，你把外套拉链拉到最上面。你去了他家楼下，抬头看那扇窗，灯亮着。你在楼下站了十分钟，没上去。旁边烧烤摊的烟飘过来，你眼睛有点酸。你掏出手机打了个车，上车报了自家地址。车开过两个红绿灯，你突然说师傅掉头，去刚才那个地方。司机看了你一眼没说话，打了转向灯。到了楼下灯还亮着。你坐在后座，把车窗摇下来，闻到那股烧烤味。你说了句谢谢师傅，付了钱下车。`,
     },
   },
@@ -147,7 +147,7 @@ export const fmSongs: FmSong[] = [
     artist: `Katy Perry`,
     album: `Witness`,
     review: {
-      en: `She saw you fall apart in the break room. Didn't tell anyone. Didn't use it against you in the meeting the next day. You owe her something for that, not love, maybe, but the kind of loyalty that starts when someone keeps your secret. You start looking for her in the hallway. Saving her a seat. Remembering how she takes her coffee. It's not romance yet. It's the beginning of being seen, and you're so hungry for it you could cry.`,
+      en: `She saw you fall apart in the break room. Didn't tell anyone. Didn't use it against you in the meeting the next day. You owe her something for that—not love, maybe, but the kind of loyalty that starts when someone keeps your secret. You start looking for her in the hallway. Saving her a seat. Remembering how she takes her coffee. It's not romance yet. It's the beginning of being seen, and you're so hungry for it you could cry.`,
       zh: `你在公司一直是个很得体的人，开会发言从不掉链子。有一天加班到很晚，整层楼只剩你和一个新来的实习生。你趴在桌上哭了起来，没忍住。她没说话，递了张纸巾给你。你接过来擦了擦脸，说不好意思最近太累了。她说没事。第二天开会你照常发言，条理清晰。她坐在最后一排看着你，你讲完坐下，跟她目光对上的那一秒你心慌了一下。午休你去找她，问她昨晚没跟别人说吧。她说没有。你塞给她一盒巧克力。她收下了。后来每次你看见她，都觉得她手里攥着你昨晚那张哭花的脸。`,
     },
   },
@@ -156,7 +156,7 @@ export const fmSongs: FmSong[] = [
     artist: `Adele`,
     album: `30`,
     review: {
-      en: `The bottle is half empty and you're half honest. Alone in your kitchen you replay the relationship like a film with the sound off, you can see everything clearly now. The red flags were red. You were colorblind. Or you saw them and walked toward them anyway. You pour another glass. Tomorrow you'll be sober and sensible and delete his number. Tonight you're drunk and honest and you write his name on a napkin then cross it out so hard the paper tears. Progress.`,
+      en: `The bottle is half empty and you're half honest. Alone in your kitchen you replay the relationship like a film with the sound off; you can see everything clearly now. The red flags were red. You were colorblind. Or you saw them and walked toward them anyway. You pour another glass. Tomorrow you'll be sober and sensible and delete his number. Tonight you're drunk and honest and you write his name on a napkin then cross it out so hard the paper tears. Progress.`,
       zh: `你开了一瓶白酒，想着喝多了就能睡着。第一杯下去胃里热起来，你靠在沙发上闭眼，脑子里全是今天的画面。第二杯你开始想他上次说那句话到底是什么意思。你拿出手机翻了翻聊天记录，发现他说的每个字你都记得，连标点符号你都能复述。第三杯你坐直了，突然想明白了一件事，他其实从来没认真过。你越喝越清醒，清醒到能感觉到客厅的灯有一盏在闪。你关了那盏灯，又倒了一杯。喝到后来你没醉，也没睡着，你坐在地板上靠着沙发腿。天蒙蒙亮了。窗外楼下早点摊开始支摊子，铁锅碰了声瓷碗。你听得清清楚楚。`,
     },
   },
@@ -210,7 +210,7 @@ export const fmSongs: FmSong[] = [
     artist: `张敬轩`,
     album: `No. Eleven`,
     review: {
-      en: `You always knew you were the understudy. He said the right things on opening night, you're amazing, you're enough, and you smiled like you believed him. You didn't. You knew the lead was someone else. Someone he talked about too casually. Someone whose name he said like a prayer. You played your part until the curtain fell. Then you went home and took off the costume and finally looked like what you were: tired. The tragedy isn't that he didn't love you. It's that you stayed anyway, knowing the script.`,
+      en: `You always knew you were the understudy. He said the right things on opening night: you're amazing, you're enough, and you smiled like you believed him. You didn't. You knew the lead was someone else. Someone he talked about too casually. Someone whose name he said like a prayer. You played your part until the curtain fell. Then you went home and took off the costume and finally looked like what you were: tired. The tragedy isn't that he didn't love you. It's that you stayed anyway, knowing the script.`,
       zh: `你在这段关系里演了三年的配角。台词只有两句：嗯和好的。散伙那天他请你吃饭，说你真的很好。你笑着说谢谢。其实你知道，从第一年开始你就知道。第一次是他忘了你生日，你跟自己说他太忙了。后来你住院那次他出差去了，你说工作要紧。再后来你妈问他什么时候见家长，他岔开了话题，你帮他把话接走了。每一次你都知道。你坐在他对面吃完了那顿散伙饭，他说你真的很好的时候，你在心里想，我知道，我一直都知道。但你知道最悲哀的是什么吗，回家路上你踩进水坑袜子湿了，你没换，穿着湿袜子睡了。第二天醒来你第一件事是摸手机看他有没有给你发消息。没有。你把手机放下，又想起昨晚他说你很好。`,
     },
   },
@@ -219,7 +219,7 @@ export const fmSongs: FmSong[] = [
     artist: `张敬轩`,
     album: `Urban Emotions`,
     review: {
-      en: `Years pass like seasons, you stop counting which one you're in. You hear a song on the radio and for three seconds you're back there: his car, his hand on the gear shift, the window down, the world small and perfect. Then the song ends. You're in traffic. Alone. Fine. You tell people you're fine. You almost believe it. Then autumn comes again and you remember everything: how he left, how you survived, how survival isn't the same as living. Spring will come. You don't know if you'll feel it.`,
+      en: `Years pass like seasons; you stop counting which one you're in. You hear a song on the radio and for three seconds you're back there: his car, his hand on the gear shift, the window down, the world small and perfect. Then the song ends. You're in traffic. Alone. Fine. You tell people you're fine. You almost believe it. Then autumn comes again and you remember everything: how he left, how you survived, how survival isn't the same as living. Spring will come. You don't know if you'll feel it.`,
       zh: `三年了。你搬了家，换了工作。头发也剪短了。连喝咖啡都从拿铁换成了美式。你妈偶尔问起他，你说早没联系了，语气很平。上个月朋友结婚你去了，席间碰到他朋友，说他挺好的。你点头说那就好。你以为你好了。直到上周你收拾旧物，从一本书里掉出一张电影票根。上面的字已经模糊了，但你记得那部电影，记得那天他迟到了二十分钟，记得散场后下雨你们共撑一把伞，你的左肩湿了一路。你拿着票根站了很久，最后把它夹回书里，放回原处。三年了，时间把所有东西都冲淡了，连他长什么样你都要想一下才能想起来。但那天他迟到二十分钟这件事，你一点没忘。`,
     },
   },
@@ -246,7 +246,7 @@ export const fmSongs: FmSong[] = [
     artist: `林奕匡`,
     album: `Phil Lam`,
     review: {
-      en: `From the rooftop the city looks like a circuit board, every light a life, every life a story you'll never read. You're up here because the apartment is too quiet. Down there someone is laughing. Up here you're breathing. Both things are true. You think about jumping, not to die, just to feel something. You don't. You go back downstairs. Make tea. Sit with the quiet. The valley is deep. You're still in it. You're still breathing.`,
+      en: `From the rooftop the city looks like a circuit board, every light a life, every life a story you'll never read. You're up here because the apartment is too quiet. Down there someone is laughing. Up here you're breathing. Both things are true. You think about jumping—not to die, just to feel something. You don't. You go back downstairs. Make tea. Sit with the quiet. The valley is deep. You're still in it. You're still breathing.`,
       zh: `你加班到十一点出来，站在写字楼门口等车，抬头看周围的楼，每层都亮着灯。顶层那户灯是暖黄的，阳台晾着衣服，里头有人在过日子。你脚下是马路，背后是关了门的商铺，头顶才是别人的光，你站在最低的地方往上看。你想，那些灯后面的人可能也跟你一样在谷底，但你们永远不会互相打招呼。车来了，你钻进后座，趴在窗上看尾灯。`,
     },
   },
@@ -300,7 +300,7 @@ export const fmSongs: FmSong[] = [
     artist: `MC张天赋`,
     album: `世一`,
     review: {
-      en: `Your friend asks why him. You could list a hundred reasons, his laugh, his hands, the way he texts back. Instead you say: "Because when he's not there, no one else fits." She doesn't understand. You don't expect her to. Some people aren't the best on paper. They're just the only ones who feel like home. You'd rather a flawed home than a perfect hotel.`,
+      en: `Your friend asks why him. You could list a hundred reasons: his laugh, his hands, the way he texts back. Instead you say: "Because when he's not there, no one else fits." She doesn't understand. You don't expect her to. Some people aren't the best on paper. They're just the only ones who feel like home. You'd rather a flawed home than a perfect hotel.`,
       zh: `朋友问你这人哪里好，你想了半天，说他切苹果会把皮削得不断。朋友说这也算理由。你笑笑说不出来就是说不出来，换了别人就是不行。你跟一个各方面都比他好的人吃过顿饭，全程都在想他要是这里也会点这道菜。后来你一个人走回家，路灯一盏盏亮起来。你也想过换一个，但走到哪个路口都想起他。`,
     },
   },
@@ -345,7 +345,7 @@ export const fmSongs: FmSong[] = [
     artist: `汪苏泷`,
     album: `行走的鱼`,
     review: {
-      en: `The song is quiet, piano, voice, nothing else. You listen with headphones in the dark. By the chorus you're crying and you can't tell if it's the melody or the memory. Maybe both. Maybe neither. Maybe you're just a fish out of water everywhere you go, work, home, his bed, your bed, the space between. You turn the volume down. The feeling stays loud.`,
+      en: `The song is quiet, piano, voice, nothing else. You listen with headphones in the dark. By the chorus you're crying and you can't tell if it's the melody or the memory. Maybe both. Maybe neither. Maybe you're just a fish out of water everywhere you go—work, home, his bed, your bed, the space between. You turn the volume down. The feeling stays loud.`,
       zh: `他这个版本把编曲减到只剩钢琴和人声，安静得你能听见耳机线擦到领口的声音。你躺在床上单曲循环，眼睛盯着天花板。到第二遍副歌你听见了水声，很轻，像鱼缸里的气泡。你分不清是歌里藏着的还是你自己的眼眶在响。你伸手摸了一下脸，是湿的。你把音量调小，水声反而更清楚了。`,
     },
   },
@@ -399,7 +399,7 @@ export const fmSongs: FmSong[] = [
     artist: `张智成`,
     album: `换日线`,
     review: {
-      en: `You're in tomorrow while he's still in today. The math never works, your morning is his middle of the night. Your I love you arrives when he's asleep. His miss you arrives when you're in a meeting. You live in the gaps between time zones. Love in the margins. It wasn't enough. It was never going to be enough. You needed someone in the same hour.`,
+      en: `You're in tomorrow while he's still in today. The math never works; your morning is his middle of the night. Your I love you arrives when he's asleep. His miss you arrives when you're in a meeting. You live in the gaps between time zones. Love in the margins. It wasn't enough. It was never going to be enough. You needed someone in the same hour.`,
       zh: `飞机落地的时候当地时间比你出发那天还早，你少活了一天。酒店窗户朝东，凌晨四点天就亮了，你坐在窗前算，这边四点，你那边是下午两点。你想打电话，但那边的下午两点他在上班，你不知道说什么开头。你跨过那条看不见的线的时候，你的今天和他的今天就不一样了。你把手机放下，看着窗外一条街慢慢亮起来。你们现在连活在同一天都做不到。`,
     },
   },
@@ -462,7 +462,7 @@ export const fmSongs: FmSong[] = [
     artist: `张靓颖`,
     album: `我走以后`,
     review: {
-      en: `You leave milk in the fridge, expiry date visible. A test. A timer. A way to measure how long he notices you're gone. Weeks pass. The milk spoils. He doesn't throw it out. You come back for mail and see it still there. He didn't forget you. He didn't remember you either. You take your things. Leave the milk. Some things aren't worth carrying.`,
+      en: `You leave milk in the fridge, expiry date visible. A test. A timer. A way to measure how long he notices you're gone. Weeks pass. The milk spoils. He doesn't throw it out. You come back for mail and see it's still there. He didn't forget you. He didn't remember you either. You take your things. Leave the milk. Some things aren't worth carrying.`,
       zh: `你搬走那天他往冰箱塞了一盒酸奶，保质期还剩十二天。你没拿走，留在了第二层。一个月后你回去取落下的充电器，打开冰箱，那盒酸奶还在，过期十九天了。你拿起来闻了一下，一股酸味冲上来，你扔进了垃圾桶。充电器在床头柜抽屉里，你拿了就走。门关上那一刻你才反应过来，你走以后，酸奶替你倒计时了十九天。`,
     },
   },
@@ -534,7 +534,7 @@ export const fmSongs: FmSong[] = [
     artist: `孙燕姿`,
     album: `未完成`,
     review: {
-      en: `He reaches for you. You flinch. Not because you don't want him, because you do, and wanting has always ended badly. He pulls back. "Sorry," he says. You say it's fine. It's not. You want to explain. Don't. Some fears you keep to yourself. Some you live with forever.`,
+      en: `He reaches for you. You flinch. Not because you don't want him—because you do, and wanting has always ended badly. He pulls back. "Sorry," he says. You say it's fine. It's not. You want to explain. Don't. Some fears you keep to yourself. Some you live with forever.`,
       zh: `他递给你一杯水，你伸手去接的时候往后退了半步，膝盖碰到桌角。你自己都没发现，是他先看到的，他笑了一下说没事。那天晚上你躺在床上想那半步，想了一夜。你觉得自己退对了，靠近就会受伤，你证明过。但胸口有个声音很小声地说，试试看。天亮的时候那个声音已经听不见了，你翻了身，把被子拉到肩膀。`,
     },
   },
@@ -543,7 +543,7 @@ export const fmSongs: FmSong[] = [
     artist: `吴克群`,
     album: `爱太痛`,
     review: {
-      en: `You run until your lungs burn. Lift until your arms shake. Fill the hours so there's no room for missing him. It works until it doesn't. Until you're in the shower and the water hides your face and you finally stop performing strength. Love hurt. Letting go hurts more. You keep running. Not from him. From the version of you that still wants him back.`,
+      en: `You run until your lungs burn. Lift until your arms shake. Fill the hours so there's no room for missing him. It works until it doesn't. Until you're in the shower and the water hides your face and you finally stop performing strength. Love hurts. Letting go hurts more. You keep running. Not from him. From the version of you that still wants him back.`,
       zh: `你每天下班去健身房跑四十分钟，跑到第三十五分钟腿发软，肺像被拧干的毛巾。教练问你还能不能加五分钟，你说能。加完你扶着跑步机喘，汗滴在履带上。你明明知道膝盖已经隐隐作痛了，明天还会更痛，但你明天还会来。洗澡的时候你想，你分不清是跑步让你上瘾，还是痛让你上瘾。你只知道停下来比痛更难受。`,
     },
   },

@@ -23,7 +23,7 @@ Spring 2024. The event at the HKUST Guangzhou campus was an exception. I designe
 
 The middle-aged man who yawned at the bidding that day ended up picking another agency. Their price was lower than mine; the route was about the same. When I walked out of the meeting room, the sound-controlled light in the corridor came on, then went off. I stood there waiting for it to come on again. It didn't. I stamped my foot. It came on.
 
-Juan is the word people use for the grind. Put plainly, it's everyone squeezing into the same spot. To break out of it, you have to find the piece of ground nobody has squatted on yet. That kid at the farm down south, clutching his greens and refusing to leave. I remembered that moment a long time. Parents will pay for that instant of squatting down. They won't pay for an itinerary that looks like everyone else's.
+Juan is the word people use for the grind. Put plainly, it's everyone squeezing into the same spot. To break out of it, you have to find the piece of ground nobody has squatted on yet. That kid at the farm down south, clutching his greens and refusing to leave. I remembered that moment for a long time. Parents will pay for that instant of squatting down. They won't pay for an itinerary that looks like everyone else's.
 
 Back home I opened an old file folder. The photo on the cover was the 2023 farm event: a few kids squatting in the field, backs to the camera, hands full of vegetables. Outside the window it had gone dark. The sound-controlled light in the hallway came on, then went off.
 

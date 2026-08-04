@@ -21,15 +21,15 @@ The next day I flipped the question. Instead of "what should we do," I asked "wh
 
 I talked with the founder for a straight week, an hour a day, going through all the accumulated user feedback and competitor materials. On the fourth day, he said something: "Actually, parents don't choose us because our AI teaching is good. They choose us because after coming here, their kids start speaking English on their own."
 
-That woke me up. The core of this brand wasn't "AI teaching." It was "making kids fall in love with learning." That gap in perception was the starting point for the brand positioning. We landed on: precise pronunciation, global conversation, your AI English expert. Slogan: "Pin yin yao zhun, jin bo yao hen, wei lai yao wen", accurate pronunciation, fierce progress, steady future.
+That woke me up. The core of this brand wasn't "AI teaching." It was "making kids fall in love with learning." That gap in perception was the starting point for the brand positioning. We landed on: precise pronunciation, global conversation, your AI English expert. Slogan: "Pin yin yao zhun, jin bu yao hen, wei lai yao wen", accurate pronunciation, fierce progress, steady future.
 
 Once the positioning was set, everything else moved fast.
 
 I made two versions of the brand guidelines. One was the full version, for the design team and external vendors, everything in there. The other was a slim version for sales, marketing, and operations, ten pages, each answering the same question: "How do I use this brand?" Most brand guidelines are incomprehensible to anyone besides the designer. That's a waste.
 
-The website was three pages: home, product, brand story. I did the interaction prototypes myself; design handled visuals. Not chasing perfect, chasing "shippable and readable." The brand's proprietary nine-level growth system and its learning requirements got locked in too.
+The website was three pages: home, product, brand story. I did the interaction prototypes myself; design handled visuals. Not chasing perfection, chasing "shippable and readable." The brand's proprietary nine-level growth system and its learning requirements got locked in too.
 
-I wrote the entire launch event plan myself, creative concept, visual system, the founder's keynote. The core was simple: explain what the brand is, explain what the advantage is. No slide-stuffing.
+I wrote the entire launch event plan myself: creative concept, visual system, the founder's keynote. The core was simple: explain what the brand is, explain what the advantage is. No slide-stuffing.
 
 Thirty days later, we launched. The brand system wasn't perfect, but it ran. The whole team went from "not knowing how to introduce ourselves" to "everyone can explain who we are."
 
