@@ -4,7 +4,7 @@ title: "Up Close, That Penguin Had a Human Face"
 date: "2026-06-21"
 summary: "Two hours of arguing in a design review. Then I pointed at a penguin with a human face."
 tags: ["Brand","Design"]
-category: "brand"
+category: "insight"
 lang: "en"
 ---
 When I joined Penguin Explore in late 2022, the study-tour brand had already been running for a while. But the visual system was a mess: the logo was a hand-drawn penguin holding a magnifying glass, the color palette had half a dozen variants, and the typography changed with every version.

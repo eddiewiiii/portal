@@ -4,7 +4,7 @@ title: "The Interviewer Asked If I Knew Cars"
 date: "2026-07-12"
 summary: "The interviewer asked if I knew cars. I said not really, but I can learn."
 tags: ["Career","Methodology"]
-category: "insight"
+category: "career"
 lang: "en"
 ---
 June 2019, Guangzhou. I sat at the desk in my rented apartment, laptop open, my resume on the screen. The experience section was packed with tourism. Ping An Bank was there. Huaxia Bank was there. Hong Kong Airlines too, plus a promotional event for the South Australia Tourism Board. All clients I'd handled doing business development at Zuzuche. The next day I was going to interview at Yiche, an automotive internet company, for a marketing role. Nowhere on that resume could you find a single word related to cars.

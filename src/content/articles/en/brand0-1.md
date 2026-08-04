@@ -4,7 +4,7 @@ title: "Most Lights Off, the Desk Lamp Still On"
 date: "2026-06-22"
 summary: "Day one on the job: build an entire brand system in thirty days."
 tags: ["Brand","Methodology"]
-category: "brand"
+category: "insight"
 lang: "en"
 ---
 My first day on the job, the boss gave me a task: build the entire brand system for "XiaoA Jingling," an AI English tutoring brand, in one month.

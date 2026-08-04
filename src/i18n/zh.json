@@ -245,8 +245,8 @@
     "desc": "把品牌当成一个人来塑造。十年市场与品牌实战，如今把经验变成文字，把思考变成方案。",
     "stat1_num": "10+",
     "stat1_label": "年市场与品牌实战经验",
-    "stat2_num": "3",
-    "stat2_label": "个写作类型：品牌/洞察/AI"
+    "stat2_num": "4",
+    "stat2_label": "个写作类型：生活/职场/品牌/创作"
   },
   "sections": {
     "about_marquee": "关于",
@@ -323,9 +323,10 @@
     "page_title": "写作",
     "page_desc": "记录思考、实践与阅读的碎片",
     "category_all": "全部",
-    "category_brand": "品牌方法论",
-    "category_insight": "行业观察",
-    "category_ai": "AI 与工具",
+    "category_life": "生活散记",
+    "category_career": "职场切片",
+    "category_insight": "品牌洞察",
+    "category_creation": "创作工坊",
     "back_to_list": "← 返回文章列表",
     "not_found": "文章不存在或尚未发布"
   },

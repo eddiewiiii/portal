@@ -4,7 +4,7 @@ title: "On the Ninth Try, the Mist of Yuelu Mountain Finally Came Out"
 date: "2026-07-04"
 summary: "Xiao Tang nodded on the ninth try, pushed the glass over. A grayish purple."
 tags: ["Startup","Brand"]
-category: "brand"
+category: "insight"
 lang: "en"
 ---
 Xiao Tang stood behind the bar, left hand shaking the tin, right hand wiping a glass. A July evening in Changsha, only two tables seated. The air conditioning was on. Warm yellow light above the bar fell on the back of his hand, the tendons jumping with each shake. I sat at the innermost seat with a glass of AiWan Breeze in front of me, vodka as the base, grapefruit and cranberry juice meeting in the glass, the rim faint pink.

@@ -4,7 +4,7 @@ title: "Past Two in the Morning, Scrolling My Feed for Too Long"
 date: "2026-04-17"
 summary: "The night I lost sleep over a nine-grid Plog, I realized I was waiting for a reply to prove I counted."
 tags: ["Reading","Insight"]
-category: "insight"
+category: "life"
 lang: "en"
 ---
 2:17 a.m. I remember clearly, because I glanced at the top-right corner of the screen before I put the phone down.

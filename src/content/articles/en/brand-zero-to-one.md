@@ -4,7 +4,7 @@ title: "Sweaty Palms on the First Day"
 date: "2026-07-18"
 summary: "A co-working desk, rent just over a thousand a month. I opened Notion and started building."
 tags: ["Brand","Methodology"]
-category: "brand"
+category: "career"
 lang: "en"
 ---
 October 2022, Guangzhou. A desk in a co-working space, rent just over a thousand a month, the surface just big enough for a laptop and a cup. Outside the window were the towers of Tianhe, and in the afternoons the sun came in at an angle and left a bright strip along the corner of the desk. This was the first prep meeting I called for Penguin Exploration, three of us, counting me.

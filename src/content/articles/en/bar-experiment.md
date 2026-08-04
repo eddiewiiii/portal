@@ -4,7 +4,7 @@ title: "On the Eighty-Third Day of Renovation, I Stared at the Bill Without a Wo
 date: "2026-07-06"
 summary: "Day eighty-three of renovation. Plumbing rerun, eighteen hundred more. Lao Zhou crushed his cigarette."
 tags: ["Startup","Brand"]
-category: "brand"
+category: "insight"
 lang: "en"
 ---
 On the eighty-third day of renovation, it was raining in Changsha. I squatted in the bare concrete room, staring at the quotation. Plumbing rerun, eighteen hundred more. Lighting redesign, three thousand extra. The old elm slab for the bar was nearly double the budget. My partner Lao Zhou stood beside me smoking, grinding the cigarette out with his shoe. Neither of us spoke. That was September 2025, three months before opening.

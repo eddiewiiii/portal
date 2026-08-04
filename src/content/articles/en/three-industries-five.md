@@ -4,7 +4,7 @@ title: "The Phone Call They Hung Up On Three Times"
 date: "2026-07-14"
 summary: "They hung up three times. The fourth call, they finally listened and said, send materials."
 tags: ["Career","Methodology"]
-category: "insight"
+category: "career"
 lang: "en"
 ---
 Guangzhou, June. The office air conditioning wasn't doing its job. Sweat pasted my shirt to the back of the chair. On the desk I had a sheet of A4 paper with twenty-some names written in ballpoint, phone numbers beside them. Some names had check marks, some had crosses, most had nothing at all. I had just finished a call. The person on the other end heard "Hi, I'm from Zuzuche" and hung up. Third person to hang up on me that day.

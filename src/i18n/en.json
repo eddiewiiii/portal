@@ -245,8 +245,8 @@
     "desc": "I shape brands as if they were people. Ten years in marketing and brand building — now turning experience into words, and thinking into action.",
     "stat1_num": "10+",
     "stat1_label": "Years in marketing and brand practice",
-    "stat2_num": "3",
-    "stat2_label": "Writing categories: Brand/Insight/AI"
+    "stat2_num": "4",
+    "stat2_label": "Writing categories: Life/Career/Brand/Creation"
   },
   "sections": {
     "about_marquee": "about",
@@ -323,9 +323,10 @@
     "page_title": "writing",
     "page_desc": "Fragments of thinking, practice, and reading",
     "category_all": "All",
-    "category_brand": "Brand Methodology",
-    "category_insight": "Industry Insights",
-    "category_ai": "AI & Tools",
+    "category_life": "Life Notes",
+    "category_career": "Career Slices",
+    "category_insight": "Brand Insights",
+    "category_creation": "Creative Workshop",
     "back_to_list": "← Back to all essays",
     "not_found": "Article not found or not yet published"
   },

@@ -4,7 +4,7 @@ export interface ArticleMeta {
   date: string;
   summary: string;
   tags: string[];
-  category: "brand" | "insight" | "ai";
+  category: "life" | "career" | "insight" | "creation";
 }
 
 export interface Article extends ArticleMeta {

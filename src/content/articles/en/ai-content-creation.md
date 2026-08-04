@@ -4,7 +4,7 @@ title: "I Threw Out the Perfect Topic"
 date: "2026-06-15"
 summary: "One night, AI gave me thirty-something topic ideas. One looked perfect."
 tags: ["AI","Insight"]
-category: "ai"
+category: "creation"
 lang: "en"
 ---
 I used an AI tool to generate thirty-something topic ideas.

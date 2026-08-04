@@ -4,7 +4,7 @@ title: "Line 2 to Line 6, Forty Minutes Each Way"
 date: "2026-07-10"
 summary: "Line 2 to Line 6, forty minutes each way. I leaned against the pole, counting badges."
 tags: ["Career","Insight"]
-category: "insight"
+category: "career"
 lang: "en"
 ---
 Morning rush hour in Changsha. Line 2 to Line 6, forty minutes each way. I go through the gate at seven forty every morning. The car's packed too tight to turn around. Some people look down at their phones. Some lean against the door with their eyes closed. I like to stand in the section between cars, one hand on that cold metal pole. Most days I let my mind go blank for those forty minutes. But sometimes my brain starts up on its own, drifting to some moment when I made a decision.

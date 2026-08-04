@@ -4,7 +4,7 @@ title: "The Black Cat Downstairs"
 date: "2026-07-26"
 summary: "They walk into your day because you stood still."
 tags: ["Growth","Insight"]
-category: "insight"
+category: "life"
 lang: "en"
 ---
 A black cat looked up at me from the corner of the building one night, eyes lit yellow in the dark. 

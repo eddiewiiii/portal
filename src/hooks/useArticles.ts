@@ -9,7 +9,7 @@ interface RawFrontmatter {
   date?: string;
   summary?: string;
   tags?: string[];
-  category?: "brand" | "insight" | "ai";
+  category?: "life" | "career" | "insight" | "creation";
 }
 
 function parseFrontmatter(raw: string): { data: RawFrontmatter; content: string } {

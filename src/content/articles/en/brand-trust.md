@@ -4,7 +4,7 @@ title: "The Noodle Shop Below With No Sign"
 date: "2026-05-20"
 summary: "A client asked if we could get results faster. I didn't answer directly."
 tags: ["Reading","Brand"]
-category: "brand"
+category: "life"
 lang: "en"
 ---
 I was asked by a friend "Can we get results faster?" last summer.

@@ -4,7 +4,7 @@ title: "The Afternoon Someone Yawned Across the Table"
 date: "2026-07-16"
 summary: "Page eight of the deck, the person across yawned, not looking at me, looking out the window."
 tags: ["Study Tour","Insight"]
-category: "insight"
+category: "career"
 lang: "en"
 ---
 Winter 2023. Panyu, Guangzhou. A bidding room for a government project. The meeting room wasn't big, a round table, a few chairs, a whiteboard on the wall still marked with words from some other meeting that morning. Nobody had wiped it. I sat on one side of the table. Across from me sat a few representatives from the client side, and one of them, a middle-aged man, listened for a while and yawned without covering his mouth.

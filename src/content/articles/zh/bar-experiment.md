@@ -4,7 +4,7 @@ title: "装修第八十三天，我盯着账单说不出话"
 date: "2026-07-06"
 summary: "水管走线多了一千八，老周在旁边抽完烟，扔掉烟蒂一脚踩灭。"
 tags: ["创业","品牌"]
-category: "brand"
+category: "insight"
 lang: "zh"
 ---
 装修第八十三天，长沙下着雨。

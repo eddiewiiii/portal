@@ -4,7 +4,7 @@ title: "家楼下的那只黑猫"
 date: "2026-07-26"
 summary: "但那些猫狗不一样，它们会因为你的静止，主动走进你这一天里。"
 tags: ["成长","观察"]
-category: "insight"
+category: "life"
 lang: "zh"
 ---
 回家的路不短，常常要看着天色一点点变。

@@ -5,7 +5,7 @@ import { useArticles } from "@/hooks/useArticles";
 import type { Article } from "@/types";
 import PageHero from "@/components/PageHero";
 
-type Category = "all" | "brand" | "insight" | "ai";
+type Category = "all" | "life" | "career" | "insight" | "creation";
 
 export default function Writing() {
   const { t } = useTranslation();
@@ -14,9 +14,10 @@ export default function Writing() {
 
   const categories: { key: Category; label: string }[] = [
     { key: "all", label: t("writing.category_all") },
-    { key: "brand", label: t("writing.category_brand") },
+    { key: "life", label: t("writing.category_life") },
+    { key: "career", label: t("writing.category_career") },
     { key: "insight", label: t("writing.category_insight") },
-    { key: "ai", label: t("writing.category_ai") },
+    { key: "creation", label: t("writing.category_creation") },
   ];
 
   const filtered: Article[] =

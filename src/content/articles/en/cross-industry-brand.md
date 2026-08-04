@@ -4,7 +4,7 @@ title: "The Air Conditioning in That Tsim Sha Tsui Meeting Room"
 date: "2026-07-20"
 summary: "A tower in Tsim Sha Tsui, AC on the back of my neck, Asia Miles across the table."
 tags: ["Brand","Methodology"]
-category: "brand"
+category: "career"
 lang: "en"
 ---
 Summer 2017, a tower in Tsim Sha Tsui, Hong Kong, somewhere above the twentieth floor. The air conditioning was set low enough that I wanted a jacket. I sat at one end of a long table, and across from me sat the people from Asia Miles. Asia Miles was Cathay Pacific's mileage program, and that year we were negotiating a partnership with them for Zuzuche. The vent was blowing straight onto the back of my neck. I moved my cup to the side.
