@@ -66,7 +66,7 @@
     "job5_tag": "Market share +95%",
     "job5_p1": "Strategic partnerships: Led travel-scene deals with Ping An Bank, Huaxia Bank and others, launching outbound car rental in their apps — 20K+ travel users, six figures in revenue.",
     "job5_p2": "Overseas breakout: Won alliances with Hong Kong Airlines and HK Express; pushed HK order share past 10% and grew outbound self-drive market share 95%; became Asia Miles' first platform partner of its kind.",
-    "job5_p3": "Content marketing: Planned South Australia Tourism Board roadshows (500+ leads, 20+ major-media mentions); built a \"Zuzuche × YesAway × Qyer\" tri-party co-brand with 20M+ travel exposure.",
+    "job5_p3": "Content marketing: Planned South Australian Tourism Commission roadshows (500+ leads, 20+ major-media mentions); built a \"Zuzuche × YesAway × Qyer\" tri-party co-brand with 20M+ travel exposure.",
     "job5_p4": "Tech solutions: Designed a standardized overseas car-rental API, lifting 2000+ overseas partner integration efficiency by 40%; built a partner back-office cutting order handling from 48h to 6h.",
     "proj1_title": "Project · Personal IP",
     "proj1_name": "Mr. Tech Cat",
@@ -91,7 +91,7 @@
     "edu_date": "2020.03 – 2022.12",
     "edu_lang": "Languages:",
     "edu_lang_content": "Fluent English, excellent written and verbal communication",
-    "skills_title": "Expertise · Tech stack",
+    "skills_title": "Expertise · Tools & AI",
     "skill1_t": "Brand strategy",
     "skill1_c": "Brand systems from 0 to 1, visual upgrade, cross-industry integration, data-driven ops strategy.",
     "skill2_t": "Platform ops",
@@ -206,7 +206,7 @@
   },
   "timeline": {
     "hero_sub1": "10 years of internet marketing and brand practice",
-    "hero_sub2": "From 0 to 1, from 1 to N · my brand journey",
+    "hero_sub2": "From 0 to 1, and onward · my brand journey",
     "btn_resume": "View full résumé",
     "t1_title": "XiaoA AI · Brand & New Media Supervisor",
     "t1_sub": "Completed 0-to-1 brand system in 30 days",
@@ -226,7 +226,7 @@
   },
   "design": {
     "hero_title": "Design",
-    "hero_desc": "Not making things \"look nice\" — but folding complexity into something that just flows. These are products I took from idea to live: design, interface and front-end, all done by me.",
+    "hero_desc": "Not making things \"look nice.\" Folding complexity into something that flows. These are products I took from idea to live: design, interface and front-end, all done by me.",
     "stat_projects": "Projects",
     "stat_live": "Live",
     "stat_wip": "In progress",
@@ -236,7 +236,7 @@
     "wip": "WIP",
     "visit": "Visit",
     "closing_title": "Design is how my thinking takes shape.",
-    "closing_desc": "From money tracking and English practice to trip planning, I turn the needs that recur in daily life into things that actually work. Beyond the surface, what matters is whether it feels light to use.",
+    "closing_desc": "From money tracking and English practice to trip planning, I turn needs that recur in daily life into things that actually work. Beyond the surface, what matters is whether it feels light to use.",
     "closing_cta": "More on GitHub"
   },
   "hero": {
@@ -305,7 +305,7 @@
     "l5_note": "Background music for late-night drives.",
     "r1_title": "Status Anxiety",
     "r1_creator": "Alain de Botton",
-    "r1_note": "The source of anxiety, written gently.",
+    "r1_note": "The roots of anxiety, written about gently.",
     "r2_title": "and how does that make you feel?",
     "r2_creator": "Joshua Fletcher",
     "r2_note": "Real records from the therapy room.",
@@ -317,7 +317,7 @@
     "r4_note": "A therapist's own therapy.",
     "r5_title": "The Course of Love",
     "r5_creator": "Alain de Botton",
-    "r5_note": "Love isn't fairy tale, it's daily life."
+    "r5_note": "Love isn't a fairy tale, it's daily life."
   },
   "writing": {
     "page_title": "writing",
@@ -373,7 +373,7 @@
     "i1_title": "Status Anxiety · Alain de Botton",
     "i1_note": "The one who wrote anxiety gently, taught me to live with unease.",
     "i2_title": "The Course of Love · Alain de Botton",
-    "i2_note": "Love isn't fairy tale, it's daily. This changed how I see relationships.",
+    "i2_note": "Love isn't a fairy tale, it's daily. This changed how I see relationships.",
     "i3_title": "The Godfather · Coppola",
     "i3_note": "A textbook on family, power, and choices.",
     "i4_title": "Steve Jobs",
