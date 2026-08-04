@@ -7,36 +7,94 @@ tags: ["Growth","Insight"]
 category: "life"
 lang: "en"
 ---
-A rare full weekend. Saturday, Mom was home for dinner. I made three dishes: braised beef with potatoes, stir-fried oil lettuce with douchi and canned dace, spicy shrimp.
+Another weekend.
 
-The moment the food hit the table I asked her, is it good? Mom looked up and said, good, delicious.
+On Saturday, Mom was home for dinner.
 
-Every time I ask, she says the same thing. Never changes.
+I made three dishes, braised beef with potatoes, stir-fried lettuce with fermented black beans and canned dace, and spicy shrimp.
 
-I lived in Guangzhou for years; my stomach is basically Cantonese. Mom's always been adaptable—eats anything, not picky.
+The moment the dishes reached the table, I asked her, "How is it?"
 
-Over the meal she told me, these dishes are all good, but the family probably wouldn't like them. I said what does it matter, we like it, that's what matters. Mom nodded and said, yes, that's what I mean.
+Mom looked up and said, "Good. Delicious."
 
-Two people, one meal. It felt like a long time since we'd had a proper dinner together. Working in Changsha, alternate weekends off, only back to Zhuzhou on full weekends. With Mom's work, she rarely eats lunch or dinner at home. I'm lucky to have one proper meal with her a month.
+Every time I ask, she says the same thing.
 
-This one felt like it had been saved up a long time.
+It never changes.
 
-After we ate I sat there, didn't know why, just felt good. Happy, grounded. Dishes I cook on ordinary days, but last night's meal was somehow better.
+I lived in Guangzhou for years, so my taste is basically Cantonese now. Mom has always been easygoing, she eats almost anything and is never picky.
 
-These past few years, I haven't been easily moved.
+Halfway through the meal, she said, "These dishes are all good, but the rest of the family probably wouldn't like them."
 
-A while back I went to see "Love Letter to Ah-Ma," with my ex. Half the theater was wiping tears, someone next to me cried until her mascara ran. I stared at the screen, waiting for the moment that was supposed to make me cry. Waited a long time. It didn't come. Later I watched the Taiwanese film "A-Meng," same tone, the comments all said it was a tearjerker. Still nothing.
+I said, "Why does that matter? We like them. That's what matters."
 
-It's not that I don't have a heart.
+Mom nodded.
 
-I just don't easily slip into other people's emotions and perspectives. Other people's stories, other people's grief—I know rationally I should be moved, but my body doesn't follow. These past years, work wearing me down, life wearing me down, edges smoothed flat, even the switch for feeling anything had rusted over.
+"Yes," she said. "That's exactly what I mean."
 
-For a while I figured, maybe this is just who I am now. A bit colder, a bit blunter. Not a bad thing.
+Two people. One meal.
 
-But last night's meal was different.
+It felt like a long time since we had sat down and eaten together properly.
 
-When the braised beef came to the table, Mom picked up a piece and said, today's is really flavorful. I didn't answer, just looked down and ate. In that moment, my chest slowly warmed. Not crying, not stirred up—just a slow, soft warmth pushing up from the stomach. Could've been the Sichuan pepper.
+I work in Changsha, with every other weekend off, so I only return to Zhuzhou on the longer weekends. And because of Mom's work schedule, she rarely gets to have lunch or dinner at home.
 
-Films are other people's lives; I can't get in, can't catch the emotion. But a table of dishes I cooked myself, a table with Mom sitting at it—these most ordinary, most personal things, they got in at once.
+If I'm lucky, I get one proper meal with her in a month.
 
-She washed the dishes. I sank into the sofa, heard the kitchen faucet running, and suddenly thought: today was good.
+Maybe this one had been waiting for a long time.
+
+After dinner, I sat there for a while. I wasn't thinking about anything in particular. I just felt good.
+
+Happy. Settled.
+
+The dishes were ordinary, the same kind of food I make on regular days. But somehow, last night's meal tasted different.
+
+Over the past few years, I haven't been easily moved.
+
+A while ago, I went to see Love Letter to Ah-Ma with my ex. Half the theater was wiping away tears. Someone sitting nearby cried so hard her mascara ran.
+
+I watched the screen, waiting for the moment when I was supposed to break down.
+
+I waited a long time.
+
+It never came.
+
+Later, I watched the Taiwanese film A-Meng. People said it was another heartbreaking story. The reviews were full of people saying they cried.
+
+Still nothing.
+
+It wasn't that I didn't have feelings.
+
+I just couldn't easily step into someone else's emotions. Other people's stories, other people's pain, I understood why they were moving, but my own heart didn't always follow.
+
+Over the years, work had worn me down. Life had worn me down. Little by little, my edges became smoother, until even the switch for feeling things seemed to have gathered rust.
+
+For a while, I thought maybe this was just who I had become.
+
+A little colder. A little less sensitive.
+
+And maybe that wasn't such a bad thing.
+
+But last night was different.
+
+When the braised beef was served, Mom picked up a piece and said, "I think your cooked flavorful beef this time."
+
+I didn't answer. I just lowered my head and kept eating.
+
+But in that moment, something inside me slowly warmed.
+
+Not tears.
+
+Not some dramatic feeling.
+
+Just a quiet warmth rising from somewhere deep inside.
+
+Maybe it was the Sichuan pepper.
+
+Films are other people's lives. Sometimes I can't enter them. I can't fully catch the emotion.
+
+But a table of food I cooked myself, with Mom sitting across from me, these ordinary, familiar things that belonged to my own life reached me immediately.
+
+After dinner, Mom washed the dishes.
+
+I sank into the sofa and listened to the sound of running water from the kitchen.
+
+And suddenly, I thought today was good.

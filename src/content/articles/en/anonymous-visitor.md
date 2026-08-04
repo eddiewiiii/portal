@@ -7,30 +7,48 @@ tags: ["Growth","Insight"]
 category: "life"
 lang: "en"
 ---
-The little black cat downstairs brushed against my trouser leg, then walked off.
+The little black cat downstairs brushed against my trouser leg, then quietly walked away.
 
-I found him interesting. Also felt, somehow, that there was something between us. Then the thought came: I wanted to bring him home.
+I found him fascinating. Somehow, in that brief moment, I felt a small connection between us. And almost immediately, I had the thought: I wanted to bring him home.
 
-He was always downstairs, a dark lump, didn't look like anyone was looking after him. I'd go in and out every day; sometimes he was there, sometimes not. A few times I came home and he saw me—didn't hide, just looked up.
+He was always downstairs, curled up in that corner like a small patch of darkness. He never seemed to have anyone looking after him. I passed by every day, sometimes he was there, sometimes he wasn't. A few times, when I came home and found him nearby, he didn't run away. He simply looked up at me.
 
-I thought, this little thing, if I could bring him home, give him a place to eat and sleep, that'd work. Hard to say why.
+I thought about him few times. If I could bring him home, give him a warm place to sleep and something to eat, maybe that would be enough. I couldn't explain exactly why I cared.
 
-People say stray cats are afraid of people. This one came over to brush against me. That single rub, I think, was what moved me.
+People say stray cats are wary of humans. But this one came over and rubbed against me. That simple gesture was what stayed with me.
 
-I went over it in my head a few times. Where he would sleep. Whether he'd be loud at night. Who'd feed him when I was out. None of it was real yet, but I thought about it seriously—so seriously it was as if he was already home.
+I found myself thinking about it more than once. Where he would sleep. Whether he would make noise at night. Who would take care of him when I was away. None of it had happened yet, but I had already started making plans, as if he had already become part of my home.
 
-Then he was gone. First couple of days I didn't see him, figured he was out roaming. A few more days, still nothing.
+Then one day, he disappeared.
 
-The corner downstairs was empty. The spot where he used to sit, evening light falling on it, not a hair left.
+At first, I thought he had just wandered somewhere else. A few days passed. Then a few more.
 
-When I pass by, I still take an extra look. I know he's gone, but my feet slow half a beat, my eyes drift that way.
+Still nothing.
 
-The first time I noticed the empty spot, I stood for a moment, then walked on. After that, every time the same. One look, walk on.
+The corner downstairs was empty. The place where he used to sit, where the evening sunlight would quietly fall, no longer showed any sign that he had ever been there.
 
-Sometimes that's how these things go. It comes, you don't think much of it, it brushes against you, you think it's nice. By the time you want to keep it, give it a home, it's already gone. Right after you got serious. Gone.
+Even now, whenever I walk past, I still glance over.
 
-Not sad, exactly. He came. Brushed against my trouser leg. Stayed in that corner downstairs. Like an unnamed visitor—stopped by once, then left.
+I know he is gone, but my steps slow slightly, and my eyes turn toward that corner before I realize it.
 
-Today I passed downstairs again. Still took a look.
+The first time I noticed the empty space, I stood there for a moment, then walked away. After that, it was always the same.
 
-Empty.
+Look once.
+
+Keep walking.
+
+Maybe some things are simply like that.
+
+They appear quietly. You don't pay much attention at first. They brush against your life, and you think, that's nice. Then, by the time you decide you want to hold on to them, by the time you begin imagining giving them a place in your world, they have already left.
+
+Not exactly sadness.
+
+He came. He brushed against my trouser leg. He stayed in that corner downstairs for a while.
+
+Like an unnamed visitor, someone who stopped by briefly, then quietly continued on his way.
+
+Today, I passed by downstairs again.
+
+I still looked.
+
+But empty.
