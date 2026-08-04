@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 import { Mail, Phone } from "lucide-react";
-import { skillGroups, influenceItems } from "@/content/collections";
+import { influenceItems } from "@/content/collections";
 import PageHero from "@/components/PageHero";
 
 export default function About() {
@@ -22,40 +22,6 @@ export default function About() {
               {p}
             </p>
           ))}
-        </div>
-      </section>
-
-      <section className="px-5 sm:px-8 lg:px-12 py-24 bg-surface-alt">
-        <div className="max-w-3xl mx-auto">
-          <h2 className="font-display text-3xl sm:text-5xl font-black tracking-tight text-ink mb-12">
-            {t("about.skills_title")}
-          </h2>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
-            {skillGroups.map((group) => (
-              <div
-                key={group.id}
-                className="p-6 bg-surface rounded-card border border-border"
-              >
-                <div className="flex items-center gap-3 mb-4">
-                  <span className="text-2xl">{group.emoji}</span>
-                  <h3 className="font-display text-xl font-bold text-ink">
-                    {t(group.titleKey)}
-                  </h3>
-                </div>
-                <ul className="flex flex-wrap gap-2">
-                  {(t(group.itemsKey, { returnObjects: true }) as string[]).map((item, i) => (
-                    <li
-                      key={i}
-                      className="px-3 py-1 text-xs font-medium bg-bg text-ink-muted rounded-full"
-                    >
-                      {item}
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ))}
-          </div>
         </div>
       </section>
 
