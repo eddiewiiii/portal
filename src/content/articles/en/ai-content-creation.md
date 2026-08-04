@@ -35,7 +35,7 @@ I have been using AI tools for content creation for about a year now.
 
 The feeling is complicated.
 
-On the one hand, I honestly don't know how I worked without them before.
+On one hand, I honestly don't know how I worked without them before.
 
 On the other hand, I keep reminding myself:
 
