@@ -142,5 +142,3 @@ Not a decision.
 Not a commitment.
 
 Just a moment when another person begins to see things differently.
-
-And sometimes, that is where trust begins.

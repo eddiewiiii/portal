@@ -140,7 +140,4 @@ The days when nobody notices.
 The days when you are simply showing up.
 
 And then one day, you look back and realize:
-
 You were not just commuting.
-
-You were becoming.

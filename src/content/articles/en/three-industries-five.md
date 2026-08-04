@@ -2,121 +2,43 @@
 id: "three-industries-five"
 title: "The Phone Call They Hung Up On Three Times"
 date: "2026-07-14"
-summary: "They hung up three times. The fourth call, they finally answered. The first three were not failures."
+summary: "Guangzhou, June 2016. Twenty names scribbled on A4, most with no mark beside them."
 tags: ["Career","Methodology"]
 category: "career"
 lang: "en"
 ---
-The first time they hung up, I thought it was normal.
+It was June in Guangzhou. The office AC was not strong enough, and sweat had glued my shirt to the back of the chair. On the desk lay a sheet of A4 paper, with twenty-some names scrawled in ballpoint, phone numbers beside them. Some names had ticks, some had crosses, most had nothing at all. I had just hung up from another call — the person on the other end heard "Hi, this is from Zuzuche" and pressed end. The third hang-up of the day.
 
-The second time, I wondered if I should stop.
+That was 2016. I had just joined Zuzuche doing BD. I had never made cold calls before. The first few times, my palms sweated so much the phone almost slipped. I stuttered mid-sentence. When the other person asked "Who is this again?" I almost couldn't answer.
 
-The third time, I almost gave up.
+But slowly, I figured it out.
 
-But I called again.
+Get hung up on, call back another time.
 
-Looking back, that phone call taught me something important about business.
+Can't make an appointment, try a different hour.
 
-Not every rejection means no.
+Finally get them on the phone, then show up in person.
 
-Sometimes it only means:
+There was one car-rental shop owner who said "I'm busy" three times on the phone. The fourth time, I called at a different hour, and he said, "Fine, come over." I sat in his office the whole afternoon. We talked about his shop's business for three hours, and barely touched on our product. Before I left, he said, "Add me on WeChat."
 
-Not yet.
+Starting a conversation — that, I learned, over three years, one call at a time.
 
-At the beginning, when you are building something new, rejection is unavoidable.
+Later, I moved to BitAuto, in the TIT Creative Park in Guangzhou. My desk faced the window. In the afternoon, sunlight slanted in, made the screen glare, I always had to slide my chair to the left. That period, we were building MO Card, a membership system for car owners. When I took it over, it was a mess. What the partners wanted, what the product team built, what operations was running, none of it lined up. Every day, my job, was, untangling the threads, one by one, hooking each to the right place. One afternoon, four meetings back to back, the last one, when it broke up, the sky was already dark. I sat at my desk, took a photo of the flowchart on the whiteboard, sent it to the team, wrote, "Finally got this thing to look like something."
 
-People do not know you.
+Untangling things, takes patience. You also have to know, which thread, goes, where.
 
-They do not know your product.
+Then, March 2022, Pacific Auto, Senior BD Operations Manager. When I walked in, there was a number, that, was, ugly. User engagement, zero point five percent. I sat in the conference room, projection on the wall, that number, like a white patch. Boss said, seven months, get it to something presentable. I didn't answer. Went back to my desk, dug through the backend, two days straight. After that, it wasn't complicated. Changed a rule. Pushed a campaign. Data didn't move, go back, find why. Seven months, almost never, left the office, before 10pm. October, the number, hit fifty-two percent. That day, I sat at my desk, stared at the backend, for a long time. Didn't feel happy.
 
-They do not know whether you can deliver what you promise.
+Just tired.
 
-From their perspective, saying no is often the safest choice.
+Same year, October, I left Pacific Auto, partnered up, built Penguin Exploration. No office. Worked from my living room, coffee table, stacked with laptops, and takeout boxes. Clients, I had to run, myself. Didn't even have a presentable product, yet. The first client, took, six or seven trips, to finally, sign. That night, after the signing, I sat in the living room, for a long time. Outside, Guangzhou's night sky, lit up, piece by piece.
 
-The mistake is thinking every rejection is personal.
+Building something from zero, the hardest part, is the first move. You don't know, yet, if, what you're building, anyone, will, want.
 
-I used to do that.
+2025, moved back to Changsha. Daytime, work. Nighttime, sometimes, drop by, the bar. The bar is called Puzi, partnered with a friend, last name, Zhou. One night, I stood behind the bar, watched a customer, order a drink, take two sips, put it down, say something to the friend, with him, they both, laughed. I suddenly, realized, ten years, in this line of work, I'd been learning, how to make things, and, push them, out. After moving back to Changsha, what I slowly, learned, was, to stop, and, look, whether, what I'd made, anyone, was, actually, using.
 
-When someone refused to talk, I felt like I had failed.
+Behind the bar, the light was warm yellow, falling, on that half-finished drink.
 
-Maybe our idea was not good enough.
+Looking back, that phone call, the one, they hung up, three times, stayed, with me. Not because, someone hung up. But because, eventually, someone, answered. And when they did, the conversation, wasn't, at all, what I'd expected.
 
-Maybe we were not convincing enough.
-
-Maybe we were wasting our time.
-
-But later, I learned that rejection often has less to do with you than you imagine.
-
-Sometimes people are busy.
-
-Sometimes the timing is wrong.
-
-Sometimes they simply do not understand the value yet.
-
-The question is not:
-
-"How do I avoid rejection?"
-
-The question is:
-
-"What can I learn from it?"
-
-After the third hang-up, I did not immediately call again.
-
-I thought about what had happened.
-
-Maybe I was explaining too much.
-
-Maybe I was asking for trust before I had earned it.
-
-Maybe I needed to understand their concerns better.
-
-So I changed my approach.
-
-I stopped trying to push the conversation forward.
-
-I started listening.
-
-What problem were they actually facing?
-
-What made them hesitate?
-
-What would make this valuable for them?
-
-The next conversation was different.
-
-Not because I found a magic sentence.
-
-Because I finally understood that communication is not about forcing someone to agree with you.
-
-It is about helping two people understand each other.
-
-Over time, I realized many opportunities are lost not because people say no.
-
-They are lost because we leave too early.
-
-We hear rejection and assume the door is closed.
-
-But sometimes, the door is only closed for today.
-
-The important thing is knowing when to continue and when to let go.
-
-Persistence does not mean endlessly chasing something that has no possibility.
-
-It means being patient enough to understand the difference between rejection and timing.
-
-That phone call stayed in my memory.
-
-Not because someone hung up.
-
-But because someone eventually answered.
-
-And when they did, the conversation was completely different from what I expected.
-
-The first three calls were not failures.
-
-They were part of building trust.
-
-Sometimes, the answer is not hidden behind a better explanation.
-
-Sometimes, it is hidden behind one more attempt.
+The first three calls, were not failures. They were part, of building, trust.
