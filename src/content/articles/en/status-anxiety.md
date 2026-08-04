@@ -1,76 +1,130 @@
 ---
 id: "status-anxiety"
-title: "Past Two in the Morning, Scrolling My Feed for Too Long"
+title: "After Two in the Morning"
 date: "2026-04-17"
 summary: "The night I lost sleep over a nine-grid Plog, I realized I was waiting for a reply to prove I counted."
 tags: ["Reading","Insight"]
 category: "life"
 lang: "en"
 ---
-2:17 a.m. I remember clearly, because I glanced at the top-right corner of the screen before I put the phone down.
+After two in the morning, I am usually still awake.
 
-It was a Friday. I was in bed, scrolling through my feed, and landed on a very ordinary post. Nothing special, just someone's daily Plog. Nine-grid, with a song attached. But I caught myself staring at it for a long time. Too long. My finger rested on the screen, not swiping down.
+The room is quiet.
 
-What was I looking at? What was I trying to dig out of it?
+The lights are off.
 
-I put the phone face-down on the nightstand and stared at the ceiling. The air conditioner hummed. A thought surfaced, and when it did, I startled myself: does my existence mean anything?
+Everyone else seems to have already moved on to tomorrow, but I am still holding my phone, scrolling through other people's lives.
 
-Ridiculous, I know. Losing sleep over a nine-grid Plog at 2 a.m. In the past I would've called myself melodramatic and rolled over and slept. But that night I didn't roll over.
+Someone got promoted.
 
-Because it wasn't the first time.
+Someone started a company.
 
-I used to think jealousy was a character flaw. The kind of thing you should hide, not really admit to. Then I read Status Anxiety and slowly realized jealousy is actually a signal. When I was jealous of someone, it wasn't that they were really that great. It was that I'd automatically cast them as a judge. Whatever they had that I didn't have meant I wasn't good enough.
+Someone bought a house.
 
-Scrolling through feeds at 2 a.m. is the same thing as jealousy. When you're jealous, you stare at what someone else has. When you're scrolling late at night, you stare at the signals someone else sends out. Both are waiting for a response, one that proves you "count."
+Someone announced a new achievement.
 
-The next morning, the thought was still there.
+The posts are short.
 
-I sat on the edge of the bed and zoned out for a while. The light outside had already turned white. My phone buzzed. The delivery had arrived. I'd ordered a bowl of noodle soup during my insomnia the night before, scheduled for 7:30 a.m. The delivery guy rang the doorbell three times before I went down to get it.
+A few photos.
 
-While eating the youtiao, I kept thinking: why does a slow reply feel like waiting for a verdict? Why does silence make me start wondering if I'm not important enough? Even with the person I'd had the deepest connection with, I'd fall into the same trap. I'd turn over the silences and the unsaid things, wearing myself down.
+A few sentences.
 
-Around that time I happened to be reading Status Anxiety. Someone had asked what I was reading, and I'd snapped a photo of the cover and sent it over. I didn't expect that months later, I'd finish the book with a head full of tangled thoughts. The book sat on the nightstand, next to my phone, my glasses, a half-glass of overnight water. The words on anxiety hit me all at once, and behind them were all the blank spaces left after our conversations, the things never quite said.
+But somehow, they are enough to make me feel like I am standing still.
 
-There's a passage in the book:
+I know these moments are only fragments.
 
-A worry, so pernicious as to be capable of ruining extended stretches of our lives, that we are in danger of failing to conform to the ideals of success laid down by our society and that we may as a result be stripped of dignity and respect.
+Nobody posts the difficult parts.
 
-I read it twice. Then a third time.
+Nobody shows the uncertainty before the decision.
 
-The soup had gone cold. I finished the remaining half. Cold soup has a slightly chalky taste.
+Nobody writes about the nights they wondered whether they were doing the right thing.
 
-During that period I figured something out. My late-night scrolling had nothing to do with anyone else. It was my own thing. The fear of not being chosen. The sense that my existence wasn't enough to make someone stay. Even after that person's chapter had closed, even as a new one was starting, that feeling wouldn't leave.
+I know that.
 
-Alain de Botton calls it "status anxiety." The desire to be seen, to be respected, to be loved. Not by everyone. By the people who matter to you.
+But knowing something and feeling something are different.
 
-Once I was on a video call with my mom. She asked how I'd been. I said fine. She said I didn't look great and asked if I'd been sleeping enough. I said yeah, just been busy lately. She looked at me for a moment and didn't say anything. Then she said, "I sent you the cured meat we made. Remember to pick it up."
+Sometimes, I still compare.
 
-After I hung up, I realized I do the same thing with my mom. When she said "you don't look great," I was waiting for her to say "don't push yourself too hard." She didn't, so I started turning it over: was I not showing enough exhaustion, so she didn't take it seriously? You see, even with my mom, I was waiting for a response to prove I was cared about.
+I look at someone else's timeline and then look back at my own.
 
-Later, I slowly came to understand: success is a target that moves on its own. That's how society is designed, to keep you running, chasing, consuming. You reach one, and the next one appears immediately. Endless.
+And I start asking questions.
 
-Our generation is funny. We're repeatedly told "you were born equal," yet we're more likely than anyone to feel we're not good enough. Because we compare our behind-the-scenes to everyone else's polished trailer. We pit our unfiltered daily life against the soft-focus warmth of an ex's memories, against the ambiguous signals of a new relationship.
+Am I moving fast enough?
 
-But what the book really left me with is one word: perspective.
+Am I doing enough?
 
-The people who love you don't love your carefully formatted profile page. They love things you'd never put in a bio. The messy thoughts you have at midnight. The silence that doesn't need explaining. The version of you that was "already enough."
+Did I make the right choices?
 
-Last weekend I went to the supermarket. At checkout, the guy in front of me was old, buying two bags of rice, a bundle of scallions, a carton of eggs. He took out his phone to scan the code and tried three times, but it didn't work. The cashier was patient. She helped him pull up the payment code and held his phone up to the scanner for him. The old man kept muttering, "Thank you, young lady. I'm not very good at this." She smiled and said, "No problem, Grandpa. I'll help you next time you come too."
+The strange thing is, I never used to think this way.
 
-I stood behind them and watched for a while. When the old man walked out of the supermarket, his steps were slow, but steady.
+When I was younger, I believed life was more straightforward.
 
-Walking home with my own bag, I noticed the sun was just right. A kid on the sidewalk was riding a hoverboard. He fell, got back up, kept riding.
+Study hard.
 
-I suddenly thought: I've been running a race. A race where I had to be seen, chosen, remembered. But I never actually signed up. That finish line I thought would prove I had value if someone paid attention to me—every time I got close, it moved further away.
+Work hard.
 
-Maybe the point was never to win.
+Things will eventually make sense.
 
-That night I didn't scroll my feed. I got sleepy around nine, turned off the light, and slept. I woke up once in the middle of the night and reached for my phone to check the time: 3:04. I didn't open a single app. I went back to sleep.
+But growing older teaches you that life does not work like a checklist.
 
-The next morning I was woken by the garbage truck downstairs. 6:40. A sliver of light came through the curtain gap, landing right on Status Anxiety on the nightstand. The book was still open to that page, with a corner folded.
+There is no universal schedule.
 
-I got up, poured myself a glass of water, and stood by the window drinking it. The old man from yesterday was out buying groceries again, carrying the same cloth bag.
+No shared finish line.
 
-I thought, maybe next time I'm lying awake in the middle of the night, I'll still spiral into all those thoughts. But at least I know: the sky always gets light. Someone will go buy groceries downstairs. The garbage truck will come. The noodle shop opens at 6:30.
+Everyone is carrying a different map.
 
-That's enough.
+Some people arrive early.
+
+Some people take a longer road.
+
+Some people change direction halfway.
+
+For a long time, I thought changing direction meant I had failed.
+
+Now I see it differently.
+
+A different road is still a road.
+
+Looking back, many of the things I worried about did not matter as much as I thought they would.
+
+The job I thought I could not lose.
+
+The problem I thought I could not solve.
+
+The moment I thought would define me forever.
+
+Eventually, they became just another part of the story.
+
+Maybe life is not about reaching a certain place as quickly as possible.
+
+Maybe it is about knowing why you are walking there.
+
+I still scroll sometimes.
+
+I still compare sometimes.
+
+I don't think that will completely disappear.
+
+But these days, when I see someone else's success, I try not to ask:
+
+Why am I not there yet?
+
+I ask:
+
+Is that where I want to go?
+
+There is a difference.
+
+Because the hardest part is not moving slowly.
+
+The hardest part is walking toward a destination that was never yours.
+
+After two in the morning, the world becomes quieter.
+
+The phone screen becomes brighter.
+
+And sometimes, in that small space between today and tomorrow, I remember:
+
+I am not late.
+
+I am just still walking.
