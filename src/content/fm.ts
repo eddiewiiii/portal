@@ -47,6 +47,7 @@ export const fmSongs: FmSong[] = [
     title: `Guilty as Sin?`,
     artist: `Taylor Swift`,
     album: `The Tortured Poets Department`,
+    cover: `/music/ttpd.webp`,
     review: {
       en: `Nothing happened. That's what you tell yourself in the mirror every morning. Nothing happened, except the way your pulse jumped when he said your name in the meeting. Except the dream you won't write down. Except the fact that you know his coffee order and he knows yours and neither of you needed to ask. Your partner kisses you goodnight. You kiss back. In the dark you stare at the ceiling and feel like a criminal who never touched the money but spent it all in her head.`,
       zh: `同事聚餐他坐在你对面，给你夹了块糖醋排骨，筷子碰到你碗边响了一下。你说了声谢谢，声音很正常。回家后你洗完澡躺在床上，脑子里全是那个碰碗的声音。你没碰过他，没单独跟他吃过饭，没给他发过任何不该发的消息。但你躺在床上把今天的画面从头到尾过了一遍，他夹菜时的手腕，笑起来眼角的纹路，说话时舌尖顶了一下上颚。你翻了个身，把脸埋进枕头。你什么都没做。但你觉得你做了什么。第二天上班你故意绕开他工位走，他从背后叫你，你回头笑了一下，心想完了，又想他了。`,
@@ -56,6 +57,7 @@ export const fmSongs: FmSong[] = [
     title: `Down Bad`,
     artist: `Taylor Swift`,
     album: `The Tortured Poets Department`,
+    cover: `/music/ttpd.webp`,
     review: {
       en: `Your therapist asks you to name a time you felt capable this month. You think about the morning you made coffee without crying. That's it. That's the whole list. You see him everywhere. The guy at the bodega has his walk, the barista has his laugh. You write an email you'll never send. Delete it. Write it again. A friend says you need a hobby. You already have one: wanting him. It's exhausting and you're somehow never tired.`,
       zh: `超市里你推着购物车走到饮料区，他喜欢的那个牌子的气泡水在第二排。你伸手去拿，指尖碰到瓶身的那一刻手抖了一下。你拿着那瓶水站在货架前站了很久，旁边的人推车过来你也没动。后来你把水放回去了，又拿出来，最后还是放回去了。结账出来外面下起了雨，你没带伞。你就那么推着车站在门口，雨水打在脸上你也站着。保安过来问你是不是等人。你摇头。你不知道自己在等什么，但你站了二十分钟才走。回去的路上你把车推得很快，像在逃跑。`,
@@ -173,6 +175,7 @@ export const fmSongs: FmSong[] = [
     title: `Out of Time`,
     artist: `The Weeknd`,
     album: `Dawn FM`,
+    cover: `/music/dawnfm.webp`,
     review: {
       en: `The letter took you three months to write. You mail it on a Tuesday. By Friday she's engaged to someone else, posted online, ring visible, caption full of exclamation marks. You read it twice. Throw the returned envelope in the trash. You weren't late. You were never in the race. You just thought the starting gun was pointed at both of you. It was only ever pointed at you.`,
       zh: `你想了很久，终于在一个周日下午写完了那封长信。你写了你们第一次见面那天你穿了什么，写了你为什么一直没说出口，写了这三年你每次想开口又咽回去的那些瞬间。你把信折好放进信封，写了她的地址。出门的时候下起了小雪。你走到邮局，工作人员说今天周日，不收件，明天来。你说好。你把信揣在兜里。第二天你加了班，下班晚了，邮局关了。第三天你终于寄出去了。十天后你收到她朋友转发的消息，她上个月结婚了。你站在公司楼下的花坛边上，把手揣在兜里，摸到那封信的复印件，你之前多打了一份留底。雪化了一半，地是湿的。你把复印件掏出来，撕了，扔进花坛。`,
@@ -326,6 +329,7 @@ export const fmSongs: FmSong[] = [
     title: `到此为止`,
     artist: `徐佳莹`,
     album: `心里学`,
+    cover: `/music/xinli.webp`,
     review: {
       en: `You say the words flat, like weather. "That's it." He nods. No fight. No begging. Just two people who ran out of road. You walk home alone. The apartment is quiet. His toothbrush is gone. Good. You stand in the kitchen and eat cereal from the box. You thought ending it would feel like something. It feels like Tuesday.`,
       zh: `你说到此为止的时候，声音平得像在念天气预报。他点头说好，你们各自站起来，他往左你往右。回到家开灯，鞋柜上他的钥匙不见了，连钥匙他都没忘拿。你打开冰箱想喝点东西，里面只剩一盒快过期的牛奶。冰箱的光照在你脸上，冷气吹着小腿，你站在那里忘了要拿什么。到此为止四个字，你以为说完就干净了。`,
@@ -479,6 +483,7 @@ export const fmSongs: FmSong[] = [
     title: `任性`,
     artist: `孙燕姿`,
     album: `风筝`,
+    cover: `/music/kite.webp`,
     review: {
       en: `You bought the ticket on impulse, money you didn't have, time you couldn't spare. Six hours on a hard seat to stand outside his school like a ghost. He saw you. Looked surprised. Then embarrassed. You said you were passing through. You weren't. You were seventeen and stupid and in love. He was seventeen and kind and not in love with you. You got back on the train. Never did that again. Almost.`,
       zh: `十七岁你用攒了两个月的零花钱买了张硬座票，坐了六小时去他的城市。到了校门口你坐在马路牙子上，看学生进进出出，坐了一下午。他出来倒垃圾看到你，愣了两秒。你说路过，正好经过这边。其实你坐了六小时的火车，根本没有什么路过。你做了这辈子最任性的事，但最后三个字把它全部撤回了。`,
