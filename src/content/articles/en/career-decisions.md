@@ -33,8 +33,6 @@ I hold the pole, watch the tunnel lights outside the window slip past one by one
 
 Changfeng station. I let go of the pole and walk toward the door.
 
-Out of the station, scan a shared bike. The Changsha sun at eight-something in the morning already has heat in it. A few minutes riding, the back of my shirt starts to dampen. Light shifting in the basket, steam from a breakfast shop drifting across the road, the smell of youtiao and soy milk. A short uphill, legs ache a little, shift gears, keep pedaling.
+Out of the station, scan a shared bike. The Changsha sun at eight-something in the morning already has heat in it. A few minutes in, steam from a breakfast shop drifting across the road, the smell of youtiao and soy milk.
 
-Fifteen minutes later, at the building. Lock the bike, into the elevator, press the floor.
-
-Forty minutes subway, fifteen minutes bike. An hour and a half round trip every day. That's my rhythm now.
+A long uphill stretch, fifteen minutes later at the building. Lock the bike, into the elevator, press the floor.
