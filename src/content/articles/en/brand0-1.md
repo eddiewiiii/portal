@@ -1,6 +1,6 @@
 ---
 id: "brand0-1"
-title: "Most of the Office Lights Went Off"
+title: "Most Of The Office Lights Went Off"
 date: "2026-06-22"
 summary: "Day one on the job. The boss gave me thirty days to build a whole brand system from scratch."
 tags: ["Brand","Methodology"]

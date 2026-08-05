@@ -1,6 +1,6 @@
 ---
 id: "braised-beef"
-title: "Braised Beef with Potatoes"
+title: "Braised Beef With Potatoes"
 date: "2026-07-26"
 summary: "A weekend dinner with Mom, warmer than the tears in the cinema."
 tags: ["Growth","Insight"]

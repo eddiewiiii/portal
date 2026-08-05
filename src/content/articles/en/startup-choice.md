@@ -1,6 +1,6 @@
 ---
 id: "startup-choice"
-title: "You Said You Wanted to Build Something"
+title: "You Said You Wanted To Build Something"
 date: "2026-07-08"
 summary: "Flora spat a clamshell on the table. Worst case, the money burns through and nothing gets made."
 tags: ["Career","Startup"]

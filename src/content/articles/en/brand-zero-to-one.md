@@ -1,6 +1,6 @@
 ---
 id: "brand-zero-to-one"
-title: "Sweaty Palms on the First Day"
+title: "Sweaty Palms On The First Day"
 date: "2026-07-18"
 summary: "A co-working desk, rent just over a thousand a month. I opened Notion and started building."
 tags: ["Brand","Methodology"]

@@ -1,6 +1,6 @@
 ---
 id: "status-anxiety"
-title: "After Two in the Morning"
+title: "After Two In The Morning"
 date: "2026-04-17"
 summary: "The night I lost sleep over a nine-grid Plog, I realized I was waiting for a reply to prove I counted."
 tags: ["Reading","Insight"]

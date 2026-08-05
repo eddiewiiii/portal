@@ -1,6 +1,6 @@
 ---
 id: "bar-experiment"
-title: "Speechless when I stared at the bill"
+title: "Speechless When I Stared At The Bill"
 date: "2026-07-06"
 summary: "Water piping ran 1800 over. Zhou next to me, finished his cigarette, stamped it out with his shoe."
 tags: ["Startup","Brand"]

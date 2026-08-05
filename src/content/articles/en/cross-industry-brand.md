@@ -1,6 +1,6 @@
 ---
 id: "cross-industry-brand"
-title: "A Meeting Room in Tsim Sha Tsui"
+title: "A Meeting Room In Tsim Sha Tsui"
 date: "2026-07-20"
 summary: "The AC blew straight on the back of my neck. Across the table, Asia Miles. I said we wanted to build a points redemption portal."
 tags: ["Brand","Methodology"]
