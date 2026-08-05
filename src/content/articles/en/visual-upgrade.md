@@ -1,6 +1,6 @@
 ---
 id: "visual-upgrade"
-title: "Up Close, That Penguin Had a Human Face"
+title: "That Penguin Had a Human Face"
 date: "2026-06-21"
 summary: "Two hours of arguing in a design review. Then I pointed at a penguin with a human face."
 tags: ["Brand","Design"]

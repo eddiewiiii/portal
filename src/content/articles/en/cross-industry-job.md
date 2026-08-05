@@ -1,6 +1,6 @@
 ---
 id: "cross-industry-job"
-title: "The Interviewer Asked If I Knew Cars"
+title: "The Interviewer Asked If I Knew The Industry"
 date: "2026-07-12"
 summary: "The interviewer asked if I knew cars. I said not really, but I can learn."
 tags: ["Career","Methodology"]

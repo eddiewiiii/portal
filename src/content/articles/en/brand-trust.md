@@ -1,6 +1,6 @@
 ---
 id: "brand-trust"
-title: "The Noodle Shop With No Sign"
+title: "The Noodle Shop Without a Store Sign"
 date: "2026-05-20"
 summary: "A client asked if we could get results faster. I didn't answer directly."
 tags: ["Reading","Brand"]

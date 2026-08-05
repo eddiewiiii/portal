@@ -1,6 +1,6 @@
 ---
 id: "study-tour-competition"
-title: "The Afternoon Someone Yawned Across the Table"
+title: "Someone Yawned Across the Table"
 date: "2026-07-16"
 summary: "Someone yawned during our presentation. That small moment taught me communication is not about explaining more."
 tags: ["Study Tour","Insight"]
