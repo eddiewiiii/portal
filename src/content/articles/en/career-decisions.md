@@ -27,11 +27,11 @@ Daytime work has its rhythm, nighttime bar has its rhythm. The two together, som
 
 Sometimes I stand behind the bar, watch a customer order a drink, take two sips, put it down, say something to the friend he's with, both of them laugh. And I suddenly realize, from 2016 to now, almost ten years, I've been learning how to make things and push them out. After moving back to Changsha, what I've slowly been learning is to stop and look, whether the things I've made, anyone is actually using.
 
-The announcement again. Changfeng station coming up.
+The announcement again. I looked up, checked the station name.
 
 I hold the pole, watch the tunnel lights outside the window slip past one by one. The past ten years, from Guangzhou to Changsha, from cold calls to running a bar, every stretch of road has been like these forty minutes. Crowded, stuffy, can't turn around. But if you stand there long enough, you arrive.
 
-The train pulls in. I let go of the pole and walk toward the door.
+Changfeng station. I let go of the pole and walk toward the door.
 
 Out of the station, scan a shared bike. The Changsha sun at eight-something in the morning already has heat in it. A few minutes riding, the back of my shirt starts to dampen. Light shifting in the basket, steam from a breakfast shop drifting across the road, the smell of youtiao and soy milk. A short uphill, legs ache a little, shift gears, keep pedaling.
 
