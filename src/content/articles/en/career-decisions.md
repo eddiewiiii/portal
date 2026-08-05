@@ -13,7 +13,7 @@ Those forty minutes I usually blank out. But sometimes my mind starts turning on
 
 The other morning, the train pulling away from Wanjiali Square, I suddenly thought of 2016. That year I'd just joined Zuzuche, picked up the phone for the first time to call an overseas tourism board. Palms sweating, words stuck halfway. After three years of calls, from being hung up on three times to booking a meeting, from booking to flying out to see them in person. What I learned in those three years wasn't a script. It was how to let the other person know, in one minute, why you were worth that minute.
 
-Transferring, pushed along by the crowd. The Line 6 platform was even more packed.
+Transferring, following the flow of people. The Line 6 platform was busier than usual too.
 
 The summer of 2022 came back to me once too. That year I quit Pacific Auto, started Penguin Explore with Flora. The morning of the day I resigned, two meetings. In one, someone said next we need to push engagement to seventy percent. I sat in the meeting room listening, that number had nothing to do with me anymore. After the meeting, back at my desk, I opened my email and started the resignation letter. Typed slow, deleted, retyped, deleted, in the end left just one line, "I am resigning for personal reasons."
 
