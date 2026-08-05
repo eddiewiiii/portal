@@ -32,3 +32,9 @@ The announcement again. Changfeng station coming up.
 I hold the pole, watch the tunnel lights outside the window slip past one by one. The past ten years, from Guangzhou to Changsha, from cold calls to running a bar, every stretch of road has been like these forty minutes. Crowded, stuffy, can't turn around. But if you stand there long enough, you arrive.
 
 The train pulls in. I let go of the pole and walk toward the door.
+
+Out of the station, scan a shared bike. The Changsha sun at eight-something in the morning already has heat in it. A few minutes riding, the back of my shirt starts to dampen. Light shifting in the basket, steam from a breakfast shop drifting across the road, the smell of youtiao and soy milk. A short uphill, legs ache a little, shift gears, keep pedaling.
+
+Fifteen minutes later, at the building. Lock the bike, into the elevator, press the floor.
+
+Forty minutes subway, fifteen minutes bike. An hour and a half round trip every day. That's my rhythm now.
