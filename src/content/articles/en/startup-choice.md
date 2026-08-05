@@ -21,14 +21,4 @@ After the meetings I went back to my desk, opened my email, and started the resi
 
 After sending the letter I went to my direct manager. He sat in his office, a cup of tea on his desk, gone cold. He read the email, looked up at me for a while, asked if I'd thought it through. I said I had. He said you'd done well here at Pacific Auto, the numbers speak. I said I know. He didn't push further. Said, "Good luck then."
 
-Walking out of his office, I stood in the corridor. Corridor lights were white, glared on the wall a little. Took out my phone, texted Flora: "Resigned." She replied instantly, one word: "Go." Then a location, the office spot she had her eye on, Panyu, Guangzhou. I opened the location. On the map, a grey building.
-
-Nothing around it.
-
-"You said you wanted to build something." I still remember that sentence.
-
-Building something is not only about creating.
-
-It is also about carrying.
-
-Because it is not only a dream. It is a promise.
+Walking out of his office, I stood in the corridor. Corridor lights were white, glared on the wall a little. Took out my phone, texted Flora: "Resigned." She replied instantly, one word: "Go."

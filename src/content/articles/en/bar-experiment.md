@@ -1,6 +1,6 @@
 ---
 id: "bar-experiment"
-title: "The Bill on Day Eighty-Three"
+title: "Staring at the Bill, I Couldn't Speak"
 date: "2026-07-06"
 summary: "Water piping ran 1800 over. Zhou next to me, finished his cigarette, stamped it out with his shoe."
 tags: ["Startup","Brand"]

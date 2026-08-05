@@ -1,6 +1,6 @@
 ---
 id: "changsha-cocktail"
-title: "The Ninth Try at Yuelu Mountain"
+title: "The Mist on Yuelu Mountain Came Out"
 date: "2026-07-04"
 summary: "The ninth version he nodded, pushed the glass across. Dusty purple."
 tags: ["Startup","Brand"]

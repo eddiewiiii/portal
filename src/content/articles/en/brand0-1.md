@@ -35,16 +35,8 @@ Nine-level growth ladder, with exact learning expectations at each level, that a
 
 Thirty days later, we shipped. Brand system was not perfect. But it ran. The whole team, went from nobody knowing how to introduce ourselves, to everybody able to say exactly who we were.
 
-The night after the launch event, I was alone in the office.
-
-Most of the lights were off.
-
-Only the desk lamp at my station, still on. The desktop was scattered with whiteboard markers, printed drafts of the brand manual, and a cup of coffee that had gone cold.
-
 Tired? Tired. But those thirty days, had actually, helped me, figure out, one thing, for myself. A brand's core, is not the logo, is not the color palette. It is a complete system of knowing.
 
 Knowing what to do.
 
 Knowing what not to do. I couldn't have put it clearly then. But now, looking back, every stuck moment in those thirty days, was answering that question, for me, one by one.
-
-Every meaningful thing usually starts with a small light somewhere.
