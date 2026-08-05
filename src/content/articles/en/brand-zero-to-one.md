@@ -7,7 +7,7 @@ tags: ["Brand","Methodology"]
 category: "career"
 lang: "en"
 ---
-In October 2022, I quit Pacific Auto and partnered with Flora to build Penguin Explore. First day at work, I sat at a desk in a co-working space in Panyu, Guangzhou, rent just over a thousand a month. In front of me, an empty Notion page, cursor blinking.
+In October 2022, I quit Pacific Auto and partnered with Flora to build Penguin Explore. First day at work, I sat at a desk in a co-working space in Yuexiu, Guangzhou, rent just over a thousand a month. In front of me, an empty Notion page, cursor blinking.
 
 The company was me. Just me.
 

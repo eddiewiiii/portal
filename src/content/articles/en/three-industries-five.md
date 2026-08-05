@@ -9,7 +9,7 @@ lang: "en"
 ---
 It was June in Guangzhou. The AC at Tianhe Building wasn't low enough, the muggy heat pressing my shirt against the back of the chair. On the desk lay a sheet of A4 paper, twenty-some names scrawled in ballpoint, phone numbers beside them. Some names had ticks, some had crosses, most had nothing at all. I had just hung up from another call. The person on the other end heard my first sentence and hung up. The third hang-up of the day.
 
-That was 2016. I had just joined Zuzuche doing market partnerships. My job was mainly to connect with internet companies, travel agencies, and overseas tourism boards. Before that, I hadn't really made these kinds of calls. Most of the time, communication happened online. The first few calls, my palms sweated, words stuck halfway, the other person asked "who is this," I almost couldn't answer.
+That was 2016. I had just joined Zuzuche doing market partnerships. My job was mainly to connect with internet companies, travel agencies, and overseas tourism boards. Most of the time, communication happened online. Occasionally I had to call partners in Hong Kong. English was the working language, and before I opened my mouth I'd run the sentence through my head twice. The first few calls, my palms sweated, words stuck halfway, the other person asked "who is this," I almost couldn't answer.
 
 The A4 paper on the desk was mine. Every time I finished a call, I made a mark next to the name. A tick meant an appointment booked. A cross meant no chance. Nothing meant no reply yet. At first it was all crosses and blanks. I looked at it and panicked. Then I figured it out. A cross didn't mean the end. Two weeks later, try a different time slot. Hung up, fine. Next one.
 
