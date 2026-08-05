@@ -2,7 +2,6 @@
 id: "changsha-cocktail"
 title: "岳麓山的薄雾才出来"
 date: "2026-07-04"
-summary: "试到第九版才点头，把杯子推到我面前，是灰蒙蒙的紫。"
 tags: ["创业","品牌"]
 category: "insight"
 lang: "zh"

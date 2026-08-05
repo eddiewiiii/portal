@@ -2,7 +2,6 @@
 id: "the-black-cat"
 title: "家楼下的那只黑猫"
 date: "2026-07-26"
-summary: "但那些猫狗不一样，它们会因为你的静止，主动走进你这一天里。"
 tags: ["成长","观察"]
 category: "life"
 lang: "zh"

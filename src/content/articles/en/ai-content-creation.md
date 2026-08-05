@@ -2,7 +2,6 @@
 id: "ai-content-creation"
 title: "I Threw Out The Perfect Topic"
 date: "2026-06-15"
-summary: "One night, AI gave me thirty-something topic ideas. One looked perfect."
 tags: ["AI","Insight"]
 category: "creation"
 lang: "en"

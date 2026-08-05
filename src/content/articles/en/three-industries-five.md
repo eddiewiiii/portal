@@ -2,7 +2,6 @@
 id: "three-industries-five"
 title: "They Hung Up My Phone Call Three Times"
 date: "2026-07-14"
-summary: "Three times she said she was busy. The fourth time I said I'd fly over. She said, then come."
 tags: ["Career","Methodology"]
 category: "career"
 lang: "en"

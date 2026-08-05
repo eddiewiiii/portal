@@ -2,7 +2,6 @@
 id: "braised-beef"
 title: "土豆焖牛腩"
 date: "2026-07-26"
-summary: "双休和妈妈吃的一顿晚饭，比影院里的眼泪更暖。"
 tags: ["成长","观察"]
 category: "life"
 lang: "zh"

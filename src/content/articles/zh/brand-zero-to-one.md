@@ -2,7 +2,6 @@
 id: "brand-zero-to-one"
 title: "手心出汗的第一天"
 date: "2026-07-18"
-summary: "我坐在一个共享办公的工位上，面前是空的Notion页面，公司只有我一个人。"
 tags: ["品牌","方法论"]
 category: "career"
 lang: "zh"

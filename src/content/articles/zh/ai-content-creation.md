@@ -2,7 +2,6 @@
 id: "ai-content-creation"
 title: "我弃掉了那个最完美的选题"
 date: "2026-06-15"
-summary: "有一天晚上，AI给我列了三十多个选题，其中一个看起来特别完美。"
 tags: ["AI","观察"]
 category: "creation"
 lang: "zh"

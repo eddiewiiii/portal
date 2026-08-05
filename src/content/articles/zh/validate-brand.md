@@ -2,7 +2,6 @@
 id: "validate-brand"
 title: "活动结束，那个妈妈说了句哦"
 date: "2026-06-19"
-summary: "第一场活动结束，一个妈妈说了句\"哦\"就走了。"
 tags: ["增长","研学"]
 category: "insight"
 lang: "zh"

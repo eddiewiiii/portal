@@ -43,7 +43,7 @@ export default function ArticlePage() {
         <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-black text-ink tracking-tight leading-[1.05] mb-4">
           {article.title}
         </h1>
-        <p className="text-base text-ink-muted">{article.summary}</p>
+        {article.summary && <p className="text-base text-ink-muted">{article.summary}</p>}
       </section>
 
       {/* Article content */}

@@ -2,7 +2,6 @@
 id: "cross-industry-job"
 title: "面试官问我懂不懂车"
 date: "2026-07-12"
-summary: "面试官问我懂不懂车，我说不太懂，但可以学。"
 tags: ["职场","方法论"]
 category: "career"
 lang: "zh"

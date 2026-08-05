@@ -2,7 +2,6 @@
 id: "visual-upgrade"
 title: "那只企鹅近看是一张人脸"
 date: "2026-06-21"
-summary: "设计评审上吵了两小时，最后我指着一只有人脸的企鹅说，我们就选这个。"
 tags: ["品牌","设计"]
 category: "insight"
 lang: "zh"

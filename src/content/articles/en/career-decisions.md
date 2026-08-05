@@ -2,7 +2,6 @@
 id: "career-decisions"
 title: "Forty Minutes Each Way"
 date: "2026-07-10"
-summary: "Morning rush hour, holding the pole, I thought of the first call I made in 2016, and of moving back to Changsha in 2025."
 tags: ["Career","Observation"]
 category: "career"
 lang: "en"

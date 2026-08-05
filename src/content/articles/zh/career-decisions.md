@@ -2,7 +2,6 @@
 id: "career-decisions"
 title: "单程四十分钟"
 date: "2026-07-10"
-summary: "早高峰的地铁里，我扶着那根铁柱子，想到2016年第一次拿起电话，想到2025年回长沙。"
 tags: ["职场","观察"]
 category: "career"
 lang: "zh"

@@ -2,7 +2,6 @@
 id: "anonymous-visitor"
 title: "不具名的访客"
 date: "2026-08-03"
-summary: "它来过，蹭过我的裤脚，待过楼下的角落。"
 tags: ["成长","观察"]
 category: "life"
 lang: "zh"

@@ -2,7 +2,6 @@
 id: "study-tour-competition"
 title: "对面打了个哈欠的那个下午"
 date: "2026-07-16"
-summary: "讲到第八页，对面打了个哈欠，没看我，在看窗外。"
 tags: ["研学","观察"]
 category: "career"
 lang: "zh"

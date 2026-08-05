@@ -2,7 +2,6 @@
 id: "brand-trust"
 title: "楼下那家没有招牌的面馆"
 date: "2026-05-20"
-summary: "客户问我能不能快一点出效果，我没有直接回答。"
 tags: ["阅读","品牌"]
 category: "insight"
 lang: "zh"

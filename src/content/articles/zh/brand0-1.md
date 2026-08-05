@@ -2,7 +2,6 @@
 id: "brand0-1"
 title: "办公室的灯关了一大半"
 date: "2026-06-22"
-summary: "入职第一天，老板让我三十天搭出一套品牌体系。"
 tags: ["品牌","方法论"]
 category: "insight"
 lang: "zh"

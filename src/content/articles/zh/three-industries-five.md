@@ -2,7 +2,6 @@
 id: "three-industries-five"
 title: "那通被挂掉三次的电话"
 date: "2026-07-14"
-summary: "她说了三次没空，第四次我说那我飞过来，她说那你来吧。"
 tags: ["职场","方法论"]
 category: "career"
 lang: "zh"

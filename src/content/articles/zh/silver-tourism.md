@@ -2,7 +2,6 @@
 id: "silver-tourism"
 title: "五一广场全是年轻人"
 date: "2026-06-24"
-summary: "在茶颜悦色的一次闲聊，让我发现一个被忽略的需求。"
 tags: ["旅游","观察"]
 category: "insight"
 lang: "zh"

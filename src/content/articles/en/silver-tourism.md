@@ -2,7 +2,6 @@
 id: "silver-tourism"
 title: "Full Of Young People On Wuyi Square"
 date: "2026-06-24"
-summary: "A casual chat at a teahouse uncovered a demand no one was serving."
 tags: ["Travel","Insight"]
 category: "insight"
 lang: "en"

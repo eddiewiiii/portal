@@ -2,7 +2,6 @@
 id: "startup-choice"
 title: "你说你想自己做一个东西"
 date: "2026-07-08"
-summary: "Flora把花甲壳吐在桌上，说最差的情况就是钱烧完了什么都没做出来。"
 tags: ["职场","创业"]
 category: "insight"
 lang: "zh"

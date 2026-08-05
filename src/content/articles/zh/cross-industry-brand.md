@@ -2,7 +2,6 @@
 id: "cross-industry-brand"
 title: "尖沙咀那间会议室的冷气"
 date: "2026-07-20"
-summary: "冷气正对着我的后颈，对面是亚洲万里通的人，我说我们想做个积分兑换入口。"
 tags: ["品牌","方法论"]
 category: "career"
 lang: "zh"

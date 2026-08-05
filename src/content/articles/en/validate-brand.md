@@ -2,7 +2,6 @@
 id: "validate-brand"
 title: "That Mom Just Said Oh"
 date: "2026-06-19"
-summary: "After the session, a mother simply said 'oh.' That one word taught me more about trust than any presentation."
 tags: ["Growth","Study Tour"]
 category: "insight"
 lang: "en"

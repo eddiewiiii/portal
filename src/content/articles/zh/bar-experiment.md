@@ -2,7 +2,6 @@
 id: "bar-experiment"
 title: "我盯着账单说不出话"
 date: "2026-07-06"
-summary: "水管走线多了一千八，老周在旁边抽完烟，扔掉烟蒂一脚踩灭。"
 tags: ["创业","品牌"]
 category: "insight"
 lang: "zh"

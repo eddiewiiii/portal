@@ -2,11 +2,12 @@
 id: "the-black-cat"
 title: "The Corner Downstairs"
 date: "2026-07-26"
-summary: "They walk into your day because you stood still."
 tags: ["Growth","Insight"]
 category: "life"
 lang: "en"
 ---
+They walk into your day because you stood still.
+
 A black cat looked up at me from the corner of the building one night.
 
 Its eyes caught the light, glowing yellow in the darkness.
@@ -19,19 +20,13 @@ Less than ten seconds later, it walked over, brushed against my leg, and then le
 
 I have started noticing how often this happens.
 
-I stop.
-
-In a city where almost everyone is rushing somewhere, I stop.
-
 It usually happens on the way home.
 
-The commute is long. I leave the office and step into a sky that is still pink at the edges. Streetlights slowly come on. The city changes from bright to blue.
+I leave the office and step into a sky that is still pink at the edges. Streetlights slowly come on and the city changes from bright to blue.
 
 Sometimes the sun gets trapped between two buildings, huge and red, turning the whole street orange.
 
 I stand there for a few seconds.
-
-No hurry.
 
 Some evenings, the sky turns purple. Traffic becomes a moving blur. I take out my camera, but after a while I stop worrying about getting the right angle. Clouds break apart into gold above me, and people walk past, small beneath the sky.
 
@@ -55,9 +50,7 @@ The journey home is the only time I don't have to.
 
 I let the world happen.
 
-But it was not the sky that taught me to slow down.
-
-It was the animals waiting downstairs.
+I loved these quiet skies, yet they were only scenery. But it was not the sky that taught me to slow down. It was the animals waiting downstairs.
 
 There is the tabby cat that walks over when I stand at the entrance checking my phone. It lies against my shoe, washes its paw, and looks up at me from time to time.
 
@@ -85,8 +78,6 @@ Something moving quickly toward a destination can be dangerous.
 
 But something that simply exists nearby is not.
 
-So I stand there.
-
 I look at the sky.
 
 I crouch down to retie a shoe that does not really need fixing.
@@ -107,10 +98,8 @@ They give me the chance to hold them because I gave them the chance to decide.
 
 The sunset will not wait.
 
-You catch it once, keep one frame, and continue walking.
+People catch it once, keep one frame, and continue walking.
 
 Cats and dogs are different.
 
 They walk into your day because, for a moment, you stopped.
-
-And maybe that is the quiet tenderness of summer.

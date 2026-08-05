@@ -2,7 +2,6 @@
 id: "anonymous-visitor"
 title: "An Unnamed Visitor"
 date: "2026-08-03"
-summary: "He came, brushed against my trouser leg, stayed in the corner downstairs."
 tags: ["Growth","Insight"]
 category: "life"
 lang: "en"
