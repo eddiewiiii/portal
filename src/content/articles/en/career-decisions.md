@@ -27,8 +27,8 @@ Daytime work has its rhythm, nighttime bar has its rhythm. The two together, som
 
 Sometimes I stand behind the bar, watch a customer order a drink, take two sips, put it down, say something to the friend he's with, both of them laugh. And I suddenly realize, from 2016 to now, almost ten years, I've been learning how to make things and push them out. After moving back to Changsha, what I've slowly been learning is to stop and look, whether the things I've made, anyone is actually using.
 
-The announcement again. Two more stops.
+The announcement again. Changfeng station coming up.
 
 I hold the pole, watch the tunnel lights outside the window slip past one by one. The past ten years, from Guangzhou to Changsha, from cold calls to running a bar, every stretch of road has been like these forty minutes. Crowded, stuffy, can't turn around. But if you stand there long enough, you arrive.
 
-Next stop. I let go of the pole and walk toward the door.
+The train pulls in. I let go of the pole and walk toward the door.
