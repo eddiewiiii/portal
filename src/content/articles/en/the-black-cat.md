@@ -6,25 +6,23 @@ tags: ["Growth","Insight"]
 category: "life"
 lang: "en"
 ---
-They walk into your day because you stood still.
+A black cat looks up at me from the corner of the building one night.
 
-A black cat looked up at me from the corner of the building one night.
+Its eyes catch the light, glowing yellow in the darkness.
 
-Its eyes caught the light, glowing yellow in the darkness.
+I stop.
 
-I stopped.
+I crouch down to its level and stay there.
 
-I crouched down to its level and stayed there.
+Less than ten seconds later, it walks over, brushes against my leg, and then leaves again, as if it has decided I am safe enough.
 
-Less than ten seconds later, it walked over, brushed against my leg, and then left again, as if it had decided I was safe enough.
-
-I have started noticing how often this happens.
+I've come to notice how often this repeats.
 
 It usually happens on the way home.
 
 I leave the office and step into a sky that is still pink at the edges. Streetlights slowly come on and the city changes from bright to blue.
 
-Sometimes the sun gets trapped between two buildings, huge and red, turning the whole street orange.
+Sometimes the sun hangs wedged between two buildings, huge and red, turning the whole street orange.
 
 I stand there for a few seconds.
 
@@ -50,11 +48,11 @@ The journey home is the only time I don't have to.
 
 I let the world happen.
 
-I loved these quiet skies, yet they were only scenery. But it was not the sky that taught me to slow down. It was the animals waiting downstairs.
+I cherish these quiet skies, yet they remain only scenery. But it was not the sky that taught me to slow down. It was the animals waiting downstairs.
 
 There is the tabby cat that walks over when I stand at the entrance checking my phone. It lies against my shoe, washes its paw, and looks up at me from time to time.
 
-The trust comes from nowhere.
+This trust arrives with no reason at all.
 
 There is the dog in the lane who starts wagging its tail the moment it sees me. Its whole body leans toward my hand. No hesitation. No calculation.
 
@@ -98,7 +96,7 @@ They give me the chance to hold them because I gave them the chance to decide.
 
 The sunset will not wait.
 
-People catch it once, keep one frame, and continue walking.
+People capture it for a second, hold one frame, and move on.
 
 Cats and dogs are different.
 
