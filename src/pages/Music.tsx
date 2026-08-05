@@ -22,7 +22,9 @@ export default function Music() {
           <div className="flex flex-col">
             {fmSongs.map((song, i) => {
               const coverUrl = song.cover
-                ? `/api/cover?url=${encodeURIComponent(song.cover)}`
+                ? song.cover.startsWith("/")
+                  ? song.cover
+                  : `/api/cover?url=${encodeURIComponent(song.cover)}`
                 : `/api/cover?type=music&artist=${encodeURIComponent(
                     song.artist
                   )}&title=${encodeURIComponent(song.title)}&album=${encodeURIComponent(song.album)}`;
