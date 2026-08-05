@@ -2,142 +2,33 @@
 id: "career-decisions"
 title: "Line 2 to Line 6, Forty Minutes Each Way"
 date: "2026-07-10"
-summary: "Line 2 to Line 6, forty minutes each way. I leaned against the pole, counting badges."
-tags: ["Career","Insight"]
+summary: "Morning rush hour, holding the pole, I thought of the first call I made in 2016, and of moving back to Changsha in 2025."
+tags: ["Career","Observation"]
 category: "career"
 lang: "en"
 ---
-Every morning, I took Line 2 to Line 6.
+Changsha morning rush. Line 2 to Line 6, forty minutes each way. I enter the station at seven forty every morning. The carriage is packed, can't turn around. Someone's head down scrolling, someone's eyes closed leaning against the door. I always stand in the gangway between carriages, hand on that cold metal pole.
 
-Forty minutes each way.
+Those forty minutes I usually blank out. But sometimes my mind starts turning on its own, lands on some moment in the past, or some uncertain place in the future.
 
-For many people, a commute is just time spent getting from one place to another.
+The other morning, the train pulling into Wanjiali Square, I suddenly thought of 2016. That year I'd just joined Zuzuche, picked up the phone for the first time to call an overseas tourism board. Palms sweating, words stuck halfway. After three years of calls, from being hung up on three times to booking a meeting, from booking to flying out to see them in person. What I learned in those three years wasn't a script. It was how to let the other person know, in one minute, why you were worth that minute.
 
-For me, those forty minutes became a small part of my life.
+Train reached Renmin East Road. Doors opened, a crowd pushed in, I got squeezed against the pole.
 
-I worked in Changsha.
+The summer of 2022 came back to me once too. That year I quit Pacific Auto, started Penguin Explore with Flora. The morning of the day I resigned, two meetings. In one, someone said next we need to push engagement to seventy percent. I sat in the meeting room listening, that number had nothing to do with me anymore. After the meeting, back at my desk, I opened my email and started the resignation letter. Typed slow, deleted, retyped, deleted, in the end left just one line, "I am resigning for personal reasons."
 
-Home was in Zhuzhou.
+That period, every day I drove from my place in Tianhe to the office in Panyu, forty minutes each way. Driving then, subway now, same length of time. In those forty minutes I used to think about one thing. From that first call in 2016 to opening my own company in 2022, six years in between. Six years, three companies, five or six projects, from market partnerships to membership systems to user ops. Each job looked different on the surface. Taken apart, all the same thing. Moving people from one place to another.
 
-Every day, I crossed between two cities.
+The train announcement, Line 6. I let go of the pole. My palm was cool.
 
-The train was always moving.
+In 2025 I moved back to Changsha. Daytime, work. Nighttime, sometimes the bar. The bar is called Puzi, opened with a guy named Zhou. The decision to open it was made at his place one night, drinking, into the small hours, when he said let's open a bar together. I was a bit drunk, said fine. Woke up the next day, thought about it, decided fine.
 
-People stood with their headphones on.
+Daytime work has its rhythm, nighttime bar has its rhythm. The two together, somehow you stay more clear-headed than when you only do one.
 
-Someone looked at their phone.
+Sometimes I stand behind the bar, watch a customer order a drink, take two sips, put it down, say something to the friend he's with, both of them laugh. And I suddenly realize, from 2016 to now, almost ten years, I've been learning how to make things and push them out. After moving back to Changsha, what I've slowly been learning is to stop and look, whether the things I've made, anyone is actually using.
 
-Someone closed their eyes and rested.
+The announcement again. Next stop Wenchang Pavilion, two more stops to mine.
 
-Everyone was going somewhere.
+I hold the pole, watch the tunnel lights outside the window slip past one by one. The past ten years, from Guangzhou to Changsha, from cold calls to running a bar, every stretch of road has been like these forty minutes. Crowded, stuffy, can't turn around. But if you stand there long enough, you arrive.
 
-At first, I hated the commute.
-
-Forty minutes felt long.
-
-Forty minutes in the morning.
-
-Forty minutes after work.
-
-Almost an hour and a half every day disappeared into the road.
-
-I wondered:
-
-Was this worth it?
-
-But slowly, something changed.
-
-The train became my quiet time.
-
-Before work, I prepared myself for the day.
-
-After work, I had forty minutes to let everything settle.
-
-The meetings.
-
-The problems.
-
-The conversations.
-
-The things I said.
-
-The things I should have said.
-
-Sometimes I read.
-
-Sometimes I listened to music.
-
-Sometimes I simply watched the scenery outside the window.
-
-Nothing special happened.
-
-But those ordinary moments gave me space to think.
-
-Looking back, I realize many important periods of life do not feel important while they are happening.
-
-They just feel repetitive.
-
-You wake up.
-
-You go to work.
-
-You come home.
-
-You do it again tomorrow.
-
-But somewhere inside that repetition, something is changing.
-
-You are learning.
-
-You are becoming more patient.
-
-You are understanding yourself better.
-
-At that time, I was still figuring out what I wanted.
-
-Career.
-
-Direction.
-
-The kind of person I wanted to become.
-
-I did not have all the answers.
-
-Maybe nobody does.
-
-But every morning, I still took the same train.
-
-Line 2.
-
-Then Line 6.
-
-Forty minutes each way.
-
-Years later, I no longer remember every meeting from that period.
-
-I don't remember every difficult day.
-
-But I remember the train.
-
-The quiet carriage.
-
-The city passing outside the window.
-
-The feeling of moving forward, even when I was not completely sure where I was going.
-
-Maybe life is like that.
-
-Most of the journey is not made during the big moments.
-
-It is made during the ordinary ones.
-
-The repeated ones.
-
-The forty minutes each way.
-
-The days when nobody notices.
-
-The days when you are simply showing up.
-
-And then one day, you look back and realize:
-You were not just commuting.
+Next stop is the terminus. I let go of the pole and walk toward the door.

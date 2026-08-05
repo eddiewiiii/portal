@@ -1,6 +1,6 @@
 ---
 id: "brand0-1"
-title: "The Last Light in the Office"
+title: "Most of the Office Lights Were Off"
 date: "2026-06-22"
 summary: "Day one on the job. The boss gave me thirty days to build a whole brand system from scratch."
 tags: ["Brand","Methodology"]
@@ -34,6 +34,8 @@ Website we only did three pages. Home. Product. Brand story. I made the prototyp
 Nine-level growth ladder, with exact learning expectations at each level, that also got locked in. Launch event full deck I wrote myself, from creative concept to visual system to the founder's core speech blocks. Core was one thing: make clear what the brand is, make clear what the advantage is. No stacked PPT fluff.
 
 Thirty days later, we shipped. Brand system was not perfect. But it ran. The whole team, went from nobody knowing how to introduce ourselves, to everybody able to say exactly who we were.
+
+That night, after we shipped, most of the office lights were off. I sat at my desk, the desktop scattered with whiteboard markers, printed drafts of the brand manual, a cup of coffee gone cold.
 
 Tired? Tired. But those thirty days, had actually, helped me, figure out, one thing, for myself. A brand's core, is not the logo, is not the color palette. It is a complete system of knowing.
 

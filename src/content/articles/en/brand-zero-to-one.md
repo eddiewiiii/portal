@@ -7,28 +7,34 @@ tags: ["Brand","Methodology"]
 category: "career"
 lang: "en"
 ---
-The first time I tried to sell something, my palms were sweating. I had prepared everything. The slides. The introduction. The answers to possible questions. But none of that helped when I sat across from the first potential client.
+In October 2022, I quit Pacific Auto and partnered with Flora to build Penguin Explore. First day at work, I sat at a desk in a co-working space in Panyu, Guangzhou, rent just over a thousand a month. In front of me, an empty Notion page, cursor blinking.
 
-Because preparation can give you information. It cannot give you experience.
+The company was me. Just me.
 
-At that moment, I realized something. Starting from zero is always uncomfortable. There is no reputation behind you. No previous success. No proof that you can do it. Only yourself.
+Flora was on the other side of Guangzhou, still had her own things, came by every other day. My job that day was to figure out, by myself, what we were going to do. Parent-child study tours. Those four words sat in the Notion page's title bar, nothing below them.
 
-Before starting my own company, I worked at a large organization. I was used to having a team, a brand name, and resources behind me. When you work for an established company, people often trust you before they know you. The company has already done that work for you. But when you start something yourself, all of that disappears.
+I stared at the cursor for about ten minutes. My palms started sweating.
 
-People are not looking at the company. They are looking at you.
+Before this, at Zuzuche, BitAuto, Pacific Auto, I'd always worked with a team, a brand, resources behind me. When people listened to me, half of what they were listening to was the logo behind me. Before I opened my mouth, half the trust was already there. That day in the co-working space, there was nothing behind me. No logo, no team, no company name on a business card. Just me.
 
-Why should I trust you? Why should I choose you? Why should I believe you can do this?
+At two in the afternoon, I went to the pantry to get water. A guy at the next desk looked up, asked what I did. Parent-child study tours, I said. Oh, he said, and went back to work. I carried the cup back to my desk. When those words came out of my mouth, even I felt how empty they sounded. Study tours. Study what, for whom, how. I couldn't answer a single one.
 
-Those questions are uncomfortable. But they are also necessary. The first project. The first customer. The first partnership. The first time someone says yes. These moments are small from the outside. But when you are standing at the beginning, they feel enormous.
+That night Flora came by, asked how the first day went. I said the Notion page was still empty. She laughed. Said it's fine, every first day is like that.
 
-I still remember building Penguin Exploration. There was no clear path. No guaranteed result. Every decision carried uncertainty. Should we try this direction? Should we spend money here? Should we wait? There were many moments when I wished someone could simply tell me the answer. But nobody could.
+I said it's not about being empty. It's that I realized everything I'd done before, someone else had built the frame and I went and filled it. Now the frame was on me, and I didn't know which thread to start with.
 
-That is probably the most difficult part of building something new. You are forced to make decisions before you have enough information. You move forward not because you are confident. You move forward because standing still is also a decision.
+She said then don't think about the frame. Think about one question first. Why are you doing this.
 
-Over time, I started to understand that confidence does not come before action. It comes after.
+I thought about it a long time. Why parent-child study tours. At Pacific Auto, I'd built a car-owner membership system, moving people from one page to another. Earlier at Zuzuche, moving people from one country to another. What I'd been doing all along was moving people from one place to another. Parent-child study tours, that was moving kids from the city to the fields, and bringing what was in the fields back home.
 
-The first meeting teaches you how to handle the second meeting. The first mistake teaches you how to avoid the next one. The first failure makes the next attempt less frightening. Experience is not something you collect before you start. Experience is something you create by starting.
+That night I stayed in the co-working space until eleven. The guy at the front desk came over and asked if I was leaving, he had to lock up. I said five more minutes. After he left, in those five minutes, I wrote the first line on the Notion page: take the city kids to the fields.
 
-Even today, whenever I begin something new, I still feel that familiar nervousness. The preparation. The uncertainty. The small voice asking, What if this doesn't work? But I no longer see that feeling as a warning. Maybe it is just proof that I am standing somewhere I have never been before. And that is usually where growth begins.
+From the next day on, things started moving. Product form, first batch of bases, first mentors, how the first users would come, written down one by one. Before each one was written, a lot of thinking. After it was written, it turned out not to be that hard. The hard part was the first line.
 
-The palms may still sweat. But now I know what to do next. Take the first step.
+The first base took six or seven trips to Nansha before it was signed. First time, the other side didn't even let me finish, said straight out we don't work with agencies. Second time, I brought a deck, he glanced at it, said we'll see. Third time, I brought a crate of fruit and a stack of printed cases. Fourth, fifth, sixth. The seventh time, after he listened to me, he asked, do you have your own site. I said yes. He said, let's talk.
+
+The night we signed, I sat in the living room a long time. The coffee table was stacked with a laptop and takeout boxes, outside the window Guangzhou's lights coming on piece by piece. Building something from zero, the hardest part is the first move. You don't know if what you're building, anyone will want.
+
+The sweaty palms that day, I've thought about them a lot since. Not nerves. The kind of sweat when you stand in the middle of an empty room, four white walls, you don't know which way to walk.
+
+Later I learned, any direction works, just take one step. After the first step, the room isn't empty anymore.
