@@ -21,9 +21,10 @@ export default function Music() {
         <div className="max-w-[1200px] mx-auto">
           <div className="flex flex-col">
             {fmSongs.map((song, i) => {
+              // 本地封面用缩略图（200x200，列表小格够用），外链走代理，无 cover 走 iTunes 搜索
               const coverUrl = song.cover
-                ? song.cover.startsWith("/")
-                  ? song.cover
+                ? song.cover.startsWith("/music/")
+                  ? song.cover.replace("/music/", "/music/thumb/")
                   : `/api/cover?url=${encodeURIComponent(song.cover)}`
                 : `/api/cover?type=music&artist=${encodeURIComponent(
                     song.artist

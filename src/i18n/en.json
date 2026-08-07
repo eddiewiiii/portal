@@ -355,7 +355,7 @@
     "tools_items": ["Notion", "Figma", "Lark", "CapCut", "Cursor"]
   },
   "music": {
-    "page_title": "Private FM",
+    "page_title": "Playlist",
     "page_sub": "My days and nights, all here.",
     "page_desc": "{{count}} songs, {{count}} stories."
   },

@@ -355,7 +355,7 @@
     "tools_items": ["Notion", "Figma", "飞书", "剪映", "Cursor"]
   },
   "music": {
-    "page_title": "私人 FM",
+    "page_title": "Playlist",
     "page_sub": "我的白天和黑夜，都在这里了。",
     "page_desc": "{{count}} 首歌，{{count}} 个故事。"
   },
