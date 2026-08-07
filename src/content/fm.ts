@@ -375,6 +375,7 @@ export const fmSongs: FmSong[] = [
     title: `如果呢`,
     artist: `郑润泽`,
     album: `如果呢`,
+    cover: `/music/ruguo.webp`,
     review: {
       en: `What if you'd said yes? What if he'd stayed? What if the timing was different, the city different, you different? You lie awake building parallel universes, each one a life you didn't live. In every one you're happy. In this one you're not. The what ifs multiply until you're buried. You can't answer them. You can only stop asking. You don't stop asking.`,
       zh: `凌晨两点你想，如果那天你没删那条消息。想到这里又冒出来，如果他回了你呢，再想到如果你回了之后他又没回呢。一个如果生三个，三个生九个，你躺在黑暗里被这些分叉的宇宙压住。你翻了个身，手机亮度调到最低，想给某人打字，打了删，删了打。你发现自己根本不是在追某个答案，你只是停不下来问。窗外有辆车开过去，灯光从窗帘缝扫过天花板，你闭上眼，如果里头还在生如果。`,
@@ -592,6 +593,7 @@ export const fmSongs: FmSong[] = [
     title: `触碰不到的你`,
     artist: `余佳运`,
     album: `触碰不到的你`,
+    cover: `/music/touch.webp`,
     review: {
       en: `Twelve hundred kilometers. You text every night. Voice notes. Photos. Plans to meet soon. Soon never comes. Months pass. You're still texting. Still waiting. Still telling yourself distance is the problem. Then you move to his city. Same silence. Different zip code. You finally understand: he was never out of reach. He just never reached back.`,
       zh: `你们隔着一千两百公里，每天聊到凌晨一点，你设了专属提示音。你说想见面，他说等忙完这阵。你查了高铁票，存了三个日期的截图。三个月过去了他还在忙，你换了城市换了工作。搬家那天你把他的聊天记录翻到最早，一条一条往上看，发现每次都是你先发，每次他说忙。你终于明白，你碰不到他这件事，跟距离没有关系，他从来没打算让你碰到。`,
