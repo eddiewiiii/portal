@@ -2,7 +2,6 @@
 id: "hehua-road-369"
 title: "369 Hehua Road, 11 p.m."
 date: "2026-08-12"
-summary: "A bag of grapes from Ningxiang. The delivery cost more than the grapes."
 tags: ["Friendship","Life"]
 category: "insight"
 lang: "en"
