@@ -24,9 +24,9 @@ I stared at the photo for a few seconds. A line from a Karen Mok song came to mi
 
 "So the rain can't make up its mind."
 
-I paused after sending that.
+I paused after clicking the send button.
 
-Somehow, this no longer felt like the kind of conversation friends usually have.
+Somehow, this no longer felt like the kind of conversation friends might usually have.
 
 He came back to Changsha for a short vacation. Today, he had to leave.
 
@@ -34,7 +34,7 @@ We had talked easily these past few days. The kind of conversations where you do
 
 But it was only a few days.
 
-Soon he would be back at work, and everything would return to a screen.
+Soon he would be back at work, and everything would return to a shared screen.
 
 Changsha didn't rain that day.
 
@@ -42,13 +42,13 @@ I went out in the morning. The sky was already gray, heavy with clouds, and the 
 
 But nothing happened.
 
-All day, I kept glancing out the window.
+I kept glancing out the window all day.
 
 Still grey.
 
 Still nothing.
 
-My phone buzzed throughout the day. Mostly him.
+My phone buzzed throughout the day. Mostly from him.
 
 On the train.
 
@@ -64,11 +64,7 @@ The conversation slowly drifted from what we had eaten to what I was doing that 
 
 "Liar."
 
-In the afternoon, the sky darkened another shade.
-
-I sat at my desk, looking out at the pale gray light.
-
-Then my phone buzzed again.
+The sky darkened another shade and my phone buzzed again in the afternoon.
 
 I read his message several times.
 
@@ -100,4 +96,4 @@ I took it out.
 
 It was him.
 
-I replied with one word, put my phone away, opened my umbrella, and walked into the rain.
+I replied with one word, put my phone back in my pocket, and walked into the rain with my umbrella on.
