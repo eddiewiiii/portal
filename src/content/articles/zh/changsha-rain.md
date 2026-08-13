@@ -2,7 +2,6 @@
 id: "changsha-rain"
 title: "犹豫了一天的长沙还是下了雨"
 date: "2026-08-13"
-summary: "我回了一个字，然后把手机揣回口袋，撑起伞走进雨里。"
 tags: ["Life","Dating"]
 category: "life"
 lang: "zh"
