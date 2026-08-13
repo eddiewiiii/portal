@@ -1,5 +1,5 @@
 ---
-id: "brand0-1"
+id: "aibrand"
 title: "办公室的灯关了一大半"
 date: "2026-06-22"
 tags: ["品牌","方法论"]
