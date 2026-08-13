@@ -2,7 +2,6 @@
 id: "changsha-rain"
 title: "Maybe Changsha Was in a Bad Mod"
 date: "2026-08-13"
-summary: "I replied with one word, put the phone back, opened my umbrella, and walked into the rain."
 tags: ["Life","Dating"]
 category: "insight"
 lang: "en"
