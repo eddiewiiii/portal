@@ -6,11 +6,11 @@ tags: ["Life","Dating"]
 category: "insight"
 lang: "en"
 ---
-Monday morning, he sent me a photo from the high-speed train. 
+Monday morning, she sent me a photo from the high-speed train.
 
 Outside the window, the sky was grey, with clouds hanging low over the horizon. 
 
-His only caption was: “Looks like it wants to rain.”
+Her only caption was: “Looks like it wants to rain.”
 
 I stared at the photo for a few seconds. A line from a Karen Mok song came to mind: a cloudy day, in a room with the lights off.
 
@@ -28,13 +28,13 @@ I paused after clicking the send button.
 
 Somehow, this no longer felt like the kind of conversation friends might usually have.
 
-He came back to Changsha for a short vacation. Today, he had to leave.
+She came back to Changsha for a short vacation. Today, she had to leave.
 
 We had talked easily these past few days. The kind of conversations where you don't have to look for a topic. You say whatever comes to mind, and the other person catches it and throws something back.
 
 But it was only a few days.
 
-Soon he would be back at work, and everything would return to a shared screen.
+Soon she would be back at work, and everything would return to a shared screen.
 
 Changsha didn't rain that day.
 
@@ -48,7 +48,7 @@ Still grey.
 
 Still nothing.
 
-My phone buzzed throughout the day. Mostly from him.
+My phone buzzed throughout the day. Mostly from her.
 
 On the train.
 
@@ -66,11 +66,11 @@ The conversation slowly drifted from what we had eaten to what I was doing that 
 
 The sky darkened another shade and my phone buzzed again in the afternoon.
 
-I read his message several times.
+I read her message several times.
 
 My fingers stayed on the screen for a moment.
 
-I'm not going to write what he said.
+I'm not going to write what she said.
 
 But I knew.
 
@@ -94,6 +94,6 @@ My phone buzzed in my pocket.
 
 I took it out.
 
-It was him.
+It was her.
 
 I replied with one word, put my phone back in my pocket, and walked into the rain with my umbrella on.
