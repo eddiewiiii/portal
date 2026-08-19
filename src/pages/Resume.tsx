@@ -24,6 +24,13 @@ function Bullet({ text, dark = false }: { text: string; dark?: boolean }) {
 
 const jobs = [
   {
+    company: "resume.job6_company",
+    role: "resume.job6_role",
+    date: "resume.job6_date",
+    tag: "resume.job6_tag",
+    bullets: ["resume.job6_p1", "resume.job6_p2", "resume.job6_p3", "resume.job6_p4", "resume.job6_p5"],
+  },
+  {
     company: "resume.job1_company",
     role: "resume.job1_role",
     date: "resume.job1_date",
