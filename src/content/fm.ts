@@ -718,7 +718,7 @@ export const fmSongs: FmSong[] = [
     },
   },
   {
-    title: `麻雀飞向那里`,
+    title: `麻雀飞去哪里`,
     artist: `郑兴`,
     album: `盆地`,
     review: {
