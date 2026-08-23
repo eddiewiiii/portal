@@ -663,4 +663,76 @@ export const fmSongs: FmSong[] = [
       zh: `阳台窗户没关，雨飘进来打湿了地板，你拖了两遍踩上去还是吱吱响。他留下的那件卫衣挂在晾衣绳上，淋了一下午，你收下来丢进洗衣机。滚筒转的时候你坐在沙发上，听着雨又大了。洗完你挂回去，第二天又下雨，卫衣又湿了，你没再收。雨停了又下，卫衣湿了又洗，洗了又湿，这个圈你转不出去。你站在阳台门口看了一会儿，手里攥着衣架，最后又放下了。`,
     },
   },
+  {
+    title: `山林道`,
+    artist: `谢安琪`,
+    album: `山林道`,
+    review: {
+      en: `The taxi driver plays the radio. You're in the back seat, resume in hand, palms damp. The lyric goes: "cut down the tree, clear the mountain twice, from no road to inches, slowly moving forward." You think: that's me. Three years later you sit on the couch of an apartment you can afford. The song comes on again. "Exchanged the good leaves for a good future, all negative numbers." You search Hillwood Road. It's real. A street in Tsim Sha Tsui, less than 500 meters. You've never been. You close the search. The streetlight comes through the window. You sit. You don't cry. You don't move.`,
+      zh: `你第一次听这首歌是在出租车上，司机放的电台。你当时在去面试的路上，手里攥着简历，手心全是汗。歌词里唱"劈下树，开山两次，由无路变寸寸慢慢移"，你心想这说的不就是我吗。后来你拿到了那份工作，干了三年，每天加班到十一点，把出租屋从城中村搬到了小区。有一天你坐在新家的沙发上，又听到这首歌，听到"遗落美好枝叶，换到好前途，皆负数"，你愣了一下。你拿起手机搜了一下山林道，发现那是一条真实存在的路，在香港尖沙咀，很短，不到五百米。你从来没去过，但你突然很想去看一眼那条路长什么样。你关掉搜索页面，把手机放桌上，屏幕暗了。窗外的路灯照进来，地板上有光，你坐了一会儿，没哭，但也没动。`,
+    },
+  },
+  {
+    title: `苦瓜`,
+    artist: `陈奕迅`,
+    album: `Stranger Under My Skin`,
+    review: {
+      en: `You never touched bitter melon when your mom made it. "You'll understand when you grow up," she said. You didn't believe her. Then a relationship ended. You didn't cry. You packed your things. Left his T-shirt in the closet. Didn't take it. Bought water at the convenience store. Hands shook opening the cap. You saw the bitter melon stand on the street. Bought one. Sliced it. Stir-fried. Took a bite. It was still bitter. You didn't spit it out. You finished it. Your mom was right. Not about bitter melon. About the bitterness you choose to swallow.`,
+      zh: `你妈炒苦瓜的时候你从来不碰。她说等你长大就知道了，你心想知道什么，知道苦瓜好吃吗，不可能。后来你谈了场恋爱，分的时候没哭，收拾东西的时候发现他衣柜里还有一件你的T恤，你没拿，关门走了。楼下便利店买了瓶水，拧开瓶盖的时候手有点抖。你站在那喝了一口，发现路边的苦瓜摊在卖新鲜的苦瓜，你想起你妈说的那句话。你买了一根，回去切片炒了，尝了一口，还是苦的，你没吐。你吃完了。你妈没说错，你确实知道了，但不是知道了苦瓜好吃，是知道了有些苦是你自己愿意吃的。`,
+    },
+  },
+  {
+    title: `天黑黑`,
+    artist: `孙燕姿`,
+    album: `孙燕姿同名专辑`,
+    review: {
+      en: `Your grandmother taught you this song when you were five. You only remember the tune: "tin o o, beh lo ho." You moved away. She passed. You didn't make it back. Your mom said it's fine on the phone. You hung up. Sat at your desk. People were talking. You couldn't hear. That night in bed the tune came back. You tried to sing the whole song. Realized you never learned the rest. You searched the lyrics. Read: "walk forward even when it rains." The screen went dark. You saw your face in the reflection. You remembered her sitting on a small stool, a bowl of porridge on her lap, you at her feet. You didn't cry. You put the phone down. You'll call your mom tomorrow.`,
+      zh: `你外婆在你五岁的时候教你唱天黑黑。你记不住词，只记得"天黑黑欲落雨"那句调子。后来你去了外地读书，工作，嫁人，外婆去世你也没赶上。你妈在电话里说没事，你放下电话坐在工位上，旁边的人还在说话，你听不见。那天晚上你躺在床上，脑子突然冒出那句"天黑黑欲落雨"，你试着唱完整首，发现后面那几句词你从来没记住过。你打开手机搜歌词，看到"下起雨也要勇敢前进"那一句，手机屏幕自动暗了，你在黑屏上看到自己的脸。你想起外婆唱歌的时候坐在小板凳上，膝盖上放着一碗粥，你坐在她脚边。你没哭，你关了灯，把手机放枕头边，想明天给妈打个电话。`,
+    },
+  },
+  {
+    title: `写故事的人`,
+    artist: `汪苏泷`,
+    album: `明日世界 ACT I`,
+    review: {
+      en: `You type a message. Delete it. Type it again. "Nice weather today." He replies with a smile emoji. And nothing else. You stare at the smile. It looks like someone waving from far away. You run toward it. He turns and walks away. Later you write about him in your notes. From beginning to end. You delete the painful parts. What's left is readable. You read it once. You made yourself a minor character. You close the app. It's not snowing outside. The forecast says rain tonight. You buy an umbrella. You don't take it home. You leave it in your desk drawer, with the messages you never sent.`,
+      zh: `你写了一段话又删了，删了又写，来回三次。你只是想给他发个消息，说"今天天气不错"，但你怕这句话看起来太刻意。你最后发了，他回了一个笑脸。然后没有了。你盯着那个笑脸看了很久，觉得它像一个人站在很远的地方跟你招手，你跑过去，发现他招完手转身走了。你后来在备忘录里写了一篇关于他的东西，从开头写到结尾，删了中间所有痛苦的部分，剩下的大概能看。你读了一遍，发现自己把自己写成了一个无关紧要的角色。你关掉备忘录，外面没下雪，但天气预报说今晚有雨。你出门买了把伞，没带回家，放在公司抽屉里，跟那些没发出去的消息放在一起。`,
+    },
+  },
+  {
+    title: `理想人生`,
+    artist: `徐佳莹`,
+    album: `理想人生`,
+    review: {
+      en: `You used to think the ideal life was: money, house, car, family. Your mom thought so too. You chased that standard until thirty. You fell short on every item. Not by much. But enough to build a wall. Low. But you couldn't climb it. One day you had dinner at a friend's place. She lives in a cheap apartment. Has a cat. Grows mint on the windowsill. She made soup. Too much rice. The cat stepped in the dish. She called it a dirty name, threw the dish out, cooked another. You helped peel garlic. The scene felt right. Not perfect. Right. Walking home, the streetlights were warm yellow. You walked slow. You remembered the first time you heard this song. The piano and strings. Simple. You cried. You didn't know why then. Now you do. You cried not because you couldn't have it. But because you realized what you wanted was never that complicated.`,
+      zh: `你以前觉得理想人生是有钱，有房，有车，有家庭。你妈也这么觉得。你按这个标准活到了三十岁，发现你每样都差一点，差得不多，但每样都差一点，加起来就是一面墙，不高，但你翻不过去。有一天你去朋友家吃饭，她住城中村，月租一千二，养了一只猫，窗台上种了薄荷。她煮了一锅汤，米饭蒸多了，你们边吃边看电视，猫跳上桌踩进了菜盘里。她说了句"死猫"，把菜倒了，重新炒了一个，你帮忙剥蒜。你突然觉得这个画面很对，它不完美，但很对。你回家的路上，路灯是暖黄色的，你走得很慢。你想起徐佳莹唱"理想人生"的时候，配乐里有钢琴和提琴，旋律简单，但你第一次听的时候哭了。你当时不知道为什么哭，现在你知道了。你哭不是因为得不到，是因为你发现你想要的其实没那么复杂。`,
+    },
+  },
+  {
+    title: `supernatural`,
+    artist: `Ariana Grande`,
+    album: `eternal sunshine`,
+    review: {
+      en: `Your friends thought it was unrealistic. Long distance. Age gap. He wasn't even that good to you. But every time you saw him, your heart beat so loud you could hear it. You sat across from him at dinner, hands hidden under the table, gripping your jeans so he wouldn't see you shake. You looked up the lyrics later. "This is supernatural, you got me hooked." You thought: no. He didn't hook you. You volunteered. You knew it made no sense. But you couldn't leave. Not because of a rope. Because you didn't want to. You left eventually. Not because you figured it out. Because he left first. You didn't listen to this song for a month. When you finally did, it wasn't even that good. But back then it was the best song in the world.`,
+      zh: `你跟他在一起的时候你朋友都觉得不现实。异地，年龄差，他对你其实也不算好。但你每次见到他，心跳快得你都能听见，你坐在他对面吃饭，手藏在桌下攥着裤腿，怕他发现你在抖。你后来查了supernatural的歌词，有一句说"this is supernatural, you got me hooked"。你心想不是的，不是他hook了你，是你自己愿意被hook的。你明明知道这不合理，但你就是走不掉，像被什么东西按在原地，不是绳子，是你自己不想走。你后来走了，不是因为想通了，是因为他先走了。你整整一个月没听这首歌，再听的时候发现它其实没那么好听，但你当时觉得它是全世界最好听的歌。`,
+    },
+  },
+  {
+    title: `麻雀飞向那里`,
+    artist: `郑兴`,
+    album: `盆地`,
+    review: {
+      en: `You take the subway every day. End to end. Forty minutes. Enough for three songs and a scroll through your feed. One day you saw sparrows outside the window. Weeds beside the tracks. A few birds landed. The train passed. They flew. You wondered where they were going. No destination. No GPS. Fly for a day is flying. Fly for a lifetime is also flying. You envied them. Because you know exactly where you'll be tomorrow. Next month. Next year. You know too clearly. Sometimes you want to be a sparrow. Not knowing the next stop. The train arrived. You got off. Cold air hit your face. You tightened your jacket. Walked into the street you already know.`,
+      zh: `你每天坐地铁上班，从始发站坐到底，四十分钟，够你听完三首歌加刷一遍朋友圈。有天你在地铁上看到窗外有麻雀飞过，铁轨旁边是荒地，几只麻雀停在杂草上，车一过它们飞了。你突然想它们飞去哪里，没有目的地，没有手机导航，飞一天是飞，飞一辈子也是飞，你羡慕它们，因为你知道自己明天在哪里，下个月在哪里，明年在哪里，你全都知道，知道得太清楚了。你有时候想当一只麻雀，不用知道下一站。你到站了，下车，从站口出去，冷风灌进来，你收紧外套，走进你全都知道的那条路。`,
+    },
+  },
+  {
+    title: `完整的我`,
+    artist: `陳蕾`,
+    album: `凝`,
+    review: {
+      en: `Your mom asks when you're getting married. "Not in a hurry," you say. "I'm in a hurry," she says. You hang up. Text her: "I'm fine." Throw your phone on the couch. Cook noodles. Add an egg. Scallions. Watch a show while you eat. She doesn't know you're actually fine alone. You don't know how to explain: "complete me" doesn't mean finding the other half. It means being whole right now. You don't need someone to fill a gap. You're a full circle. Nothing missing. You finish the noodles. Wash the dishes. The kitchen light is broken. You wash your hands in the dark. Shake them dry. Water drops on the tile. You step over it. The floor is cold under your feet. You're fine. Really.`,
+      zh: `你妈问你什么时候结婚，你说不急。她说你不急我急，你把电话挂了，挂了之后发了一条消息：你放心，我挺好的。发完你把手机扔沙发上，去厨房煮了碗面，加了个蛋，撒了葱花，端到茶几上边看综艺边吃。你妈不知道你其实一个人过得挺好的，你不知道怎么跟她解释，"完整的我"不是找到一个另一半才完整，是你现在就能完整。你不需要另一个人来填空，你是一个完整的圆，不需要被谁补上。你吃完面洗了碗，厨房的灯坏了，没修，你摸黑洗完手，甩了甩，水滴在瓷砖上，你踩过去，脚底凉凉的。你觉得自己挺好的，真的。`,
+    },
+  },
 ];
