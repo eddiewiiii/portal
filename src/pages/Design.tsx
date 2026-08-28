@@ -1,6 +1,18 @@
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
-import { ArrowUpRight, ExternalLink } from "lucide-react";
+import {
+  ArrowUpRight,
+  ExternalLink,
+  LayoutDashboard,
+  FolderOpen,
+  Scissors,
+  BarChart3,
+  Database,
+  Mail,
+  FlaskConical,
+  RotateCw,
+  Wand2,
+} from "lucide-react";
 import PageHero from "@/components/PageHero";
 
 type Lang = "zh" | "en";
@@ -108,6 +120,73 @@ const PROJECTS: Project[] = [
     stack: { zh: ["APP", "实验性", "轻量", "迭代中"], en: ["APP", "Experimental", "Lightweight", "WIP"] },
   },
 ];
+
+type WbIcon = "mission" | "asset" | "cut" | "bench" | "scrape" | "mail";
+
+type Workbench = {
+  zh: { steps: { title: string; desc: string }[]; modules: { title: string; desc: string }[] };
+  en: { steps: { title: string; desc: string }[]; modules: { title: string; desc: string }[] };
+};
+
+const WB_ICONS: Record<WbIcon, React.ReactNode> = {
+  mission: <LayoutDashboard size={16} />,
+  asset: <FolderOpen size={16} />,
+  cut: <Scissors size={16} />,
+  bench: <BarChart3 size={16} />,
+  scrape: <Database size={16} />,
+  mail: <Mail size={16} />,
+};
+
+const WORKBENCH: Workbench = {
+  zh: {
+    steps: [
+      {
+        title: "吃透业务",
+        desc: "花一个月把海外 AI 工具推广的整条链路摸清：内容怎么来、流量怎么走、用户在哪转化、佣金怎么结算。不是从猜开始，是从真实数据开始。",
+      },
+      {
+        title: "跑通闭环",
+        desc: "把业务抽象成一套可复制的推广模型：选题、内容、排期、分发、数据回流、复盘迭代串成一条能自己转的链路，而不是靠人手提醒。",
+      },
+      {
+        title: "工具自动化",
+        desc: "把链路里重复、费力、易错的部分交给自研工具去兜底：素材入库、批量剪辑、账号排期、数据抓取、邮件归档，一个人能扛起一整条业务线。",
+      },
+    ],
+    modules: [
+      { title: "任务中枢", desc: "每天要做什么一目了然，从选题到发布的看板式调度。" },
+      { title: "素材库", desc: "外来素材统一入库、打标、去重，剪辑时随手可取。" },
+      { title: "批量剪辑", desc: "把重复剪辑工作 SOP 化，一次产出一批可发布的成片。" },
+      { title: "对标监控", desc: "定时抓取对标内容与数据，发现趋势立刻上报。" },
+      { title: "数据抓取", desc: "自动拉取各端数据，沉淀成团队统一口径的报表。" },
+      { title: "邮件归档", desc: "往来商务邮件自动归档、检索，重要信息不再散落。" },
+    ],
+  },
+  en: {
+    steps: [
+      {
+        title: "Learn the business",
+        desc: "A month mapping an overseas AI-tool promo funnel end to end: where content comes from, how traffic flows, where users convert, how payouts settle. Built on real data, not guesses.",
+      },
+      {
+        title: "Close the loop",
+        desc: "Abstract the business into a replicable promo model: ideation, content, scheduling, distribution, data feedback and iteration chained into a self-running loop, no manual reminding.",
+      },
+      {
+        title: "Automate with tools",
+        desc: "Hand the repetitive, error-prone parts to self-built tools: asset intake, batch editing, scheduling, scraping, mail archiving. One person can carry an entire line of business.",
+      },
+    ],
+    modules: [
+      { title: "Task hub", desc: "A kanban-style command center — know what happens today at a glance." },
+      { title: "Asset library", desc: "Unified intake, tagging and dedupe so editing never starts from zero." },
+      { title: "Batch editing", desc: "SOP-ized repetitive cutting, producing a batch of publishable clips at once." },
+      { title: "Benchmark watch", desc: "Periodic scraping of benchmarks and trends, surfaced the moment they shift." },
+      { title: "Data scraping", desc: "Auto-pull data across endpoints into one consistent team report." },
+      { title: "Mail archive", desc: "Business mail auto-archived and searchable, nothing important lost." },
+    ],
+  },
+};
 
 export default function Design() {
   const { t, i18n } = useTranslation();
@@ -275,6 +354,96 @@ export default function Design() {
               </article>
             );
           })()}
+
+          {/* CapCut 工作台：全宽案例行 */}
+          <section className="mt-14 border-t border-border pt-10">
+            <div className="flex items-end justify-between mb-6">
+              <div>
+                <h2 className="font-display text-2xl sm:text-3xl font-black text-ink tracking-tight">
+                  {lang === "zh" ? "CapCut 海外推广工作台" : "CapCut Promo Workbench"}
+                </h2>
+                <p className="text-ink-faint text-sm mt-1">
+                  {lang === "zh" ? "从业务里长出来的系统 · 全栈自研" : "Grown out of the business · Self-built full stack"}
+                </p>
+              </div>
+              <a
+                href="http://localhost:8765"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="shrink-0 hidden sm:inline-flex items-center gap-1.5 text-sm font-semibold text-ink hover:gap-2 transition-all"
+              >
+                <span>{lang === "zh" ? "访问工作台" : "Visit workbench"}</span>
+                <ArrowUpRight size={14} />
+              </a>
+            </div>
+
+            {/* 一次做成：三步走的闭环叙事 */}
+            <div className="bg-surface border border-border rounded-card-lg p-6 sm:p-8">
+              <div className="grid gap-4 md:grid-cols-3">
+                {WORKBENCH[lang].steps.map((s, i) => (
+                  <div key={i} className="flex gap-4">
+                    <div className="flex flex-col items-center pt-0.5">
+                      <span className="font-display font-black text-ink/20 text-sm leading-none">0{i + 1}</span>
+                      {i < WORKBENCH[lang].steps.length - 1 && (
+                        <span className="mt-2 w-px flex-1 bg-border" />
+                      )}
+                    </div>
+                    <div>
+                      <h3 className="font-bold text-ink flex items-center gap-2">
+                        {s.title}
+                        {i === 1 && <RotateCw size={14} className="text-ink-faint" />}
+                        {i === 2 && <Wand2 size={14} className="text-ink-faint" />}
+                      </h3>
+                      <p className="text-sm text-ink-muted leading-relaxed mt-1.5">{s.desc}</p>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* 功能拆解 */}
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5 mt-5">
+              {WORKBENCH[lang].modules.map((m, i) => (
+                <div
+                  key={i}
+                  className="bg-surface border border-border rounded-card-lg p-5 hover:border-ink/40 transition-colors"
+                >
+                  <div className="inline-flex items-center gap-2 mb-2">
+                    <span className="inline-flex items-center justify-center w-8 h-8 rounded-lg bg-surface-alt border border-border text-ink-muted">
+                      {WB_ICONS[Object.keys(WB_ICONS)[i] as WbIcon]}
+                    </span>
+                    <span className="font-semibold text-ink text-sm">{m.title}</span>
+                  </div>
+                  <p className="text-sm text-ink-muted leading-relaxed">{m.desc}</p>
+                </div>
+              ))}
+            </div>
+
+            {/* 工作台界面占位：等 Eddie 提供真实截图 */}
+            <div className="mt-5 bg-surface-alt border border-dashed border-border rounded-card-lg aspect-[16/8] flex flex-col items-center justify-center text-center p-6">
+              <FlaskConical size={20} className="text-ink-faint mb-2" />
+              <p className="text-sm text-ink-faint">
+                {lang === "zh" ? "工作台界面截图（待补）" : "Workbench UI screenshot (TBD)"}
+              </p>
+            </div>
+
+            <div className="mt-5 flex items-center justify-between">
+              <span className="text-xs text-ink-faint">
+                {lang === "zh"
+                  ? "业务研究 · 产品 / 交互 · 全栈实现"
+                  : "Business research · Product / UX · Full-stack"}
+              </span>
+              <a
+                href="http://localhost:8765"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="sm:hidden inline-flex items-center gap-1.5 text-sm font-semibold text-ink hover:gap-2 transition-all"
+              >
+                <span>{lang === "zh" ? "访问工作台" : "Visit workbench"}</span>
+                <ArrowUpRight size={14} />
+              </a>
+            </div>
+          </section>
 
           {/* 设计观 / 收尾 */}
           <div className="mt-16 border-t border-border pt-10 flex flex-col sm:flex-row sm:items-end justify-between gap-6">
