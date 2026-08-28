@@ -3,15 +3,14 @@ import { useTranslation } from "react-i18next";
 import {
   ArrowUpRight,
   ExternalLink,
-  LayoutDashboard,
-  FolderOpen,
   Scissors,
   BarChart3,
-  Database,
   Mail,
-  FlaskConical,
   RotateCw,
   Wand2,
+  Users,
+  ScanLine,
+  Film,
 } from "lucide-react";
 import PageHero from "@/components/PageHero";
 
@@ -121,7 +120,7 @@ const PROJECTS: Project[] = [
   },
 ];
 
-type WbIcon = "mission" | "asset" | "cut" | "bench" | "scrape" | "mail";
+type WbIcon = "cut" | "bench" | "data" | "analysis" | "intake" | "mail";
 
 type Workbench = {
   zh: { steps: { title: string; desc: string }[]; modules: { title: string; desc: string }[] };
@@ -129,11 +128,11 @@ type Workbench = {
 };
 
 const WB_ICONS: Record<WbIcon, React.ReactNode> = {
-  mission: <LayoutDashboard size={16} />,
-  asset: <FolderOpen size={16} />,
   cut: <Scissors size={16} />,
-  bench: <BarChart3 size={16} />,
-  scrape: <Database size={16} />,
+  bench: <Users size={16} />,
+  data: <BarChart3 size={16} />,
+  analysis: <ScanLine size={16} />,
+  intake: <Film size={16} />,
   mail: <Mail size={16} />,
 };
 
@@ -154,12 +153,12 @@ const WORKBENCH: Workbench = {
       },
     ],
     modules: [
-      { title: "任务中枢", desc: "每天要做什么一目了然，从选题到发布的看板式调度。" },
-      { title: "素材库", desc: "外来素材统一入库、打标、去重，剪辑时随手可取。" },
-      { title: "批量剪辑", desc: "把重复剪辑工作 SOP 化，一次产出一批可发布的成片。" },
-      { title: "对标监控", desc: "定时抓取对标内容与数据，发现趋势立刻上报。" },
-      { title: "数据抓取", desc: "自动拉取各端数据，沉淀成团队统一口径的报表。" },
-      { title: "邮件归档", desc: "往来商务邮件自动归档、检索，重要信息不再散落。" },
+      { title: "批量化自动剪", desc: "选择模型、丢素材、自动分段，一次产出一批可发布的成片。" },
+      { title: "对标账号获取", desc: "输入账号即可拉取对标内容，持续收录爆款。" },
+      { title: "账号数据获取", desc: "自动拉取各端数据，沉淀成统一口径的报表。" },
+      { title: "视频维度分析", desc: "逐条拆解视频结构，找出可复制的打法。" },
+      { title: "对标素材入库", desc: "对标内容统一入库、打标、去重，剪辑时随手可取。" },
+      { title: "部门邮件中心", desc: "往来邮件统一归档、检索，重要信息不再散落。" },
     ],
   },
   en: {
@@ -178,12 +177,12 @@ const WORKBENCH: Workbench = {
       },
     ],
     modules: [
-      { title: "Task hub", desc: "A kanban-style command center — know what happens today at a glance." },
-      { title: "Asset library", desc: "Unified intake, tagging and dedupe so editing never starts from zero." },
-      { title: "Batch editing", desc: "SOP-ized repetitive cutting, producing a batch of publishable clips at once." },
-      { title: "Benchmark watch", desc: "Periodic scraping of benchmarks and trends, surfaced the moment they shift." },
-      { title: "Data scraping", desc: "Auto-pull data across endpoints into one consistent team report." },
-      { title: "Mail archive", desc: "Business mail auto-archived and searchable, nothing important lost." },
+      { title: "Batch auto-editing", desc: "Pick a model, drop materials, auto-segment — produce a batch of publishable clips." },
+      { title: "Benchmark account fetch", desc: "Pull benchmark content from any account, keep collecting hits." },
+      { title: "Account data fetch", desc: "Auto-pull data across endpoints into one consistent report." },
+      { title: "Video dimension analysis", desc: "Break down each video's structure to find replicable plays." },
+      { title: "Benchmark material intake", desc: "Unified intake, tagging and dedupe so editing never starts from zero." },
+      { title: "Department mail center", desc: "Business mail unified, archived and searchable, nothing important lost." },
     ],
   },
 };
@@ -419,12 +418,14 @@ export default function Design() {
               ))}
             </div>
 
-            {/* 工作台界面占位：等 Eddie 提供真实截图 */}
-            <div className="mt-5 bg-surface-alt border border-dashed border-border rounded-card-lg aspect-[16/8] flex flex-col items-center justify-center text-center p-6">
-              <FlaskConical size={20} className="text-ink-faint mb-2" />
-              <p className="text-sm text-ink-faint">
-                {lang === "zh" ? "工作台界面截图（待补）" : "Workbench UI screenshot (TBD)"}
-              </p>
+            {/* 工作台界面预览 */}
+            <div className="mt-5 bg-surface border border-border rounded-card-lg overflow-hidden">
+              <img
+                src="/design/capcut.webp"
+                alt="CapCut 工作台"
+                loading="lazy"
+                className="w-full object-contain"
+              />
             </div>
 
             <div className="mt-5 flex items-center justify-between">
