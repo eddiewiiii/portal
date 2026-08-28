@@ -377,7 +377,7 @@ export default function Design() {
             </div>
 
             {/* 整块色带容器：归拢三步 / 功能 / 预览 */}
-            <div className="rounded-card-lg border border-ink/10 bg-gradient-to-br from-[#faf5eb] via-[#f3ecdd] to-[#fbf7ef] overflow-hidden">
+            <div className="rounded-card-lg border border-border bg-surface overflow-hidden">
               <div className="px-5 sm:px-8 py-8 sm:py-10">
                 {/* 一次做成：三步走的闭环叙事 */}
                 <div className="grid gap-4 md:grid-cols-3">
@@ -407,11 +407,11 @@ export default function Design() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5 mt-8">
                   {WORKBENCH[lang].modules.map((m, i) => (
                     <div
-                      key={i}
-                      className="bg-white/80 border border-ink/10 rounded-card-lg p-5 hover:border-ink/40 transition-colors"
-                    >
+                    key={i}
+                    className="bg-surface border border-border rounded-card-lg p-5 hover:border-ink/40 transition-colors"
+                  >
                       <div className="inline-flex items-center gap-2 mb-2">
-                        <span className="inline-flex items-center justify-center w-8 h-8 rounded-lg bg-surface-alt border border-ink/10 text-ink-muted">
+                        <span className="inline-flex items-center justify-center w-8 h-8 rounded-lg bg-surface-alt border border-border text-ink-muted">
                           {WB_ICONS[Object.keys(WB_ICONS)[i] as WbIcon]}
                         </span>
                         <span className="font-semibold text-ink text-sm">{m.title}</span>
@@ -424,7 +424,7 @@ export default function Design() {
                 <div className="mt-8 h-px bg-ink/10" />
 
                 {/* 工作台界面预览 */}
-                <div className="mt-8 overflow-hidden rounded-card-lg border border-ink/10 bg-white/80">
+                <div className="mt-8 overflow-hidden rounded-card-lg border border-border bg-surface">
                   <img
                     src="/design/capcut-home.png"
                     alt="CapCut 工作台"
