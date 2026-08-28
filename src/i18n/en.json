@@ -244,8 +244,8 @@
     "live": "Live",
     "wip": "WIP",
     "visit": "Visit",
-    "closing_title": "Design is how my thinking takes shape.",
-    "closing_desc": "From money tracking and English practice to trip planning, I turn needs that recur in daily life into things that actually work. Beyond the surface, what matters is whether it feels light to use.",
+    "closing_title": "I don't just build interfaces — I build products that run.",
+    "closing_desc": "From personal tools to a workbench built around a real business, I start by understanding the thing itself — how it works, where the loops are, what can be automated — then build it by hand with code. Product, interaction, front-end, shipping: all the way through. And I ask the same question at the end: does it actually feel light to use?",
     "closing_cta": "More on GitHub"
   },
   "hero": {
