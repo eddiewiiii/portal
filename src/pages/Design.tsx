@@ -421,7 +421,7 @@ export default function Design() {
             {/* 工作台界面预览 */}
             <div className="mt-5 bg-surface border border-border rounded-card-lg overflow-hidden">
               <img
-                src="/design/capcut.webp"
+                src="/design/capcut-home.png"
                 alt="CapCut 工作台"
                 loading="lazy"
                 className="w-full h-auto object-contain"
