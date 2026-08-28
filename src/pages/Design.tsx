@@ -376,56 +376,63 @@ export default function Design() {
               </a>
             </div>
 
-            {/* 一次做成：三步走的闭环叙事 */}
-            <div className="bg-surface border border-border rounded-card-lg p-6 sm:p-8">
-              <div className="grid gap-4 md:grid-cols-3">
-                {WORKBENCH[lang].steps.map((s, i) => (
-                  <div key={i} className="flex gap-4">
-                    <div className="flex flex-col items-center pt-0.5">
-                      <span className="font-display font-black text-ink/20 text-sm leading-none">0{i + 1}</span>
-                      {i < WORKBENCH[lang].steps.length - 1 && (
-                        <span className="mt-2 w-px flex-1 bg-border" />
-                      )}
+            {/* 整块色带容器：归拢三步 / 功能 / 预览 */}
+            <div className="rounded-card-lg border border-ink/10 bg-gradient-to-br from-[#faf5eb] via-[#f3ecdd] to-[#fbf7ef] overflow-hidden">
+              <div className="px-5 sm:px-8 py-8 sm:py-10">
+                {/* 一次做成：三步走的闭环叙事 */}
+                <div className="grid gap-4 md:grid-cols-3">
+                  {WORKBENCH[lang].steps.map((s, i) => (
+                    <div key={i} className="flex gap-4">
+                      <div className="flex flex-col items-center pt-0.5">
+                        <span className="font-display font-black text-ink/20 text-sm leading-none">0{i + 1}</span>
+                        {i < WORKBENCH[lang].steps.length - 1 && (
+                          <span className="mt-2 w-px flex-1 bg-ink/10" />
+                        )}
+                      </div>
+                      <div>
+                        <h3 className="font-bold text-ink flex items-center gap-2">
+                          {s.title}
+                          {i === 1 && <RotateCw size={14} className="text-ink-faint" />}
+                          {i === 2 && <Wand2 size={14} className="text-ink-faint" />}
+                        </h3>
+                        <p className="text-sm text-ink-muted leading-relaxed mt-1.5">{s.desc}</p>
+                      </div>
                     </div>
-                    <div>
-                      <h3 className="font-bold text-ink flex items-center gap-2">
-                        {s.title}
-                        {i === 1 && <RotateCw size={14} className="text-ink-faint" />}
-                        {i === 2 && <Wand2 size={14} className="text-ink-faint" />}
-                      </h3>
-                      <p className="text-sm text-ink-muted leading-relaxed mt-1.5">{s.desc}</p>
-                    </div>
-                  </div>
-                ))}
-              </div>
-            </div>
-
-            {/* 功能拆解 */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5 mt-5">
-              {WORKBENCH[lang].modules.map((m, i) => (
-                <div
-                  key={i}
-                  className="bg-surface border border-border rounded-card-lg p-5 hover:border-ink/40 transition-colors"
-                >
-                  <div className="inline-flex items-center gap-2 mb-2">
-                    <span className="inline-flex items-center justify-center w-8 h-8 rounded-lg bg-surface-alt border border-border text-ink-muted">
-                      {WB_ICONS[Object.keys(WB_ICONS)[i] as WbIcon]}
-                    </span>
-                    <span className="font-semibold text-ink text-sm">{m.title}</span>
-                  </div>
-                  <p className="text-sm text-ink-muted leading-relaxed">{m.desc}</p>
+                  ))}
                 </div>
-              ))}
-            </div>
 
-            {/* 工作台界面预览 */}
-            <div className="mt-5 bg-surface border border-border rounded-card-lg overflow-hidden">
-              <img
-                src="/design/capcut-home.png"
-                alt="CapCut 工作台"
-                loading="lazy"
-                className="w-full h-auto object-contain"
-              />
+                <div className="mt-8 h-px bg-ink/10" />
+
+                {/* 功能拆解 */}
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5 mt-8">
+                  {WORKBENCH[lang].modules.map((m, i) => (
+                    <div
+                      key={i}
+                      className="bg-white/80 border border-ink/10 rounded-card-lg p-5 hover:border-ink/40 transition-colors"
+                    >
+                      <div className="inline-flex items-center gap-2 mb-2">
+                        <span className="inline-flex items-center justify-center w-8 h-8 rounded-lg bg-surface-alt border border-ink/10 text-ink-muted">
+                          {WB_ICONS[Object.keys(WB_ICONS)[i] as WbIcon]}
+                        </span>
+                        <span className="font-semibold text-ink text-sm">{m.title}</span>
+                      </div>
+                      <p className="text-sm text-ink-muted leading-relaxed">{m.desc}</p>
+                    </div>
+                  ))}
+                </div>
+
+                <div className="mt-8 h-px bg-ink/10" />
+
+                {/* 工作台界面预览 */}
+                <div className="mt-8 overflow-hidden rounded-card-lg border border-ink/10 bg-white/80">
+                  <img
+                    src="/design/capcut-home.png"
+                    alt="CapCut 工作台"
+                    loading="lazy"
+                    className="w-full h-auto object-contain"
+                  />
+                </div>
+              </div>
             </div>
 
             <div className="mt-5 flex items-center justify-between">
