@@ -420,19 +420,12 @@ export default function Design() {
 
             {/* 工作台界面预览 */}
             <div className="mt-5 bg-surface border border-border rounded-card-lg overflow-hidden">
-              <div className="max-w-3xl mx-auto p-4">
-                <a href="/design/capcut.webp" target="_blank" rel="noopener noreferrer" className="block">
-                  <img
-                    src="/design/capcut.webp"
-                    alt="CapCut 工作台"
-                    loading="lazy"
-                    className="w-full h-auto rounded-lg"
-                  />
-                </a>
-                <p className="text-center text-xs text-ink-faint mt-3">
-                  {lang === "zh" ? "点击图片查看高清原图" : "Click to view the full-resolution screenshot"}
-                </p>
-              </div>
+              <img
+                src="/design/capcut.webp"
+                alt="CapCut 工作台"
+                loading="lazy"
+                className="w-full h-auto object-contain"
+              />
             </div>
 
             <div className="mt-5 flex items-center justify-between">
