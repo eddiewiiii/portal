@@ -367,7 +367,7 @@ export default function Design() {
                 </p>
               </div>
               <a
-                href="http://localhost:8765"
+                href="https://panel.mcnteam.cc.cd"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="shrink-0 hidden sm:inline-flex items-center gap-1.5 text-sm font-semibold text-ink hover:gap-2 transition-all"
@@ -434,7 +434,7 @@ export default function Design() {
                   : "Business research · Product / UX · Full-stack"}
               </span>
               <a
-                href="http://localhost:8765"
+                href="https://panel.mcnteam.cc.cd"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="sm:hidden inline-flex items-center gap-1.5 text-sm font-semibold text-ink hover:gap-2 transition-all"
